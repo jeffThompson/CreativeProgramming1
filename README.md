@@ -1,10 +1,11 @@
 CREATIVE PROGRAMMING 1
 ====
 
->“The limits of my language mean the limits of my world.”
+>“The limits of my language mean the limits of my world.”  
 – Ludwig Wittgenstein
   
->“The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”
+  
+>“The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”  
 – Donald Knuth
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
