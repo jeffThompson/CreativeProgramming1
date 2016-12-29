@@ -13,6 +13,16 @@ During the course of the semester, you’ll learn how to write code for a variet
 
 Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective.
 
+***  
+
+##CONTENTS  
+This repository contains all the materials for this class, except grades, which can be found on Canvas.
+
+* **Assignments:** where all assignments will be posted, including deadlines and requirements.  
+* **Code:** all code examples shown in class, separated by week. Move to your sketchbook folder to try yourself.  
+* **Readings:** where required and optional readings will be shared.  
+* **README.md:** this file!
+
 * * *
  
 ##COURSE CALENDAR  
