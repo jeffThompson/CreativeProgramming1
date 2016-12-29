@@ -29,7 +29,7 @@ This repository contains all the materials for this class, except grades, which 
 ##COURSE CALENDAR  
 Please note this is subject to change – be sure to check this page and your email regularly.
 
-*Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol⊨ is used in the field of logic to mean that an idea semantically entails another.*
+*Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol ⊨ is used in the field of logic to mean that an idea semantically entails another.*
 
 
 ###WEEK 00: INTRODUCTION  
