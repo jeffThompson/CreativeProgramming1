@@ -4,7 +4,7 @@ CREATIVE PROGRAMMING 1
 >“The limits of my language mean the limits of my world.”  
 – Ludwig Wittgenstein
   
-  
+
 >“The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”  
 – Donald Knuth
 
@@ -29,13 +29,15 @@ This repository contains all the materials for this class, except grades, which 
 ##COURSE CALENDAR  
 Please note this is subject to change – be sure to check this page and your email regularly.
 
+*Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol⊨ is used in the field of logic to mean that an idea semantically entails another.*
+
 
 ###WEEK 00: INTRODUCTION  
 **In class**  
 Hello, introductions and syllabus, programming a person to sit in a chair
 
 **Reading**  
-“Alan Kay’s Universal Machine” from Software Takes Command (Manovich)
+“Alan Kay’s Universal Machine” from *Software Takes Command* (Manovich)
 
 **Homework**  
 Install Processing
@@ -74,7 +76,7 @@ Fractal Exploration
 Conditionals, strings, fonts and text, exporting video files
 
 **Reading**  
-Excerpts from Coding Freedom (Coleman), Debian Constitution
+Excerpts from *Coding Freedom* (Coleman), *Debian Constitution*
 
 **Homework**  
 Three Clocks
