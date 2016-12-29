@@ -3,7 +3,7 @@ CREATIVE PROGRAMMING 1
 
 >“The limits of my language mean the limits of my world.”
 – Ludwig Wittgenstein
-
+  
 >“The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”
 – Donald Knuth
 
@@ -26,7 +26,7 @@ This repository contains all the materials for this class, except grades, which 
 * * *
  
 ##COURSE CALENDAR  
-Please note this is subject to change – be sure to check this page and your email regularly. Readings are listed for the days they are due.
+Please note this is subject to change – be sure to check this page and your email regularly.
 
 
 ###WEEK 00: INTRODUCTION  
