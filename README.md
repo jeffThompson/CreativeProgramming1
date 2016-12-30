@@ -160,7 +160,7 @@ Rough Final Project prototype
 
 ###WEEK 12: INTERACTION 3  
 **In class**  
-Gravity and physics, simulating motion, basics of collision detection
+Gravity and physics, simulating motion
 
 **Mini project**  
 Finish Digital Fireworks
