@@ -28,7 +28,7 @@ Please note this is subject to change – be sure to check this page and your em
 *Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol ⊨ is used in the field of logic to mean that an idea semantically entails another.*
 
 
-###WEEK 00: INTRODUCTION  
+###[WEEK 00: INTRODUCTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
 **In class**  
 Hello, introductions and syllabus, programming a person to sit in a chair
 
