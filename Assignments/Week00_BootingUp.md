@@ -42,4 +42,19 @@ No problem? Try these challenges:
 * How could your robot select a specific chair from a whole room of chairs?  
 * Can you create a specific human chair-sitting robot syntax for your commands?  
 
+###PROJECTS SHOWN  
+(Images and videos are in `Slides/Week00` if you want to check them out again)  
+
+* Edward Pickering's human computers doing astronomical calculations  
+* Census workers using Hollerith's punch-card system in 1890  
+* A variety of mechanical calculators (including a beautiful Brunsviga model)  
+* Workers at the Mathematical Tables Projects as part of the WPA  
+* Mechanical analog "fire control" computers  
+* Vannevar Bush's Memex machine  
+* Douglas Englebart's "Mother of All Demos" from 1968 ([watch all 100 minutes of it here](https://www.youtube.com/watch?v=yJDv-zdhzMY))  
+* Donald Sherman ordering a pizza through a computer in 1974  
+* The 2,793-page IEEE wifi spec  
+* Deep Dream and style transfer  
+
 *Top: a screenshot of the the [Xerox Alto operating system](https://en.wikipedia.org/wiki/Xerox_Alto), developed around the time of Alan Kay's work there.*
+
