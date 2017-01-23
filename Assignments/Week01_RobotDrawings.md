@@ -3,7 +3,7 @@
 ROBOT DRAWINGS
 ====
 
-###DUE: TUESDAY, JANUARY 31
+###DUE: TUESDAY, FEBRUARY 7
 
 Using the code basics you learned today, your assignment is to generate **one drawing of a robot using only code**. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels.**
 
