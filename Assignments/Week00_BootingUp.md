@@ -15,7 +15,7 @@ Please:
 ###READING  
 Also for next week, please read the selection from Lev Manovich's book *Software Takes Command*. You can find the PDF in the `Readings` folder, which is where all readings this semester will be located.
 
-When done, please write up at least two questions, provocations, or reflections on the reading. Create a new (["Issue"](https://github.com/jeffThompson/CreativeProgramming1/issues/new)) with the title `{Your Name}: Manovich Response`. Please also bring your responses to class, ready for a short discussion.  
+When done, please write up at least two questions, provocations, or reflections on the reading. Create a new ["Issue"](https://github.com/jeffThompson/CreativeProgramming1/issues/new) with the title `{Your Name}: Manovich Response`. Please also bring your responses to class, ready for a short discussion.  
 
 *Above: a screenshot of the the [Xerox Alto operating system](https://en.wikipedia.org/wiki/Xerox_Alto), developed around the time of Alan Kay's work there.*
 
