@@ -32,6 +32,7 @@ Today, your task is to write a set of instructions (a program) that instructs a 
 The robo-person interprets the instructions exactly how they're written, so be specific! Try thinking about when a certain action should start or stop, how to know if something is successful, and what to do if something goes wrong.
 
 There are two goals here:  
+
 1. To come up with good, flexible instructions that can direct your robo-person to their chair.  
 2. To develop your program iteratively, meaning write and test small pieces, make changes, and repeat the process. This habit will make writing real code much easier later.  
 
