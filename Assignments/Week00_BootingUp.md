@@ -3,6 +3,9 @@
 BOOTING UP
 ====
 
+>“The limits of my language mean the limits of my world.”
+– Ludwig Wittgenstein
+
 ###DUE: TUESDAY, JANUARY 31
 This week, we have to "boot up" a few things before we can start coding.
 
