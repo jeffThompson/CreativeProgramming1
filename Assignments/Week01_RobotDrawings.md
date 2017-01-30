@@ -5,7 +5,7 @@ ROBOT DRAWINGS
 
 ###DUE: TUESDAY, FEBRUARY 7
 
-Using the code basics you learned today, your assignment is to generate **one drawing of a robot using only code**. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels.**
+Using the code basics you learned today, your assignment is to **generate one drawing of a robot using only code.** Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels, and exported as a PNG file.**
 
 The basic structure of your sketch will be:
 
@@ -35,7 +35,9 @@ To turn in your project, zip your sketch's folder (with the code and png file in
 
 Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class. In class next week, we'll run the code and look at everyone's robots together.
 
-![An example robot, drawn with code](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01/OscilloscopeCamera-1.jpg)
+![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01/OscilloscopeCamera-1.jpg)
+
+*How people used to "export" images from code – taking a photo of an oscilloscope screen*
 
 ###PROJECTS/ARTISTS SHOWN  
 
@@ -43,6 +45,7 @@ Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of
 * *The Incredible Machine: Applications, Computer Graphics, Look at Future Uses* from Bell Laboratories in the 1960s, including lots of examples of input and output ([vide](https://www.youtube.com/watch?v=r18i-uR6BD4))  
 * Programming by [punchcard](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)  
 * John Whitney's animation [*Catalog*](https://www.youtube.com/watch?v=TbV7loKp69s), created in 1966 as a record of the many visual effects he was able to create with the computer  
+* Wall drawings by artist Sol Lewitt, completed from written instructions  
 * Before printers, artists like John Whitney would output their work to CRT screens and photograph them (for animations, frame-by-frame) using devices like above  
 
 ###GRADING RUBRIC  
