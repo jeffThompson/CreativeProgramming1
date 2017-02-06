@@ -11,18 +11,20 @@ One of the things computers are very good at is repetitious tasks: just the act 
 
 Want to see what this process might have looked like in 1984? See [this article in *Compute! Gazette* issue 13](https://archive.org/stream/1984-07-computegazette/Compute_Gazette_Issue_13_1984_Jul#page/n85/mode/2up) on page 83.
 
+*Above: a "Nine Patch" pattern quilt by Barabara Yoder, 1920*  
+
 ###STRETCH GOALS  
 Try adding these elements to your quilt:
 
 * Can you add a decorative border around your quilt?  
-* Can you add an option to your functions to change the colors within the block? (Hint: you could pass colors as arguments using the `color` variable type)  
+* Can you add an option to your functions to change the colors within the block? (Hint: you could pass colors as arguments using the `color` variable type.)  
 * Can you nest functions to generate larger blocks, which get repeated across the quilt, perhaps even rotated?  
 * Add ["quilting"](https://en.wikipedia.org/wiki/Quilting) to your finished image (quilting is decorative stitching that is over the top of the pieced pattern)  
 
 ###RESOURCES  
 * The [graph paper](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project  
 * Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
-* The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse  
+* The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
 * A wonderful video documenting the Met Museum's [re-created Moroccan courtyard](https://www.youtube.com/watch?v=Og6cTlwBTrk) (which you can go see IRL, too!)  
 * Read more about [Girih tiles](https://en.wikipedia.org/wiki/Girih_tiles), used in Islamic architecture  
 * And if you want to get mathier, read about [aperiodic tiling](https://en.wikipedia.org/wiki/Aperiodic_tiling), [Penrose tiles](https://en.wikipedia.org/wiki/Penrose_tiling), and [aperiodic sets of tiles](https://en.wikipedia.org/wiki/List_of_aperiodic_sets_of_tiles)  
