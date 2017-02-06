@@ -40,16 +40,16 @@ Install Processing
 
 \- \- \-
 
-###WEEK 01: DRAWING && COORDINATE SYSTEMS  
+###[WEEK 01: DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
 **In class**  
-Creating sketches, “Hello World,” RGB color, drawing shapes, fill and stroke, saving images, getting help
+Creating sketches, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help
 
 **Homework**  
 Drawings of Robots
 
 \- \- \-
 
-###WEEK 02: ITERATION && LOOPS  
+###[WEEK 02: ITERATION && LOOPS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md) 
 **In class**  
 For loops, nested loops, driving parameters with loops, push/popMatrix(), creating functions, historical quilt research
 
