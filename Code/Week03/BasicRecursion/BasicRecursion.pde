@@ -10,7 +10,12 @@ condition is met and the function stops.
 
 A recursive function requires:
 + An initial value(s)
-+ An exit condition
++ An exit condition (called a "base case")
+
+Lots more on the topic of recursion can be found here:
+https://en.wikipedia.org/wiki/Recursion_(computer_science)
+https://www.khanacademy.org/computing/computer-science/algorithms/
+recursive-algorithms/a/properties-of-recursive-algorithms
 
 CHALLENGES:
 + Try changing the code that updates x in the recursive
