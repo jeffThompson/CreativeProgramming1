@@ -17,8 +17,7 @@ void setup() {
   
   // we can access individual pixels by calling the
   // pixel array's indices, just like any other array,
-  // but first we have to make sure the array is up
-  // to date
+  // but first we have to make sure the array is current
   loadPixels();
   color firstPx = pixels[0];
   

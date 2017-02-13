@@ -19,6 +19,11 @@ CHALLENGES:
 float radius =    700;    // starting radius
 float minRadius = 10;     // exit condition
 
+// note that variables have "scope" – the context where they can be seen
+// variables declared above setup() are "global" and can be seen
+// throughout the sketch; variables in setup() or functions are "local"
+// and can't be seen outside the context they were defined in
+
 
 void setup() {
   size(800,800);
