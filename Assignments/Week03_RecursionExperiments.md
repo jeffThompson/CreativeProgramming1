@@ -5,7 +5,7 @@ RECURSION EXPERIMENTS
 
 ###DUE: TUESDAY, FEBRUARY 21
 
->> "To understand recursion, one must first understand recursion." – Stephen Hawking
+>"To understand recursion, one must first understand recursion." – Stephen Hawking
 
 You've now seen the visual power of recursion, capable of building intricate structures that would be impossible to code any other way. [Fractals](https://en.wikipedia.org/wiki/Fractal) are a great example: images that have a repeating pattern that is visible at every scale, a feature called "self similarity". This branching, infinitely expanding characteristic is not just mathematically useful, but also visually exciting.
 
