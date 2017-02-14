@@ -58,12 +58,12 @@ Algorithmic Quilts
 
 \- \- \-
  
-###WEEK 03: RECURSION && FRACTALS  
+###[WEEK 03: RECURSION && FRACTALS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
 **In class**  
-Creating recursive functions, Pythagoras Tree, Koch Snowflake, pixel[] and Mandelbrot Set
+Creating recursive functions, Pythagoras Tree, Sierpinski Carpet, pixel[] and Mandelbrot Set
 
 **Homework**  
-Fractal Exploration
+Recursion Experiments
 
 \- \- \-
 
