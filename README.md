@@ -67,7 +67,7 @@ Recursion Experiments
 
 \- \- \-
 
-###WEEK 04: [CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
+###[WEEK 04: CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
 **In class**  
 Conditionals, strings, fonts and text, exporting video files
 
