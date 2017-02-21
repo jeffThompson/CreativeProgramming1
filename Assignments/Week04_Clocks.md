@@ -9,7 +9,7 @@ This week, we've seen some basic ways of turning a static sketch into an animate
 
 Think about ways of showing time that are interesting visually, conceptually, or poetically. Your clocks don't need to be easy to read, or even useful! Consider timescale and [alternative divisions of time](https://youtu.be/At5atF4mKiU), and how you can use the built-in `hour()`, `minute()`, `second()`, and `millis()` to drive visuals onscreen. Try to push past the obvious, first ideas and into something suprising.
 
-We'll also have our first quiz next week – if you missed our study session in class, see the notes here.
+We'll also have our first quiz next week – if you missed our study session in class, see [the notes](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf).
 
 *Above: a gif of John Maeda's "12 Clocks," created in 1996-97 using his language Design By Numbers – gif via [Golan Levin](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/).*  
 
@@ -29,15 +29,15 @@ For next week, please also read:
 * The [Debian Social Contract](https://www.debian.org/social_contract) and [*What Does Free Mean?*](https://www.debian.org/intro/free)  
 * Creative Commons' [*License Considerations*](https://creativecommons.org/share-your-work/licensing-considerations/)  
 
-Optional, but you might also want to check out:  
+Optional, but you might also want to check out, most all of which are in the `Readings` folder:  
 
-* Gabriella Coleman's excellent book [*Coding Freedome*](http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) (available free online as a PDF)  
-* *Computer Lib/Dream Machines* by Ted Nelson (in the `Readings` folder)  
-* *Two Bits: The Cultural Significance of Free Software* by Christopher Kelty (also in the `Readings` folder)  
+* Gabriella Coleman's excellent book [*Coding Freedom*](http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) (available free online as a PDF)  
+* *Computer Lib/Dream Machines* by Ted Nelson  
+* *Two Bits: The Cultural Significance of Free Software* by Christopher Kelty  
 * [*The Debian Manifesto*](https://www.debian.org/doc/manuals/project-history/ap-manifesto.en.html#sA.2)  
 * Richard Stallman's [*Motives for Writing Free Software*](https://www.gnu.org/philosophy/fs-motives.html)  
 * [*Introduction to Linux: A Brief History of Linux*](http://www.tldp.org/LDP/gs/node3.html)  
-* And a few other random PDfs in this week's `Readings` folder...  
+* And a few other random PDfs, stuffed in this week's `Readings` folder...  
 
 Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and publish it as an "issue" here, like you did in the first week. Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
 
@@ -53,7 +53,7 @@ Think about how sharing code fits into your view of ownership and making money, 
 * Ali Miharbi's [*Last Time*](http://www.alimiharbi.com/work/last-time/)  
 * The Long Now Foundation's [10,000 Year Clock project](http://longnow.org/clock/)  
 * Jim Campbell's [*Untitled For The Sun*](http://www.jimcampbell.tv/portfolio/objects/untitled_for_the_sun/) and [*Cylindrical Counter Base*](http://www.jimcampbell.tv/portfolio/objects/memory_works/cyclical_counter_base/)  
-* Humans Since 1982's [*Clock Prototype, A Million Times, 288H](https://collection.cooperhewitt.org/objects/69155335/)  
+* Humans Since 1982's [*Clock Prototype, A Million Times, 288H*](https://collection.cooperhewitt.org/objects/69155335/)  
 * Studio Moniker's [*All The Minutes*](http://alltheminutes.com/)  
 * Maarten Baas' 12-hour video performance [*Sweeper's Clock*](https://www.artprize.org/64574)  
 * Mark Formanek's [*Standard Time*](http://www.standard-time.com/index_en.php)  
@@ -66,7 +66,7 @@ Think about how sharing code fits into your view of ownership and making money, 
 * Bruce Cannon's [*Ten Things I Can Count On*](TenThingsICanCountOn-BreathsLeft_BruceCannon_1997-99)  
 * Jürg Lehni's [*Flood Fill – Clock*](https://vimeo.com/16216790)  
 * Not really a clock for telling time, but Skot900's [*Four Letter Clock*](http://www.skot9000.com/four-letter-clock/) is a pretty hilarious clock hack  
-* Lots, lots more from [Golan Levin's Interactivity & Computation course](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)  
+* Lots, lots more from [Golan Levin's *Interactivity & Computation* course](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)  
 
 ###RESOURCES  
 * Alternate time bases, like [Unix epoch time](https://en.wikipedia.org/wiki/Unix_time) and CW&T's [*Time Since Launch*](http://cwandt.com/#time-since-launch)  
