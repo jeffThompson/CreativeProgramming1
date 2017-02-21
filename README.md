@@ -67,15 +67,15 @@ Recursion Experiments
 
 \- \- \-
 
-###WEEK 04: TIME  
+###WEEK 04: [CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
 **In class**  
 Conditionals, strings, fonts and text, exporting video files
 
-**Reading**  
-Excerpts from *Coding Freedom* (Coleman), *Debian Constitution*
+**Readings**  
+The *Debian Constitution* and *Debian Social Contract*, Creative Commons' *Licensing Considerations*, and *Free Software Is Even More Important Now* by Richard Stallman  
 
 **Homework**  
-Three Clocks
+Create a clock, open source response, study for [Quiz #1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf)  
 
 \- \- \-
 
