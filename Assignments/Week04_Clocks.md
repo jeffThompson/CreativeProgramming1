@@ -7,7 +7,7 @@ CLOCKS
 
 This week, we've seen some basic ways of turning a static sketch into an animated one, and in the coming weeks we'll build on this even more, going from animated to interactive. [John Maeda](https://en.wikipedia.org/wiki/John_Maeda) – an artist, designer, educator, and creator of [Design By Numbers](https://en.wikipedia.org/wiki/Design_By_Numbers) (which led to Processing) – made a series of experimental clocks (seen above) as a way of thinking about designing with code. Your assignment, inspired by Maeda's work and the other examples we looked at, is to create your own visual, non-traditional clocks using code.
 
-Think about ways of showing time that are interesting visually, conceptually, or poetically. Your clocks don't need to be easy to read, or even useful! Consider timescale and [alternative divisions of time](https://youtu.be/At5atF4mKiU), and how you can use the built-in `hour()`, `minute()`, `second()`, and `millis()` to drive visuals onscreen. Try to push past the obvious, first ideas and into something suprising.
+Think about ways of showing time that are interesting visually, conceptually, or poetically. Your clocks don't need to be easy to read, or even useful! Should they measure traditional units of time, or something personal, biological, political, or unusual? Consider timescale and [alternative divisions of time](https://youtu.be/At5atF4mKiU), and how you can use the built-in `hour()`, `minute()`, `second()`, and `millis()` to drive visuals onscreen. Try to push past the obvious, first ideas and into something suprising.
 
 We'll also have our first quiz next week – if you missed our study session in class, see [the notes](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf).
 
