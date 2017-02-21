@@ -28,8 +28,8 @@ Try adding these elements to your sketch:
 ###PROJECTS SHOWN  
 * Ian Burns' 1968 book [*Xerox #1*](http://p-dpa.tumblr.com/post/107006084937/xerox-book-1-ian-burn-1968-a-blank-sheet-of), photocopying a blank sheet of paper 100 times  
 * Alvin Lucier's [*I Am Sitting In A Room*](http://www.ubu.com/sound/lucier.html) – you can [read more about this piece](https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/), and how MoMA acquired it  
+* The amazing meme-recursion of [*Pardon me*](https://recursivelyrecursive.wordpress.com/2010/03/27/pardon-me-come-again/) (lots more info [here](http://knowyourmeme.com/memes/pardon-me))  
 * Plus lots of fractals, creatures, and GIFs  
-* The amazing meme-recursion of [*Pardon me*](https://recursivelyrecursive.wordpress.com/2010/03/27/pardon-me-come-again/)  
 
 ###RESOURCES  
 * In `Readings > Week03` you'll find a PDF of *Snowflakes*, a book from 1863 with lots of amazing drawings  
