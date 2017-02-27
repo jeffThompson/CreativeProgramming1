@@ -18,6 +18,7 @@ In addition to the app itself, you'll need two more things:
 Try adding these elements to your sketch:
 
 * How can you combine the keyboard and mouse for more complex, rich interaction? Could the basic drawing tool be modified by the keyboard in some way?  
+* Can you document your drawing app and create a Github repository for it as an open source project?  
 
 ###TURNING IN  
 Your finished drawing application sketch, at least two completed drawings made using it, and your instructions should be zipped and named `FirstnameLastname_DrawingApp` and uploaded to Canvas.

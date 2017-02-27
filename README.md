@@ -79,7 +79,7 @@ Create a clock, open source response, study for [Quiz #1](https://github.com/jef
 
 \- \- \-
 
-###WEEK 05: INTERACTION 1  
+###[WEEK 05: INTERACTION 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_DrawingApp.md)  
 (And ⊨ Open Source)
 
 **In class**  
