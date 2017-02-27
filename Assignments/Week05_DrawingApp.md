@@ -36,6 +36,7 @@ Your finished drawing application sketch, at least two completed drawings made u
 ###RESOURCES  
 
 * [Read more about A. Michael Noll's work](http://median.newmediacaucus.org/routing-mondrian-the-a-michael-noll-experiment/) in the Media-N journal  
+* Several articles on the history of interactivity and the arts in this week's `Readings` folder  
 
 ###GRADING RUBRIC  
 Your project will be graded with the following rubric:
