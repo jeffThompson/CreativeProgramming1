@@ -39,7 +39,7 @@ void draw() {
   background(0);
   
   // shift array if the mouse has moved
-  if (mouseX != pmouseX && mouseY != pmouseY) {
+  if (mouseX != pmouseX || mouseY != pmouseY) {
     for (int i=vectors.length-1; i>=1; i-=1) {    // walk backwards through array
       vectors[i] = vectors[i-1];                  // current = item from left
     }
