@@ -7,12 +7,9 @@ RANDOMNESS
 
 > "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
-This week, we've looked at how randomness can be a creative tool, both breaking the computer's determinism and taking advantage of its capacity to quickly create ([seemingly](https://en.wikipedia.org/wiki/Pseudorandomness)) random values. Your assignment this week is to explore randomness from a creative standpoint and create a PDF image that we will print on the laser-printer and hang in the hall.
+This week, we've looked at how randomness can be a creative tool, both breaking the computer's determinism and taking advantage of its capacity to quickly create ([seemingly](https://en.wikipedia.org/wiki/Pseudorandomness)) random values. Your assignment this week is to explore randomness from a creative standpoint and create a PDF image that we will laser-printer and hang in the hall.
 
-Since your code is going to generate different output every time it's run, when your sketch is done (and while working too) you'll need to run it many times and keep the best outputs. This can be exciting: removing the hand of the artist, leaving you to act as coordinator (writing code) and curator (selecting output to show).
-
-**PLEASE BRING NEXT CLASS**  
-For our next class, please bring some basic art supplies/tools, and some materials to work with. We'll be doing a project making a hypothetical physical memory storage system, so repeating objects will be especially helpful.
+Since your code is going to generate different output every time it's run, when your sketch is finished (and while working too) you'll want to run it many times and keep the best outputs. This can be exciting if not a little weird: it removes your artistic hand somewhat, leaving you to act as coordinator (writing code) and curator (selecting output to show).
 
 *Above: a detail of a video work by A. Michael Noll from the 1960s.*  
 
@@ -21,10 +18,13 @@ Try adding these elements to your sketch:
 
 * Could you use a hardware-based random number generation method (dice, coin toss, an algorithm of your own devising) to use as the `randomSeed()` every time you run your program? How could that be wrapped into the conceptual idea of your project?  
 
+###PLEASE BRING NEXT CLASS  
+For our next class, please bring some basic art supplies/tools, and some materials to work with. We'll be doing a project making a hypothetical physical memory storage system, so repeating objects will be especially helpful.
+
 ###TECHNICAL DETAILS AND TURNING IN  
 
-* Sketch should be 540x720 pixels (that's 7.5x10" * 72 pixels per inch) so we can print them with a 0.5" margin all around – either orientation is ok; you can also make your sketch larger, if the proportion is the same  
-* Your finished sketch, and two outputs you're happy with as PDF files. Should be zipped, named `FirstnameLastname_Randomness`, and uploaded to Canvas  
+* Sketch should be 540x720 pixels (that's 7.5x10" * 72 pixels per inch) so we can print them with a 0.5" margin all around. Either orientation is ok. You can also make your sketch larger, if the proportions are the same.  
+* Your finished sketch, and two outputs you're happy with as PDF files. Should be zipped, named `FirstnameLastname_Randomness`, and uploaded to Canvas.  
 
 ###PROJECTS SHOWN  
 
