@@ -42,7 +42,7 @@ void setup() {
   
   // stop recording to save the file
   endRecord();
-  exit();
+  exit();          // optional: quit when done
 }
   
   
