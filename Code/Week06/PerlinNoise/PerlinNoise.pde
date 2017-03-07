@@ -7,8 +7,8 @@ In 1983, frustrated by the "machine-like" look of randomness in
 computer graphics (like Brownian motion), Ken Perlin invented 
 the now-famous Perlin noise algorithm. It has since been used in
 countless feature films and videogames to create realistic smoke,
-clouds, and other textures. In 1997, Perlin won an Academy Award
-for the algorithm.
+clouds, and other textures (and the terrain in the game Minecraft).
+In 1997, Perlin won an Academy Award for the algorithm.
 
 We can use Perlin noise for more realistic textures, like in this
 example, but also motion – see the PerlinMotion example for more
