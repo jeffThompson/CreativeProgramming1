@@ -90,12 +90,17 @@ Drawing App
 
 \- \- \-
 
-###WEEK 06: RANDOMNESS  
+###[WEEK 06: RANDOMNESS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
 **In class**  
-random(), map() and constrain(), arrays, writing to PDF, using the pen plotter
+random(), Brownian motion, Perlin noise, random choices, writing to PDF
 
 **Homework**  
 Exploration of Randomness, get supplies for Physical Memory project
+
+\- \- \-
+
+###MARCH 13–17  
+Spring break – no class!
 
 \- \- \-
 
@@ -105,11 +110,6 @@ Historical examples of memory storage systems, ideating and prototyping new memo
 
 **Homework**  
 Physical Memory prototype, make sure Python is installed
-
-\- \- \-
-
-###MARCH 13–17  
-Spring break – no class!
 
 \- \- \-
 
