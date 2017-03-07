@@ -43,6 +43,7 @@ For our next class, please bring some basic art supplies/tools, and some materia
 * [*Kinematics Dress*](http://n-e-r-v-o-u-s.com/projects/sets/kinematics-dress/) by Nervous System  
 * The epic terrain and history-generating game [Dwarf Fortress](http://www.bay12games.com/dwarves)  
 * [*Z1FFER*](http://www.creativeapplications.net/arduino-2/z1ffer/), a hardware random number generating "shield" for the Arduino  
+* [Torrit Grey](https://www.gamblincolors.com/torrit-grey) from Gamblin Paints  
 * And [*White Noise Boutique*](http://jeffreythompson.org/white-noise-boutique.php) by Jeff Thompson (me 😊)  
 
 ###RESOURCES  
