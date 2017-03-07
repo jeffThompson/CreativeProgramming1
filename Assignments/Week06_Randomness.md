@@ -23,7 +23,7 @@ For our next class, please bring some basic art supplies/tools, and some materia
 
 ###TECHNICAL DETAILS AND TURNING IN  
 
-* Sketch should be 540x720 pixels (that's 7.5x10" * 72 pixels per inch) so we can print them with a 0.5" margin all around. Either orientation is ok. You can also make your sketch larger, if the proportions are the same.  
+* Sketch should be 1152x720 pixels (that's 16x10" * 72 pixels per inch) so we can print them on 11x17" paper with a 0.5" margin all around. Either orientation is ok. You can also make your sketch larger, if the proportions are the same.  
 * Your finished sketch, and two outputs you're happy with as PDF files. Should be zipped, named `FirstnameLastname_Randomness`, and uploaded to Canvas.  
 
 ###PROJECTS SHOWN  
