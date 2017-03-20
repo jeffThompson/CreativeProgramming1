@@ -104,7 +104,7 @@ Spring break – no class!
 
 \- \- \-
 
-###[WEEK 07: ⊨ PHYSICAL MEMORY](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week07_PhysicalMemory.md)  
+### [WEEK 07: ⊨ PHYSICAL MEMORY](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week07_PhysicalMemory.md)  
 **In class**  
 Historical examples of memory storage systems, ideating and prototyping new memory formats 
 
