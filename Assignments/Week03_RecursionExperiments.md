@@ -3,7 +3,7 @@
 RECURSION EXPERIMENTS
 ====
 
-###DUE: TUESDAY, FEBRUARY 21
+### DUE: TUESDAY, FEBRUARY 21
 
 >"To understand recursion, one must first understand recursion." – Stephen Hawking
 
@@ -19,25 +19,25 @@ Saving versions will be super helpful! Any time you start making a major change,
 
 *Above: Coral exhibits fractal-like patterns, and is intensely beautiful to boot.*  
 
-###STRETCH GOALS  
+### STRETCH GOALS  
 Try adding these elements to your sketch:
 
 * Can you apply recursive color to your image as well?  
 * Playing and sketching with code, without always understanding what it is doing, is great and artistically satisfying. But, can you unpack what your code is doing and add detailed comments to explain it?  
 
-###PROJECTS SHOWN  
+### PROJECTS SHOWN  
 * Ian Burns' 1968 book [*Xerox #1*](http://p-dpa.tumblr.com/post/107006084937/xerox-book-1-ian-burn-1968-a-blank-sheet-of), photocopying a blank sheet of paper 100 times  
 * Alvin Lucier's [*I Am Sitting In A Room*](http://www.ubu.com/sound/lucier.html) – you can [read more about this piece](https://www.moma.org/explore/inside_out/2015/01/20/collecting-alvin-luciers-i-am-sitting-in-a-room/), and how MoMA acquired it  
 * The amazing meme-recursion of [*Pardon me*](https://recursivelyrecursive.wordpress.com/2010/03/27/pardon-me-come-again/) (lots more info [here](http://knowyourmeme.com/memes/pardon-me))  
 * Plus lots of fractals, creatures, and GIFs  
 
-###RESOURCES  
+### RESOURCES  
 * In `Readings > Week03` you'll find a PDF of *Snowflakes*, a book from 1863 with lots of amazing drawings  
 * For visual inspiration, consider looking to nature for recursive patterns like ice crystals, broccoli, coral, sea urchin shells, and slime mold  
 * Some programming languages don't have any iteration (like for loops) but do everything with recursion – examples include [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29) and [Erlang](https://en.wikipedia.org/wiki/Erlang_%28programming_language%29)  
 * Read more about the history of recursion in computer science from two papers (also in the `Readings` folder)  
 
-###TURNING IN  
+### TURNING IN  
 To turn in your project, zip your sketch's folder (with the code and png file in it). To zip a folder:
 
 * Right-click the sketch folder...  
@@ -46,7 +46,7 @@ To turn in your project, zip your sketch's folder (with the code and png file in
 
 Rename to `LastnameFirstname_RECURSION.zip` and upload to Canvas before the start of class.
 
-###GRADING RUBRIC  
+### GRADING RUBRIC  
 Your project will be graded with the following rubric:
 
 **10%:** Project meets technical requirements (correct file format, naming convention, etc)  

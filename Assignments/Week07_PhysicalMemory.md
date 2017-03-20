@@ -3,7 +3,7 @@
 PHYSICAL MEMORY
 ====
 
-###DUE: TUESDAY, MARCH 28
+### DUE: TUESDAY, MARCH 28
 
 This week, we'll take a break from the computer and think about the materiality of computation. Arthur C. Clarke [famously said](https://en.wikipedia.org/wiki/Clarke%27s_three_laws) that "any sufficiently advanced technology is indistiguishable from magic." Today's computers and their components can often feel so non-physical and invisible, they start to resemble [black boxes](https://en.wikipedia.org/wiki/Black_box) that they might as well be magic. But even the tiniest piece of the computer – a single bit of memory – [has physical weight](http://physics.stackexchange.com/questions/31326/is-a-hard-drive-heavier-when-it-is-full). Older computational systems are fascinatingly physical. Punched paper cards and tubes of mercury are easy to see and hold, whereas ["the cloud"](http://noahveltman.com/internet-shape) is so ephemeral that it's easy to take for granted.
 
@@ -19,14 +19,14 @@ For next week, bring in your finished memory device – we'll have a critique a
 
 *Above: Incan ["quipu"](https://en.wikipedia.org/wiki/Quipu) or talking knots, used for storing data and keeping records.*  
 
-###STRETCH GOALS  
+### STRETCH GOALS  
 Try adding these elements to your sketch:
 
 * Can you write a spec or standard for the data format your system uses? (For extra fun, make it look like a fake document from the IEEE.)  
 * Can you make another device that can read your memory system?  
 * Rather than just be static memory (written once and not re-writable), can you make your memory device active (able to be erased and re-written many times)?  
 
-###ALSO FOR NEXT WEEK  
+### ALSO FOR NEXT WEEK  
 Next week, we'll start learning the language [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) to create a bot. This week, please check to make sure that Python is installed on your computer. To test if it's installed, you need to open the [command line](https://en.wikipedia.org/wiki/Command-line_interface).
 
 * Mac: go to `Applications > Utilities > Terminal`  
@@ -35,7 +35,7 @@ Next week, we'll start learning the language [Python](https://en.wikipedia.org/w
 
 Once you have the terminal open, type in `python` and hit return. You should get some info at the top and a prompt to start coding. Exit by typing `exit()` and hitting return. If you get an error, email me and we'll talk about how to get Python installed.
 
-###PROJECTS SHOWN  
+### PROJECTS SHOWN  
 
 * The still-used [abucus](https://en.wikipedia.org/wiki/Abacus)  
 * [Ammassalik wooden maps](https://en.wikipedia.org/wiki/Ammassalik_wooden_maps) of the Greenlandic coastline  
@@ -51,14 +51,14 @@ Once you have the terminal open, type in `python` and hit return. You should get
 * TROIKA's [*Hard-Coded Memory*](www.triangulationblog.com/2012/09/hardcoded-memory-by-troika.html#more)  
 * [Write-Only Memory](https://en.wikipedia.org/wiki/Write-only_memory_(joke)), an engineering joke/conceptual artwork  
 
-###RESOURCES  
+### RESOURCES  
 
 * Great BBC documentary on [Alan Turing](www.youtube.com/watch?v=S23yie-779k)  
 * [12-part lecture series on Turing Machines](www.youtube.com/watch?v=mPec64RUCsk) from a computer science perspective  
 * Alan Turing's paper [*Computing Machinery and Intelligence*](www.loebner.net/Prizef/TuringArticle.html) (published in "Mind" issue 59, page 433)  
 * Lots more about early computer history at the [Charles Babbage Institute](http://umedia.lib.umn.edu/taxonomy/term/695?page=2) at the University of MN, including tons of photos!  
 
-###GRADING RUBRIC  
+### GRADING RUBRIC  
 Your project will be graded with the following rubric:
 
 **10%:** Project meets technical requirements (correct file format, naming convention, etc)  

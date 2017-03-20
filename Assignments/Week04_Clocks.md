@@ -3,7 +3,7 @@
 CLOCKS
 ====
 
-###DUE: TUESDAY, FEBRUARY 28
+### DUE: TUESDAY, FEBRUARY 28
 
 This week, we've seen some basic ways of turning a static sketch into an animated one, and in the coming weeks we'll build on this even more, going from animated to interactive. [John Maeda](https://en.wikipedia.org/wiki/John_Maeda) – an artist, designer, educator, and creator of [Design By Numbers](https://en.wikipedia.org/wiki/Design_By_Numbers) (which led to Processing) – made a series of experimental clocks (seen above) as a way of thinking about designing with code. Your assignment, inspired by Maeda's work and the other examples we looked at, is to create your own visual, non-traditional clocks using code.
 
@@ -13,15 +13,15 @@ We'll also have our first quiz next week – if you missed our study session in 
 
 *Above: a gif of John Maeda's "12 Clocks," created in 1996-97 using his language Design By Numbers – gif via [Golan Levin](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/).*  
 
-###STRETCH GOALS  
+### STRETCH GOALS  
 Try adding these elements to your sketch:
 
 * Can you add boolean "flags" to your code, allowing multiple modes for your clock to take?  
 
-###TURNING IN  
+### TURNING IN  
 To turn in your project, zip your clock code and an image of the sketch running (either exported using code or as a cropped screenshot). Name it `LastnameFirstname_CLOCKS.zip` and upload to Canvas before the start of class.
 
-###READING  
+### READING  
 For next week, please also read:
 
 * Richard Stallman's [*Free Software Is Even More Important Now*](https://www.gnu.org/philosophy/free-software-even-more-important.html)  
@@ -41,7 +41,7 @@ Optional, but you might also want to check out, most all of which are in the `Re
 
 Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and publish it as an "issue" here, like you did in the first week. Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
 
-###PROJECTS SHOWN  
+### PROJECTS SHOWN  
 * John Maeda's [*12 Clocks*](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
 * Yugo Nakamura's [*Hand Drawn Clock*](https://classic.dryang.org/flash/handclock.shtml)  
 * I-S-O-P-T/Taeyoon Choi's [*Personal Timekeeper*](http://i-s-o-p-t.com/2015/07/21/CircleofMoment/)  
@@ -68,12 +68,12 @@ Think about how sharing code fits into your view of ownership and making money, 
 * Not really a clock for telling time, but Skot900's [*Four Letter Clock*](http://www.skot9000.com/four-letter-clock/) is a pretty hilarious clock hack  
 * Lots, lots more from [Golan Levin's *Interactivity & Computation* course](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)  
 
-###RESOURCES  
+### RESOURCES  
 * Alternate time bases, like [Unix epoch time](https://en.wikipedia.org/wiki/Unix_time) and CW&T's [*Time Since Launch*](http://cwandt.com/#time-since-launch)  
 * NIST's [time and frequency division](https://www.nist.gov/pml/time-and-frequency-division), and [time.gov](http://www.time.gov/) which accounts for network delay (and is a terrible website)  
 * Not into hours and minutes? What about [decimal time](https://en.wikipedia.org/wiki/Decimal_time)?  
 
-###GRADING RUBRIC  
+### GRADING RUBRIC  
 Your project will be graded with the following rubric:
 
 **10%:** Project meets technical requirements (correct file format, naming convention, etc)  

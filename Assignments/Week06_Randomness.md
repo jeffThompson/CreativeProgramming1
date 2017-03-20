@@ -3,7 +3,7 @@
 RANDOMNESS
 ====
 
-###DUE: TUESDAY, MARCH 21
+### DUE: TUESDAY, MARCH 21
 
 > "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
@@ -13,20 +13,20 @@ Since your code is going to generate different output every time it's run, when 
 
 *Above: a detail of a video work by A. Michael Noll from the 1960s.*  
 
-###STRETCH GOALS  
+### STRETCH GOALS  
 Try adding these elements to your sketch:
 
 * Could you use a hardware-based random number generation method (dice, coin toss, an algorithm of your own devising) to use as the `randomSeed()` every time you run your program? How could that be wrapped into the conceptual idea of your project?  
 
-###PLEASE BRING NEXT CLASS  
+### PLEASE BRING NEXT CLASS  
 For our next class, please bring some basic art supplies/tools, and some materials to work with. We'll be doing a project making a hypothetical physical memory storage system, so repeating objects will be especially helpful.
 
-###TECHNICAL DETAILS AND TURNING IN  
+### TECHNICAL DETAILS AND TURNING IN  
 
 * Sketch should be 1152x720 pixels (that's 16x10" * 72 pixels per inch) so we can print them on 11x17" paper with a 0.5" margin all around. Either orientation is ok. You can also make your sketch larger, if the proportions are the same.  
 * Your finished sketch, and two outputs you're happy with as PDF files. Should be zipped, named `FirstnameLastname_Randomness`, and uploaded to Canvas.  
 
-###PROJECTS SHOWN  
+### PROJECTS SHOWN  
 
 * [Exquisite corpse drawings](https://en.wikipedia.org/wiki/Exquisite_corpse), for example [the ones by Jake and Dinos Chapman](http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78458)  
 * Raymond Queneau's [*Hundred Thousand Billion Poems*](http://www.leoalmanac.org/vol17-no2-hundred-thousand-billion-fingers/)  
@@ -46,14 +46,14 @@ For our next class, please bring some basic art supplies/tools, and some materia
 * [Torrit Grey](https://www.gamblincolors.com/torrit-grey) from Gamblin Paints  
 * And [*White Noise Boutique*](http://jeffreythompson.org/white-noise-boutique.php) by Jeff Thompson (me 😊)  
 
-###RESOURCES  
+### RESOURCES  
 * Some historical random number generating methods include [dice](https://en.wikipedia.org/wiki/Dice), [yarrow sticks](https://en.wikipedia.org/wiki/I_Ching_divination), [radio noise](https://www.random.org/history/), [lava lamps](https://en.wikipedia.org/wiki/Lavarand), [hard-drive entropy](https://en.wikipedia.org/wiki/Entropy_(computing)), and [various algorithms](https://en.wikipedia.org/wiki/Mersenne_Twister) (computed by hand or computer)  
 * More about the history of [Random.org](https://www.random.org/history/) and their [intro to random numbers](https://www.random.org/randomness/)  
 * We can also test for randomness using a variety of mathematical and statistical tests – the [Dieharder suite](https://www.phy.duke.edu/~rgb/General/dieharder.php) is a classic  
 * Nerd out in [this highly, highly detailed video](https://www.youtube.com/watch?v=q15yNrJHOak) on random number generation in Super Mario World  
 * If you have a week free to hide out a read a (giant) novel about randomness, Neal Stephenson's [*Cryptonomicon*](https://en.wikipedia.org/wiki/Cryptonomicon) is excellent  
 
-###GRADING RUBRIC  
+### GRADING RUBRIC  
 Your project will be graded with the following rubric:
 
 **10%:** Project meets technical requirements (correct file format, naming convention, etc)  

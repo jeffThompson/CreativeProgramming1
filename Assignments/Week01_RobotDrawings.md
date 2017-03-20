@@ -3,7 +3,7 @@
 ROBOT DRAWINGS
 ====
 
-###DUE: TUESDAY, FEBRUARY 7
+### DUE: TUESDAY, FEBRUARY 7
 
 Using the code basics you learned today, your assignment is to **generate one drawing of a robot using only code.** Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels, and exported as a PNG file.**
 
@@ -20,13 +20,13 @@ The basic structure of your sketch will be:
 
 *If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions.*
 
-###STRETCH GOALS  
+### STRETCH GOALS  
 No problem drawing your robot? Try these challenges:
 
 * Make your image resizable using `width` and `height` instead of set positions  
 * Try adding shading to your robot, and/or drawing in perspective!
 
-###TURNING IN  
+### TURNING IN  
 To turn in your project, zip your sketch's folder (with the code and png file in it). To zip a folder:
 
 * Right-click the sketch folder...  
@@ -39,7 +39,7 @@ Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of
 
 *How people used to "export" images from code – taking a photo of an oscilloscope screen*
 
-###PROJECTS/ARTISTS SHOWN  
+### PROJECTS/ARTISTS SHOWN  
 
 * Ivan Sutherland's [*Sketchpad*](https://en.wikipedia.org/wiki/Sketchpad) system ([video](https://youtu.be/USyoT_Ha_bA?t=3m30s))  
 * *The Incredible Machine: Applications, Computer Graphics, Look at Future Uses* from Bell Laboratories in the 1960s, including lots of examples of input and output ([video](https://www.youtube.com/watch?v=r18i-uR6BD4))  
@@ -48,7 +48,7 @@ Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of
 * Wall drawings by artist Sol Lewitt, completed from written instructions  
 * Before printers, artists like John Whitney would output their work to CRT screens and photograph them (for animations, frame-by-frame) using devices like above  
 
-###GRADING RUBRIC  
+### GRADING RUBRIC  
 Your project (and most upcoming ones) will be graded with the following rubric:
 
 **10%:** Project meets technical requirements (correct file format, naming convention, etc)  

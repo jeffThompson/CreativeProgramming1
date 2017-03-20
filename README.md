@@ -12,7 +12,7 @@ Along the way, we’ll also look at historical and contemporary figures in the a
 
 ***  
 
-##CONTENTS  
+## CONTENTS  
 This repository contains all the materials for this class, except grades, which can be found on Canvas.
 
 * **Assignments:** where all assignments will be posted, including deadlines and requirements.  
@@ -22,13 +22,13 @@ This repository contains all the materials for this class, except grades, which 
 
 * * *
  
-##COURSE CALENDAR  
+## COURSE CALENDAR  
 Please note this is subject to change – be sure to check this page and your email regularly.
 
 *Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol ⊨ is used in the field of logic to mean that an idea semantically entails another.*
 
 
-###[WEEK 00: INTRODUCTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
+### [WEEK 00: INTRODUCTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
 **In class**  
 Hello, introductions and syllabus, programming a person to sit in a chair
 
@@ -40,7 +40,7 @@ Install Processing
 
 \- \- \-
 
-###[WEEK 01: DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
+### [WEEK 01: DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
 **In class**  
 Creating sketches, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help
 
@@ -49,7 +49,7 @@ Drawings of Robots
 
 \- \- \-
 
-###[WEEK 02: ITERATION && LOOPS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md) 
+### [WEEK 02: ITERATION && LOOPS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md) 
 **In class**  
 For loops, nested loops, driving parameters with loops, push/popMatrix(), creating functions, historical quilt research
 
@@ -58,7 +58,7 @@ Algorithmic Quilts
 
 \- \- \-
  
-###[WEEK 03: RECURSION && FRACTALS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
+### [WEEK 03: RECURSION && FRACTALS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
 **In class**  
 Creating recursive functions, Pythagoras Tree, Sierpinski Carpet, pixel[] and Mandelbrot Set
 
@@ -67,7 +67,7 @@ Recursion Experiments
 
 \- \- \-
 
-###[WEEK 04: CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
+### [WEEK 04: CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
 **In class**  
 Conditionals, strings, fonts and text, exporting video files
 
@@ -79,7 +79,7 @@ Create a clock, open source response, study for [Quiz #1](https://github.com/jef
 
 \- \- \-
 
-###[WEEK 05: INTERACTION 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_DrawingApp.md)  
+### [WEEK 05: INTERACTION 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_DrawingApp.md)  
 (And ⊨ Open Source)
 
 **In class**  
@@ -90,7 +90,7 @@ Drawing App
 
 \- \- \-
 
-###[WEEK 06: RANDOMNESS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
+### [WEEK 06: RANDOMNESS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
 **In class**  
 random(), Brownian motion, Perlin noise, random choices, writing to PDF
 
@@ -99,7 +99,7 @@ Exploration of Randomness, get supplies for Physical Memory project
 
 \- \- \-
 
-###MARCH 13–17  
+### MARCH 13–17  
 Spring break – no class!
 
 \- \- \-
@@ -113,7 +113,7 @@ Physical Memory prototype, make sure Python is installed
 
 \- \- \-
 
-###WEEK 08: LANGUAGE 1  
+### WEEK 08: LANGUAGE 1  
 **In class**  
 Creating a Python script, printing “Hello World,” running a script in the Terminal, loops and conditionals, lists, cleaning text, templating strings, saving to file 
 
@@ -122,7 +122,7 @@ Bot (Part 1), create a Twitter account
 
 \- \- \-
 
-###WEEK 09: LANGUAGE 2  
+### WEEK 09: LANGUAGE 2  
 (And ⊨ Machine Learning)
 
 **In class**  
@@ -133,7 +133,7 @@ Bot (Part 2), train a neural net on found text
  
 \- \- \-
 
-###WEEK 10: ⊨ CRITICAL CODE STUDIES  
+### WEEK 10: ⊨ CRITICAL CODE STUDIES  
 **In class**  
 Reading code as text, porting code as critical research
 
@@ -142,7 +142,7 @@ Critical Code Analysis, Final Project proposal
 
 \- \- \-
 
-###WEEK 11: INTERACTION 2  
+### WEEK 11: INTERACTION 2  
 **In class**  
 Creating classes, ArrayLists, particle systems
 
@@ -154,7 +154,7 @@ Rough Final Project prototype
 
 \- \- \-
 
-###WEEK 12: INTERACTION 3  
+### WEEK 12: INTERACTION 3  
 **In class**  
 Gravity and physics, simulating motion
 
@@ -166,7 +166,7 @@ Continue working on Final Project
 
 \- \- \-
 
-###WEEK 13: WORK DAY  
+### WEEK 13: WORK DAY  
 **In class**  
 Work on Final Projects, get help as needed
 
@@ -175,7 +175,7 @@ Finish Final Project
 
 \- \- \-
 
-###EXAM PERIOD: FINAL CRITIQUE  
+### EXAM PERIOD: FINAL CRITIQUE  
 Date TBD, please don’t book travel until after exam period ends!
 
 **In class**  
