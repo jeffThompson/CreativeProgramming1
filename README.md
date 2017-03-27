@@ -113,7 +113,7 @@ Physical Memory prototype, make sure Python is installed
 
 \- \- \-
 
-### WEEK 08: LANGUAGE 1  
+### [WEEK 08: LANGUAGE 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week08_Language.md)  
 **In class**  
 Creating a Python script, printing “Hello World,” running a script in the Terminal, loops and conditionals, lists, cleaning text, templating strings, saving to file 
 
