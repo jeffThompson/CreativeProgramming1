@@ -12,7 +12,8 @@ TWITTER DEV ACCOUNT SETUP
 To get your new bot account (or your personal one) set up for
 Twitter, see these instructions:
 
-	
+	https://github.com/jeffThompson/CreativeProgramming1/blob/
+	master/Code/Week08/TwitterDevAccountSetup.md
 
 REQUIRED LIBRARY
 For this project, you'll need the Twitter library, available here:
@@ -59,10 +60,14 @@ place =  random.choice(places)
 tweet = 'The ' + animal + ' ' + verb + ' through the ' + place + '.'
 print tweet
 
+# save your tweet for posterity
+with open('Tweets.txt', 'a') as f:		# 'a' = append to the file, not overwrite everything :)
+	f.write(tweet + '\n')				# be sure to add a line break so your tweets don't get mashed together
+
 # connect to Twitter with our OAuth settings
 api = twitter.Api(consumer_key = consumer_key, consumer_secret = consumer_secret, access_token_key = oauth_token, access_token_secret = oauth_secret)
 
-# # post tweet
+# post tweet
 print 'posting tweet...'
 try:
 	status = api.PostUpdate(tweet)	# try posting
