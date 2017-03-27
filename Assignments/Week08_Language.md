@@ -30,7 +30,8 @@ Once your code is ready, wrap it in a function and call that function 100 times 
 
     def generate_tweet():
         # your bot code goes here
-        return 'your awesome tweet'
+        tweet = 'something really awesome'
+        return tweet
 
     for i in range(0, 100):
         tweet = generate_tweet()
