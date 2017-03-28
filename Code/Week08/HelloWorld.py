@@ -29,3 +29,5 @@ RUNNING YOUR SCRIPT
 
 print 'Hello, world!'
 
+# note no parentheses or semicolons, either!
+

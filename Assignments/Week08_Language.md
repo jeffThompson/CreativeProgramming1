@@ -7,7 +7,18 @@ LANGUAGE
 
 Bots create and post text and images, interact with people, and autonomously do other creative work, often repetitively and on social media platforms like Twitter. The idea of bots is relatively new (even its antecedent *robot* [only dates to the 1920s](http://www.npr.org/2011/04/22/135634400/science-diction-the-origin-of-the-word-robot)) and while there is a lot of discussion about bots in Silicon Valley right now, there are many people that build bots for artistic and critical purposes.
 
-Over the next two weeks, you'll learn the basics of the programming language Python (which makes working with text much, much nicer than Processing, and works well for automated generation) and ultimately build your own bot that posts to Twitter.
+Over the next two weeks, you'll learn the basics of the programming language [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (which makes working with text much, much nicer than Processing, and works well for automated generation) and ultimately build your own bot that posts to Twitter.
+
+**ASIDE: LANGUAGES EMBED VALUES**  
+Once you get used to it, Python code reads very much like sentences. This is, in part, by design – from its beginnings in the early 1990s, Python was meant to be very clear, as opposed to many other common languages at the time (like C++). In fact, these are outlined in the [*Zen of Python*](https://en.wikipedia.org/wiki/Zen_of_Python) document (among many others):
+
+* Beautiful is better than ugly  
+* Explicit is better than implicit  
+* Simple is better than complex  
+* Complex is better than complicated  
+* Readability counts  
+
+Try to think about these values as you're writing Python code this week. How does it feel different than writing code in Java (Processing), or any other language you've used?
 
 *Above: a screenshot of the classic bot [@everyword](https://twitter.com/everyword) by Allison Parrish.*  
 
@@ -58,10 +69,11 @@ Please also sign up for a Twitter account (it can be private) for your bot. If y
 
 ### RESOURCES  
 
+* If you're new to the command line, try [these common commands for Mac/Linux](http://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/) and [these for Windows](https://commandwindows.com/command3.htm)  
 * There are lots of great resources for learning Python, including free ones like [learnpython.org](https://www.learnpython.org/) and [*Learn Python The Hard Way*](https://learnpythonthehardway.org/book/), and the always-good books from O'Reilly like [*Learning Python*](http://shop.oreilly.com/product/0636920028154.do)  
-* If you have particular questions, try searching [Stack Overflow](https://stackoverflow.com)  
+* If you have particular Python questions, try searching [Stack Overflow](https://stackoverflow.com)  
 * Want your bot to run automatically and without having to pay for hosting? I've written [this tutorial on running your bots using a Raspberry Pi](http://www.jeffreythompson.org/blog/2014/08/31/setting-up-raspberry-pi-to-run-bots/)  
-* Lots of regular expressions tutorials and info are out there (and a few are listed in the `Stretch Goals` section above).  
+* Lots of regular expressions tutorials and info are out there (and a few are listed in the `Stretch Goals` section above) – great to try if you want a challenge  
 
 ### GRADING RUBRIC  
 Your project will be graded with the following rubric:

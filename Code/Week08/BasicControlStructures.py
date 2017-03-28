@@ -7,6 +7,29 @@ If statements and for loops are important structures across
 almost all programming languages. Below are some examples
 of how these are implemented in Python.
 
+** NOTE! The one thing that can take getting used to in 
+Python is spacing. Unlike in Processing, where you can
+have as much whitespace as you want, Python uses indenting
+to define code block, like curly-brackets {} do in other
+langauges. Use either two or four spaces to indent (but
+be consistent). Python also uses colons (:) instead of
+curly brackets for conditionals, for loops, and defining
+functions.
+
+This if statement in Processing:
+
+	if (x > 2) {
+	  println("X is greater than 2!");
+	}
+
+Looks like this in Python:
+
+	if x > 2:
+		print 'I am indented 4 spaces (and x is greater than 2)'
+
+It takes a bit of getting used to, so don't be surprised if
+you get errors for a while.
+
 '''
 
 # note that variables in Python don't have "types"!

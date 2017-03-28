@@ -12,9 +12,8 @@ again makes this easier than many other languages.
 from random import choice
 
 # some random names
-first_names = [ 'James', 'John', 'Robert', 'Michael', 'Mary', 'William', 'David', 'Richard', 'Charles', 'Joseph', 'Thomas', 'Patricia', 'Christopher', 'Linda', 'Barbara', 'Daniel', 'Paul', 'Mark', 'Elizabeth', 'Donald', 'Jennifer', 'George', 'Maria', 'Kenneth', 'Susan', 'Steven', 'Edward', 'Margaret', 'Brian', 'Ronald' ]
-last_names = [ 'Smith', 'Johnson', 'Williams', 'Jones', 'Brown', 'Davis', 'Miller', 'Wilson', 
-'Moore', 'Taylor' ]
+first_names = [ 'Bob', 'Linda', 'Tina', 'Gene', 'Louise', 'Teddy', 'Mort', 'Jimmy', 'Ollie', 'Andy', 'Phillip', 'Chuck', 'Pam', 'Edith', 'Harold', 'Calvin' ]
+last_names = [ 'Belcher', 'Francisco', 'Pesto', 'Frond', 'Charles', 'Carwinkle', 'Fishoeder' ]
 
 # create a random name
 first_name =  choice(first_names)
