@@ -10,7 +10,7 @@ Bots create and post text and images, interact with people, and autonomously do 
 Over the next two weeks, you'll learn the basics of the programming language [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) (which makes working with text much, much nicer than Processing, and works well for automated generation) and ultimately build your own bot that posts to Twitter.
 
 **ASIDE: LANGUAGES EMBED VALUES**  
-Once you get used to it, Python code reads very much like sentences. This is, in part, by design – from its beginnings in the early 1990s, Python was meant to be very clear, as opposed to many other common languages at the time (like C++). In fact, these are outlined in the [*Zen of Python*](https://en.wikipedia.org/wiki/Zen_of_Python) document (among many others):
+Once you get used to it, Python code reads very much like sentences. This is, in part, by design – from its beginnings in the early 1990s, Python was meant to be as clear and concise as possible, as opposed to many other common languages at the time (like C++). In fact, these and similar values are outlined in the [*Zen of Python*](https://en.wikipedia.org/wiki/Zen_of_Python) document. For example:
 
 * Beautiful is better than ugly  
 * Explicit is better than implicit  
