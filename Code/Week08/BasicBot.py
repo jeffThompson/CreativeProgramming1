@@ -46,10 +46,10 @@ verbs =   [ 'waltzed', 'ran', 'crept', 'soared', 'swam' ]
 places =  [ 'hotel', 'park', 'Louvre', 'sun' ]
 
 # OAuth settings for the Twitter API
-consumer_key =    'b66fQGVdhmwSzmqONJnzukRlw'
-consumer_secret = '9W1UAiVP1h2T5du4wX4qgydeVYix6SYdTtWYdr06Ex749xD1ve'
-oauth_token =     '4181522602-8GwjvT37UqeogD4Nx2SqEwY1OJ5NOqbBywdm3sn'
-oauth_secret =    'CNzIusmhFJjf3AyXDcXAf0s2Q9PDAZfGQbZr8zQPGYW9x'
+consumer_key =    'xxxx'
+consumer_secret = 'xxxx'
+oauth_token =     'xxxx'
+oauth_secret =    'xxxx'
 
 # pick some random words for our tweet
 animal = random.choice(animals)

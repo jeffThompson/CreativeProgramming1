@@ -10,8 +10,7 @@ doesn't have variable types, the format for a function is simpler, too.
 		new_val = arg * 4
 		return new_val
 
-One catch! Functions need to be above any code that calls them, or you'll
-get an error.
+One catch! Functions need to be above any code that calls them, or you'll get an error.
 
 '''
 
