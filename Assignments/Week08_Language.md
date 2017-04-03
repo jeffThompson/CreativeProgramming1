@@ -29,6 +29,18 @@ Try adding these elements to your bot:
 * Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?  
 * Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html) and [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/).  
 
+### FOR TUESDAY, APRIL 10  
+For next week, your assignment is to finish your bot! Get your OAuth settings and run some test posts. Once all done, post a bunch of tweets and assemble your documentation.
+
+To turn in:  
+
+* Create a folder called `LastnameFirstname_BOT`, in it put...
+* Your top-30-tweet file from last week  
+* Five screenshots of favorite tweets from your bot  
+* Your bot's Python code
+
+Please also read the excerpt from *10 PRINT CHR$*, found in the `Readings` folder. We'll talk about Critical Code Studies and analyzing code. Write up two responses, questions, or provocations and post them as an issue on this repository under the title `Firstname Lastname: 10 PRINT CHR$`. (Optionally, also check out the amazing collection *Software Studies: A Lexicon*, also in the `Readings` folder.)
+
 ### FOR TUESDAY, APRIL 4  
 For next week, you'll start building the basics of your bot. That means:
 
@@ -66,6 +78,7 @@ Please also sign up for a Twitter account (it can be private) for your bot. If y
 * Description-generating bots, like [@spacetravelbot](https://twitter.com/spacetravelbot), [@str_voyage](https://twitter.com/str_voyage), [@thanetguide](https://twitter.com/thanetguide), [@a_travel_bot](https://twitter.com/a_travel_bot), [@cant_miss_it](https://twitter.com/cant_miss_it), and [@gardensbritish](https://twitter.com/gardensbritish)  
 * Lots more emoji-based landscape bots via [this list](https://twitter.com/muffinista/lists/tableau-ji)  
 * My project [@artassignmentbot](https://twitter.com/artassignbot) and the real-life version [Bot Art School](http://botartschool.com/)  
+* Tons more examples in Elizaveta Pritychenko's 2014 *Twitter Bot Encyclopedia*, found in this week's `Readings` folder  
 
 ### RESOURCES  
 

@@ -123,13 +123,15 @@ Bot (Part 1), create a Twitter account
 \- \- \-
 
 ### WEEK 09: LANGUAGE 2  
-(And ⊨ Machine Learning)
 
 **In class**  
-Installing Python modules, creating an app on Twitter, OAuth, posting to Twitter automatically, RPi bot sever demo, super basic intro to machine learning and how to train a text-generating network
+Installing Python modules, creating an app on Twitter, OAuth, posting to Twitter automatically, RPi bot sever demo
 
 **Homework**  
-Bot (Part 2), train a neural net on found text
+Bot (Part 2)
+
+**Reading**  
+Selection from *10 PRINT CHR$* (Montfort, et al)  
  
 \- \- \-
 
@@ -138,40 +140,34 @@ Bot (Part 2), train a neural net on found text
 Reading code as text, porting code as critical research
 
 **Homework**  
-Critical Code Analysis, Final Project proposal
+Critical Code Analysis, write Final Project proposal
 
 \- \- \-
 
-### WEEK 11: INTERACTION 2  
+### WEEK 11: IMAGES  
+**In class**  
+Loading and displaying images, pixel[], manipulating images algorithmically, kernel filters  
+
+**Homework**  
+Start working on Final Project
+
+\- \- \-
+
+### WEEK 12: INTERACTION 2  
 **In class**  
 Creating classes, ArrayLists, particle systems
-
-**Mini project**  
-Digital Fireworks
 
 **Homework**  
 Rough Final Project prototype 
 
 \- \- \-
 
-### WEEK 12: INTERACTION 3  
+### WEEK 13: INTERACTION 3  
 **In class**  
 Gravity and physics, simulating motion
 
-**Mini project**  
-Finish Digital Fireworks
-
 **Homework**  
 Continue working on Final Project
-
-\- \- \-
-
-### WEEK 13: WORK DAY  
-**In class**  
-Work on Final Projects, get help as needed
-
-**Homework**  
-Finish Final Project
 
 \- \- \-
 
