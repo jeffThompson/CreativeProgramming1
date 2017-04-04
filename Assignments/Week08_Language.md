@@ -46,7 +46,9 @@ To turn in:
 * Create a folder called `LastnameFirstname_BOT`, in it put...
 * Your top-30-tweet file from last week  
 * Five screenshots of favorite tweets from your bot  
-* Your bot's Python code
+* Your bot's Python code  
+
+Zip it and upload to Canvas.
 
 Please also read the excerpt from *10 PRINT CHR$*, found in the `Readings` folder. We'll talk about Critical Code Studies and analyzing code. Write up two responses, questions, or provocations and post them as an issue on this repository under the title `Firstname Lastname: 10 PRINT CHR$`. (Optionally, also check out the amazing collection *Software Studies: A Lexicon*, also in the `Readings` folder.)
 
