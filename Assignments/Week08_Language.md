@@ -29,6 +29,14 @@ Try adding these elements to your bot:
 * Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?  
 * Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html) and [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/).  
 
+### INSTALLING PYTHON LIBRARIES  
+To post our tweets, we'll need a library to handle all the messy bits. There are a few Python libraries for this, but we're going to use `python-twitter`, [available here](https://github.com/bear/python-twitter). Use the instructions below to install the library, and others you might want to try.
+
+* Install `pip`, a Python module that installs other libraries. Your version of Python might already have it installed: type `pip` in the command line to check. If not, use [these instructions](https://pip.pypa.io/en/stable/installing/)  
+* Optional: other tools for installing libraries on the Mac include the excellent [Homebrew](https://brew.sh/)  
+* With `pip` installed, getting the Twitter library is easy! In the command line, simply run `pip install python-twitter`. You should see a bunch of text roll by, then success!  
+* Some code includes amazingly rich documentation... this library not as much. There are a [few examples here](https://github.com/bear/python-twitter/tree/master/examples), but for this project you shouldn't need anything too fancy.  
+
 ### FOR TUESDAY, APRIL 10  
 For next week, your assignment is to finish your bot! Get your OAuth settings and run some test posts. Once all done, post a bunch of tweets and assemble your documentation.
 
@@ -86,7 +94,9 @@ Please also sign up for a Twitter account (it can be private) for your bot. If y
 * There are lots of great resources for learning Python, including free ones like [learnpython.org](https://www.learnpython.org/) and [*Learn Python The Hard Way*](https://learnpythonthehardway.org/book/), and the always-good books from O'Reilly like [*Learning Python*](http://shop.oreilly.com/product/0636920028154.do)  
 * If you have particular Python questions, try searching [Stack Overflow](https://stackoverflow.com)  
 * Want your bot to run automatically and without having to pay for hosting? I've written [this tutorial on running your bots using a Raspberry Pi](http://www.jeffreythompson.org/blog/2014/08/31/setting-up-raspberry-pi-to-run-bots/)  
+* You could also use the amazing [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)  
 * Lots of regular expressions tutorials and info are out there (and a few are listed in the `Stretch Goals` section above) – great to try if you want a challenge  
+* If you want to get into fancier language processing, like tagging words with their parts-of-speech, try the [pattern](http://www.clips.ua.ac.be/pages/pattern-en) and [NLTK](http://www.nltk.org/) libraries  
 
 ### GRADING RUBRIC  
 Your project will be graded with the following rubric:
