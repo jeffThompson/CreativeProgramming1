@@ -5,12 +5,7 @@ FINAL PROJECT
 
 Your final project for the semester is to make something, anything, using at least one of the tools covered in class this semester. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of four weeks' of work, and that pushes your artistic, creative, and technical skills.
 
-**NOTE: our critique will be during the final exam period, scheduled for Friday, May 12 from 1–5pm. The location, though, is incorrectly listed: we'll meet in the Studio as usual and look at your projects.
-
-*Above: *  
-
-### STRETCH GOALS  
-Try adding these elements to your project:
+**NOTE: our critique will be during the final exam period, scheduled for Friday, May 12 from 1–5pm. The location, though, is incorrectly listed: we'll meet in the Studio as usual and look at your projects.**
 
 ### PROJECT CALENDAR  
 **April 18:** project proposals due, feedback session; demos on working with images and pixels  
