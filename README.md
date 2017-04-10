@@ -140,7 +140,7 @@ Selection from *10 PRINT CHR$* (Montfort, et al)
 Reading code as text, porting code as critical research
 
 **Homework**  
-Critical Code Analysis, write Final Project proposal
+Write Final Project proposal
 
 \- \- \-
 
