@@ -8,7 +8,7 @@ CRITICAL CODE STUDIES
 
 Today, we'll be talking about [Critical Code Studies](https://en.wikipedia.org/wiki/Critical_code_studies), and how we can view computer code as a text to be read, analyzed, and critiqued. We often think of code as purely functional, accomplishing a task, but it also embeds our [values](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code) and the limitations of their programming language.
 
-* Above: Bridges on Long Island, designed by Robert Moses in the 1920s and 30s. A co-worker of Moses was cited as saying that Moses purposefully built 204 bridges to be low to keep out poorer people, who largely depend on public transit like buses, that couldn't fit under the bridges.*
+*Above: Bridges on Long Island, designed by Robert Moses in the 1920s and 30s. A co-worker of Moses was cited as saying that Moses purposefully built 204 bridges to be low to keep out poorer people, who largely depend on public transit like buses, that couldn't fit under the bridges.*
 
 ### PORTING  
 One way of investigating a piece of code, rather than through writing an analysis, is to "port" it to another language. By re-writing the code, we're forced to look at it very carefully, understand exactly what it does, and deal with the limitations of both the source and new programming contexts.
@@ -68,15 +68,15 @@ Some other useful web-digging tools:
 
 ### FURTHER READING
 
-* [A Peek At A/B Testing In The Wild](https://freedom-to-tinker.com/blog/dreisman/a-peek-at-ab-, testing-in-the-wild), Dillon Reisman
+* [A Peek At A/B Testing In The Wild](https://freedom-to-tinker.com/blog/dreisman/a-peek-at-ab-testing-in-the-wild), Dillon Reisman
 * [Critical Critical Code Studies](http://www.electronicbookreview.com/thread/electropoetics/codology), Mark C. Marino  
 * [Critical Code Studies Working Group](http://haccslab.com), various authors  
 * [Computer As Ethical Artifacts](http://homes.soic.indiana.edu/nensmeng/files/ensmenger-29-3.pdf), Nathan Ensmenger  
 * [Computer Boys Take Over](https://mitpress.mit.edu/books/computer-boys-take-over), Nathan Ensmenger  
 * [@CongressEdits](https://twitter.com/CongressEdits), Ed Summers  
 * ["Number of Agents Waiting" Is A Random Number](https://twitter.com/mixonic/status/736575632226852865), @mixonic  
-* [Facebook Thinks I Like Toes](http://distractify.com/geek/2015/12/04/landry-facebook-, thinks-i-like-toes), Landry Taylor  
-* [Hidden ASCII Art In Websites](http://www.theverge.com/2012/4/25/2976042/discovering-hidden-, ascii-art-in-the-pages-of-the-web), Bryan Bishop  
-* [Infographics From .MIL Searches](https://medium.com/message/amazing-military-infographics-, 1ba60bdc32e7#.hhw22ssra), Paul Ford  
+* [Facebook Thinks I Like Toes](http://distractify.com/geek/2015/12/04/landry-facebook-thinks-i-like-toes), Landry Taylor  
+* [Hidden ASCII Art In Websites](http://www.theverge.com/2012/4/25/2976042/discovering-hidden-ascii-art-in-the-pages-of-the-web), Bryan Bishop  
+* [Infographics From .MIL Searches](https://medium.com/message/amazing-military-infographics-1ba60bdc32e7#.hhw22ssra), Paul Ford  
 * [Libscore](https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497#.g4cts1uxn) and [FontReach](https://insidedigitalocean.com/fontreach-font-usage-visualized-b6c5b6294787#.xtdko6x3v), Julian Shapiro and Jesse Chase  
 * [There Is Blatant Racism And Sexist Language Hiding In Open Source Code](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), Leslie Horn  
