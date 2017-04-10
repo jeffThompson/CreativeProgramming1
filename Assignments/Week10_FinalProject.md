@@ -20,7 +20,7 @@ Instead of just writing up ideas in a Word document, you should [create a Wiki p
 
 Use [the template I've made](https://github.com/jeffThompson/CreativeProgramming1/wiki/Final-Project:-Jeff-Thompson), changing it to fit your project. See the template for details on what your proposal should include as well. We'll use this page later to document your project when it's finished.  
 
-**TROUBLE COMING UP WITH IDEAS?** 
+**TROUBLE COMING UP WITH IDEAS?**  
 As a jumping off point, think about things you've enjoyed doing this semester, and things that you're generally obsessed with. If you love binge-watching crappy 80s TV, maybe a project that manipulates or analyzes millions of frames of video from those shows? If you are super into language, maybe a poem-generating sketch that outputs printable book PDFs.
 
 ### GRADING RUBRIC  
