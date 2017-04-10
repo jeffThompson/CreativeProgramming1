@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week10/)
-
 FINAL PROJECT
 ====
 

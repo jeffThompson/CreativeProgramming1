@@ -140,7 +140,7 @@ Selection from *10 PRINT CHR$* (Montfort, et al)
 Reading code as text, porting code as critical research
 
 **Homework**  
-Write Final Project proposal
+Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) proposal
 
 \- \- \-
 
@@ -149,7 +149,7 @@ Write Final Project proposal
 Loading and displaying images, pixel[], manipulating images algorithmically, kernel filters  
 
 **Homework**  
-Start working on Final Project
+Start working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md)
 
 \- \- \-
 
@@ -158,7 +158,7 @@ Start working on Final Project
 Creating classes, ArrayLists, particle systems
 
 **Homework**  
-Rough Final Project prototype 
+Rough [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) prototype 
 
 \- \- \-
 
@@ -167,12 +167,12 @@ Rough Final Project prototype
 Gravity and physics, simulating motion
 
 **Homework**  
-Continue working on Final Project
+Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md)
 
 \- \- \-
 
 ### EXAM PERIOD: FINAL CRITIQUE  
-Date TBD, please don’t book travel until after exam period ends!
+May 12 from 1–5pm in VA&T Studio
 
 **In class**  
 Crit and goodbye
