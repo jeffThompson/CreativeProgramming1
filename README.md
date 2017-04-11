@@ -135,7 +135,7 @@ Selection from *10 PRINT CHR$* (Montfort, et al)
  
 \- \- \-
 
-### WEEK 10: ⊨ CRITICAL CODE STUDIES  
+### [WEEK 10: ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Excercises/CriticalCodeStudies.md)  
 **In class**  
 Reading code as text, porting code as critical research
 
