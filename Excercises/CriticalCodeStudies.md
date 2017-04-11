@@ -6,15 +6,15 @@ CRITICAL CODE STUDIES
 
 >"Familiarity with the latest gadgets or services is often less important than possessing the critical knowledge to engage productively with networked situations, including the ability to control how personal information flows and how to look for and interpret accessible information... Access to technology should not be conflated with use." – danah boyd
 
-Today, we'll be talking about [Critical Code Studies](https://en.wikipedia.org/wiki/Critical_code_studies), and how we can view computer code as a text to be read, analyzed, and critiqued. We often think of code as purely functional, accomplishing a task, but it also embeds our [values](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), and the [limitations of their programming language](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) and the [data we use](http://blogs.wsj.com/digits/2015/07/01/google-mistakenly-tags-black-people-as-gorillas-showing-limits-of-algorithms/).
+Today, we'll be talking about [Critical Code Studies](https://en.wikipedia.org/wiki/Critical_code_studies), and how we can view computer code as a text to be read, analyzed, and critiqued. We often think of code as purely functional, accomplishing a task, but it also embeds our [values](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), and the [limitations of their programming language](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) and the [data we use](http://blogs.wsj.com/digits/2015/07/01/google-mistakenly-tags-black-people-as-gorillas-showing-limits-of-algorithms/). We read the first chapter from *10 PRINT CHR$...*, which talks (at length) about a single-line program from 1982 written in the language [BASIC](https://en.wikipedia.org/wiki/BASIC) and traces a variety of analytical threads through this tiny bit of code.
 
-Below outlines some ways of approaching code from a critical, textual point of view. See the `Further Reading` section below for lots more ways to dig into this topic.
+Below outlines some ways of approaching code from a critical, textual point of view, using the `10 PRINT CHR$` program as a jumping-off point. See the `Further Reading` section below for lots more ways to dig into this topic.
 
 *Above: Some of the 204 bridges on Long Island, designed by Robert Moses in the 1920s and 30s. A co-worker of Moses was cited as saying that Moses purposefully built the bridges very low as a way to keep out poorer people, who largely depend on public transit like buses, that couldn't fit under the them.*
 
 ### PORTING  
 
->"Notably, many of these insights are not available through token-by-token analysis of code. They require closely considered reading, writing, and execution of code." – *10 PRINT CHR$*  
+>"Notably, many of these insights are not available through token-by-token analysis of code. They require closely considered reading, writing, *and* execution of code." – *10 PRINT CHR$...*  
 
 One way of investigating a piece of code, rather than through writing an analysis, is to "port" it to another language. By re-writing the code, we're forced to look at it very carefully, understand exactly what it does, and deal with the limitations of both the source and new programming contexts.
 
@@ -35,7 +35,7 @@ void setup() {
 }
 ```
 
-How is this version different than the original? What things does [BASIC](https://en.wikipedia.org/wiki/BASIC) do that Processing can't easily? Which version is more readable? Which version is more easily changed to behave differently?
+How is this version different than the original? What things does BASIC do that Processing can't easily? Which version is more readable? Which version is more easily changed to behave differently?
 
 Try changing the code and see what happens!
 
@@ -44,6 +44,7 @@ Try changing the code and see what happens!
 * Use a `while` loop instead of the `for` loop  
 * Draw using text onscreen, instead of the console (and trying different fonts)  
 * Draw using shapes instead of text  
+* More concise, obtuse, or strange ways of writing the same code  
 
 What do these investigations tell us about the original? Do they suggest other variations that might be interesting? (For example, we could also think about any format where two opposite things are chosen, such as audio files/channels.)
 
