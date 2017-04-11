@@ -6,7 +6,7 @@ CRITICAL CODE STUDIES
 
 >"Familiarity with the latest gadgets or services is often less important than possessing the critical knowledge to engage productively with networked situations, including the ability to control how personal information flows and how to look for and interpret accessible information... Access to technology should not be conflated with use." – danah boyd
 
-Today, we'll be talking about [Critical Code Studies](https://en.wikipedia.org/wiki/Critical_code_studies), and how we can view computer code as a text to be read, analyzed, and critiqued. We often think of code as purely functional, accomplishing a task, but it also embeds our [values](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), and the [limitations of their programming language](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) and the [data we use](http://blogs.wsj.com/digits/2015/07/01/google-mistakenly-tags-black-people-as-gorillas-showing-limits-of-algorithms/). We read the first chapter from *10 PRINT CHR$...*, which talks (at length) about a single-line program from 1982 written in the language [BASIC](https://en.wikipedia.org/wiki/BASIC) and traces a variety of analytical threads through this tiny bit of code.
+Today, we'll be talking about [Critical Code Studies](https://en.wikipedia.org/wiki/Critical_code_studies), and how we can view computer code as a text to be read, analyzed, and critiqued. We often think of code as purely functional, accomplishing a task, but it also embeds our [values](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), and the [limitations of their programming language](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type) and the [data we use](http://blogs.wsj.com/digits/2015/07/01/google-mistakenly-tags-black-people-as-gorillas-showing-limits-of-algorithms/). We read the first chapter from *10 PRINT CHR$...*, which talks (at length) about a single-line program from 1982, written in the language [BASIC](https://en.wikipedia.org/wiki/BASIC), and traces a variety of analytical threads through this tiny bit of code.
 
 Below outlines some ways of approaching code from a critical, textual point of view, using the `10 PRINT CHR$` program as a jumping-off point. See the `Further Reading` section below for lots more ways to dig into this topic.
 
@@ -16,9 +16,9 @@ Below outlines some ways of approaching code from a critical, textual point of v
 
 >"Notably, many of these insights are not available through token-by-token analysis of code. They require closely considered reading, writing, *and* execution of code." – *10 PRINT CHR$...*  
 
-One way of investigating a piece of code, rather than through writing an analysis, is to "port" it to another language. By re-writing the code, we're forced to look at it very carefully, understand exactly what it does, and deal with the limitations of both the source and new programming contexts.
+One way of investigating a piece of code, rather than writing an analysis, is to "port" it to another language. By re-writing the code, we're forced to look at it very carefully, understand exactly what it does, and deal with the limitations of both the source and new programming contexts.
 
-`10 PRINT CHRS$(205.5+RND(1)); : GOTO 10` is a great piece of code to port, since it is rather straightforward, but also requires some modification for modern programming languages like Processing.
+`10 PRINT CHRS$(205.5+RND(1)); : GOTO 10` is a great piece of code to port, since it is rather straightforward but also requires some modification for modern programming languages like Processing.
 
 Here's a really simple template to get started:  
 
@@ -82,15 +82,15 @@ If you want to dig further into this topic, a good place to start is fields rela
 
 See also:
 
-* [A Peek At A/B Testing In The Wild](https://freedom-to-tinker.com/blog/dreisman/a-peek-at-ab-testing-in-the-wild), Dillon Reisman
-* [Critical Critical Code Studies](http://www.electronicbookreview.com/thread/electropoetics/codology), Mark C. Marino  
-* [Critical Code Studies Working Group](http://haccslab.com), various authors  
-* [Computer As Ethical Artifacts](http://homes.soic.indiana.edu/nensmeng/files/ensmenger-29-3.pdf), Nathan Ensmenger  
-* [Computer Boys Take Over](https://mitpress.mit.edu/books/computer-boys-take-over), Nathan Ensmenger  
+* [*A Peek At A/B Testing In The Wild*](https://freedom-to-tinker.com/blog/dreisman/a-peek-at-ab-testing-in-the-wild), Dillon Reisman
+* [*Critical Critical Code Studies*](http://www.electronicbookreview.com/thread/electropoetics/codology), Mark C. Marino  
+* [*Critical Code Studies Working Group*](http://haccslab.com), various authors  
+* [*Computer As Ethical Artifacts*](http://homes.soic.indiana.edu/nensmeng/files/ensmenger-29-3.pdf), Nathan Ensmenger  
+* [*Computer Boys Take Over*](https://mitpress.mit.edu/books/computer-boys-take-over), Nathan Ensmenger  
 * [@CongressEdits](https://twitter.com/CongressEdits), Ed Summers  
-* ["Number of Agents Waiting" Is A Random Number](https://twitter.com/mixonic/status/736575632226852865), @mixonic  
-* [Facebook Thinks I Like Toes](http://distractify.com/geek/2015/12/04/landry-facebook-thinks-i-like-toes), Landry Taylor  
-* [Hidden ASCII Art In Websites](http://www.theverge.com/2012/4/25/2976042/discovering-hidden-ascii-art-in-the-pages-of-the-web), Bryan Bishop  
-* [Infographics From .MIL Searches](https://medium.com/message/amazing-military-infographics-1ba60bdc32e7#.hhw22ssra), Paul Ford  
+* [*"Number of Agents Waiting" Is A Random Number*](https://twitter.com/mixonic/status/736575632226852865), @mixonic  
+* [*Facebook Thinks I Like Toes*](http://distractify.com/geek/2015/12/04/landry-facebook-thinks-i-like-toes), Landry Taylor  
+* [*Hidden ASCII Art In Websites*](http://www.theverge.com/2012/4/25/2976042/discovering-hidden-ascii-art-in-the-pages-of-the-web), Bryan Bishop  
+* [*Infographics From .MIL Searches*](https://medium.com/message/amazing-military-infographics-1ba60bdc32e7#.hhw22ssra), Paul Ford  
 * [Libscore](https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497#.g4cts1uxn) and [FontReach](https://insidedigitalocean.com/fontreach-font-usage-visualized-b6c5b6294787#.xtdko6x3v), Julian Shapiro and Jesse Chase  
-* [There Is Blatant Racism And Sexist Language Hiding In Open Source Code](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), Leslie Horn  
+* [*There Is Blatant Racism And Sexist Language Hiding In Open Source Code*](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), Leslie Horn  
