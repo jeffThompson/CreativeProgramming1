@@ -21,16 +21,18 @@ One way of investigating a piece of code, rather than through writing an analysi
 
 Here's a really simple template to get started:  
 
-    void setup() {
-      for (int i=0; i<2000; i++) {
-        if (random(1) < 0.5) {
-          print("\\");
-        }
-        else {
-          print("/");
-        }
-      }
+```processing
+void setup() {
+  for (int i=0; i<2000; i++) {
+    if (random(1) < 0.5) {
+      print("\\");
     }
+    else {
+      print("/");
+    }
+  }
+}
+```
 
 How is this version different than the original? What things does [BASIC](https://en.wikipedia.org/wiki/BASIC) do that Processing can't easily? Which version is more readable? Which version is more easily changed to behave differently?
 
