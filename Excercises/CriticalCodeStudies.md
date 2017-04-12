@@ -24,13 +24,14 @@ Here's a really simple template to get started:
 
 ```processing
 void setup() {
-  for (int i=0; i<2000; i++) {
-    if (random(1) < 0.5) {
-      print("\\");
-    }
-    else {
-      print("/");
-    }
+}
+
+void draw() {}
+  if (random(1) < 0.5) {
+    print("/");
+  }
+  else {
+    print("\\");
   }
 }
 ```
