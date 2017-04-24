@@ -28,6 +28,9 @@ As a jumping off point, think about things you've enjoyed doing this semester, a
 ### FOR TUESDAY, APRIL 25  
 For next week, you should start working on your final project. Though you don't have any deliverables next week, rough project prototypes are due in two weeks, so getting a head-start will be a big help and will catch technical problems early. Be sure to record your process as you go! This includes screenshots, inspiration images, etc which will be used in your project documentation. These will be included in your project documentation Wiki page.
 
+### FOR TUESDAY, MAY 2  
+This week, you should be continuing to work on your projects. Next week, you should have a rough prototype of your project, in code, that you can show us. It doesn't need to all be working, but should be far enough along for us to give feedback without a ton of explanation ("show, not tell"). We'll do a quick feedback sessions, talk briefly about gravity and physics, and have some work time. Note this is our last week to talk, so bring code questions and things you need help with.
+
 ### GRADING RUBRIC  
 Your project will be graded with the following rubric:
 
