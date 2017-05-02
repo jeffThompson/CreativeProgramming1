@@ -31,6 +31,23 @@ For next week, you should start working on your final project. Though you don't 
 ### FOR TUESDAY, MAY 2  
 This week, you should be continuing to work on your projects. Next week, you should have a rough prototype of your project, in code, that you can show us. It doesn't need to all be working, but should be far enough along for us to give feedback without a ton of explanation ("show, not tell"). We'll do a quick feedback sessions, talk briefly about gravity and physics, and have some work time. Note this is our last week to talk, so bring code questions and things you need help with.
 
+### FOR FRIDAY, MAY 12 (9am–1pm)  
+**Note that we'll be meeting in the VA&T Studio (our normal classroom) not the room listed in the final exam schedule.**  
+
+Your final projects are due for our last critique. There are a few things you need to do to turn these in, so please read this carefully:
+
+Project files should be in a folder, titled `LastnameFirstname_FinalProject`, and uploaded to Canvas. This is how I archive your projects, and let's me see your code.
+
+You should update your proposal's Wiki page to document the finished project:  
+
+* Change the language for intro, `Detailed Description`, and `Why?` sections to reflect the finished project.  
+* Change the `Technical Needs` to list the tools and resources you used.  
+* Keep the inspiration images, and add more if you like.  
+* Include at least three images of the project – this might be screenshots of it running, output from your code, etc. Curate images that show your project clearly, and include descriptions below them, just like for the inspiration images.  
+* Anything else you want to include is great! What are some things you learned with this project? Is there some particularly great code you want to show off?
+
+This documentation is what I'll primarily use to grade your projects, so please take your time like you would with a project report or paper.
+
 ### GRADING RUBRIC  
 Your project will be graded with the following rubric:
 
