@@ -31,7 +31,7 @@ For next week, you should start working on your final project. Though you don't 
 ### FOR TUESDAY, MAY 2  
 This week, you should be continuing to work on your projects. Next week, you should have a rough prototype of your project, in code, that you can show us. It doesn't need to all be working, but should be far enough along for us to give feedback without a ton of explanation ("show, not tell"). We'll do a quick feedback sessions, talk briefly about gravity and physics, and have some work time. Note this is our last week to talk, so bring code questions and things you need help with.
 
-### FOR FRIDAY, MAY 12 (9am–1pm)  
+### FOR FRIDAY, MAY 12 (1–5pm)  
 **Note that we'll be meeting in the VA&T Studio (our normal classroom) not the room listed in the final exam schedule.**  
 
 Your final projects are due for our last critique. There are a few things you need to do to turn these in, so please read this carefully:
