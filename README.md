@@ -26,17 +26,20 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob
 ***
  
 ## COURSE CALENDAR  
-Please note this is subject to change – be sure to check this page and your email regularly.
+Please note this is subject to change – be sure to check this page and your email regularly. Homework and readings are listed for the days they are assigned.
 
 *Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol ⊨ is used in the field of logic to mean that an idea semantically entails another.*
 
 
-### [WEEK 00: INTRODUCTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
+### [WEEK 00: BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
 **In class:**  
-Hello, introductions and syllabus, instruction-drawings, programming a person to sit in a chair
+Hello, introductions and syllabus, instruction-drawings
+
+**Reading**  
+*Computer Graphics* (Mohr)
 
 **Homework:**  
-Install [Processing](http://www.processing.org), test to make sure it works
+Install [Processing](http://www.processing.org/download) and test to make sure it works, Instruction Drawing
 
 \- \- \-
 
