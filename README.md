@@ -1,26 +1,29 @@
 CREATIVE PROGRAMMING 1
 ====
 
->“The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”  
-– Donald Knuth
+    Instructor      Prof. Jeff Thompson
+    Email           jeff.thompson@stevens.edu
+    Office/hours    Morton 208, Tues/Thurs 2–3pm
+
+    Meeting times   Thursdays 9.00am–12.50pm
+    Location        Visual Arts & Technology Lab
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
-During the course of the semester, you’ll learn how to write code for a variety of visual projects, including image, text, and interaction. We’ll primarily be using the Processing platform, a toolkit created specifically for artists and designers built on the language Java, with a brief exploration of Python as a tool for building Twitter bots.
+During the course of the semester, you’ll learn how to write code for a variety of visual projects including image, text, animation, and interaction. We’ll primarily be using the Processing platform, a toolkit created specifically for artists and designers built on the language Java, and a brief exploration of Python as a tool for building Twitter bots.
 
 Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective.
 
-***  
+We’ll be starting from scratch, so if you don’t know anything about writing software that’s totally ok! For those that have experience coding, we’ll be using ideas from graphics programming that might be new to you, and I encourage you to take the cool things you know and apply them to our projects. For everyone in the class: talk to and help each other. Classes shouldn’t be one-way information machines, but a way to share ideas and skills between each other.
 
-## CONTENTS  
-This repository contains all the materials for this class, except grades, which can be found on Canvas.
+See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Syllabus.pdf) for full details, grading policy, etc.
 
-* **Assignments:** where all assignments will be posted, including deadlines and requirements.  
-* **Code:** all code examples shown in class, separated by week. Move to your sketchbook folder to try yourself.  
-* **Readings:** where required and optional readings will be shared.  
-* **README.md:** this file!
+***
 
-* * *
+>“The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music.”  
+– Donald Knuth
+
+***
  
 ## COURSE CALENDAR  
 Please note this is subject to change – be sure to check this page and your email regularly.
@@ -29,14 +32,11 @@ Please note this is subject to change – be sure to check this page and your em
 
 
 ### [WEEK 00: INTRODUCTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
-**In class**  
-Hello, introductions and syllabus, programming a person to sit in a chair
+**In class:**  
+Hello, introductions and syllabus, instruction-drawings, programming a person to sit in a chair
 
-**Reading**  
-“Alan Kay’s Universal Machine” from *Software Takes Command* (Manovich)
-
-**Homework**  
-Install Processing
+**Homework:**  
+Install [Processing](http://www.processing.org), test to make sure it works
 
 \- \- \-
 
@@ -60,7 +60,7 @@ Algorithmic Quilts
  
 ### [WEEK 03: RECURSION && FRACTALS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
 **In class**  
-Creating recursive functions, Pythagoras Tree, Sierpinski Carpet, pixel[] and Mandelbrot Set
+Creating recursive functions, Pythagoras Tree, Koch Snowflake, the pixel array
 
 **Homework**  
 Recursion Experiments
@@ -79,37 +79,32 @@ Create a clock, open source response, study for [Quiz #1](https://github.com/jef
 
 \- \- \-
 
-### [WEEK 05: INTERACTION 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_DrawingApp.md)  
+### WEEK 05: INTERACTIVITY 1  
 (And ⊨ Open Source)
 
 **In class**  
-Discuss readings, contributing to open source projects, mouseX/Y, mousePressed()/Dragged(), background with alpha
+Discuss readings, contributing to open source projects, mouseX/Y, mousePressed()/Dragged(), background with alpha, importing fonts
 
 **Homework**  
-Drawing App
+Animated Letterforms
 
 \- \- \-
 
-### [WEEK 06: RANDOMNESS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
+### [WEEK 06: RANDOMNESS 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
 **In class**  
 random(), Brownian motion, Perlin noise, random choices, writing to PDF
 
 **Homework**  
-Exploration of Randomness, get supplies for Physical Memory project
+Begin Randomness project, install Python
 
 \- \- \-
 
-### MARCH 13–17  
-Spring break – no class!
-
-\- \- \-
-
-### [WEEK 07: ⊨ PHYSICAL MEMORY](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week07_PhysicalMemory.md)  
+### WEEK 07: RANDOMNESS 2  
 **In class**  
-Historical examples of memory storage systems, ideating and prototyping new memory formats 
+Cellular automata, work day, check if Python is working for everyone
 
 **Homework**  
-Physical Memory prototype, make sure Python is installed
+Finish Randomness project
 
 \- \- \-
 
@@ -118,17 +113,16 @@ Physical Memory prototype, make sure Python is installed
 Creating a Python script, printing “Hello World,” running a script in the Terminal, loops and conditionals, lists, cleaning text, templating strings, saving to file 
 
 **Homework**  
-Bot (Part 1), create a Twitter account
+Begin Bot project, create a Twitter account
 
 \- \- \-
 
 ### WEEK 09: LANGUAGE 2  
-
 **In class**  
-Installing Python modules, creating an app on Twitter, OAuth, posting to Twitter automatically, RPi bot sever demo
+Installing Python modules, creating an app on Twitter, OAuth, posting to Twitter automatically, bot sever demo
 
 **Homework**  
-Bot (Part 2)
+Finish Bot project
 
 **Reading**  
 Selection from *10 PRINT CHR$* (Montfort, et al)  
@@ -140,39 +134,59 @@ Selection from *10 PRINT CHR$* (Montfort, et al)
 Reading code as text, porting code as critical research
 
 **Homework**  
+Historical Code Explorations
+
+\- \- \-
+
+### WEEK 11: INTERACTIVITY 2  
+**In class**  
+Simulating motion, object-oriented programming, ArrayLists
+
+**Mini Project**  
+TBA
+
+**Homework**  
 Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) proposal
 
 \- \- \-
 
-### WEEK 11: IMAGES  
+### WEEK 12: INTERACTIVITY 3
 **In class**  
-Loading and displaying images, pixel[], manipulating images algorithmically, kernel filters  
+More simulation and interactivity
 
-**Homework**  
-Start working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md)
-
-\- \- \-
-
-### WEEK 12: INTERACTION 2  
-**In class**  
-Creating classes, ArrayLists, particle systems
+**Mini Project**  
+Finish mini project in class
 
 **Homework**  
 Rough [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) prototype 
 
 \- \- \-
 
-### WEEK 13: INTERACTION 3  
+### NOV 22–26  
+Thanksgiving break – no class!
+
+\- \- \-
+
+### WEEK 13: WORK DAY
 **In class**  
-Gravity and physics, simulating motion
+Work on Final Projects, get help as needed
 
 **Homework**  
 Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md)
 
 \- \- \-
 
+### WEEK 14: WORK DAY
+**In class**  
+Work on Final Projects, get help as needed
+
+**Homework**  
+Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) and documentation
+
+\- \- \-
+
 ### EXAM PERIOD: FINAL CRITIQUE  
-May 12 from 1–5pm in VA&T Studio
+Date TBD, please don’t book travel until after exam period ends!
 
 **In class**  
 Crit and goodbye
