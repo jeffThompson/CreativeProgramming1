@@ -1,60 +1,34 @@
-![The Xerox Alto operating system, developed around the time of Alan Kay's work there](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00/XeroxAltoOS.jpg)
+![Sol LeWitt's "Six Geometric Figures" wall drawing from 1980-81](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
 
 BOOTING UP
 ====
 
->“The limits of my language mean the limits of my world.”
-– Ludwig Wittgenstein
+### DUE: THURSDAY, SEPTEMBER 7  
 
-### DUE: TUESDAY, JANUARY 31
-This week, we have to "boot up" a few things before we can start coding.
+As a way to start thinking about writing code, but without the hassle of learning syntax and finding missing semicolons, we're going to make some drawings together (and then as your homework) using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
 
-Please:  
+Please Manfred Mohr's *Computer Graphics* essay and, using it and our in-class work as inspiration, create a more involved drawing using instructions you create. You will want to experiment and test what different instructions and variations will do – this is called "iterative development" and is exactly what we'll do when we start writing code! You can make your drawing collaboratively or by yourself. Think about the drawings we made in class together, and Mohr's essay – feel free to embrace or push against the idea of instructions defining a creative act like drawing.
+
+The goal is a much more fully-developed drawing that produces surprising results and feels finished. The drawings should be on 8.5x11" paper or larger (larger == better, probably), and should include a set of printed instructions on a separate sheet. Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc. 
+
+We also have to "boot up" a few things before we can start coding. Please:  
+
 * Create an account on [Github](https://www.github.com) – it's free and will let you do things like create "issues" on the class page  
 * Download and install [Processing](https://processing.org/download) – be sure to open it and make sure everything works ok before class next week. If you have problems, send me an email or submit an "issue" (instructions below)  
 
-**Be sure to bring your laptop, charger, and notebook next week!**
+**Be sure to bring your laptop, charger, and notebook next week (and every week!)**
 
-### READING  
-Also for next week, please read the selection from Lev Manovich's book *Software Takes Command*. You can find the PDF in the `Readings` folder, which is where all readings this semester will be located.
-
-When done, please write up at least two questions, provocations, or reflections on the reading. [Create a new "Issue"](https://github.com/jeffThompson/CreativeProgramming1/issues/new) with the title `{Your Name}: Manovich Response`. Please also bring your responses to class, ready for a short discussion.  
-
-### IN CLASS: PROGRAMMING A PERSON TO SIT IN A CHAIR  
-As a way to start thinking about writing code, but without the hassle of learning syntax and finding missing semicolons, we're going to program not a computer but a person. Computers execute programs exactly – *exactly* – how we write them, and small changes like the order commands are executed can make a huge difference. If you've never written code before, this can seem obstinate and inflexible, which of course it is. 
-
-Today, your task is to write a set of instructions (a program) that instructs a person to cross the room and sit in a chair. The setup:
-
-![Instructions for in-class project](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00/PersonSittingInAChair_INSTRUCTIONS.jpg)
-
-The robo-person interprets the instructions exactly how they're written, so be specific! Try thinking about when a certain action should start or stop, how to know if something is successful, and what to do if something goes wrong.
-
-There are two goals here:  
-
-1. To come up with good, flexible instructions that can direct your robo-person to their chair.  
-2. To develop your program iteratively, meaning write and test small pieces, make changes, and repeat the process. This habit will make writing real code much easier later.  
-
-### STRETCH GOALS  
-No problem? Try these challenges:
-
-* Can your robo-person find a chair that's not directly in front of them?  
-* Can you add checks along the way to make sure everything's ok?  
-* How could your robot select a specific chair from a whole room of chairs?  
-* Can you create a specific human chair-sitting robot syntax for your commands?  
+***
 
 ### PROJECTS SHOWN  
-(Images and videos are in `Slides/Week00` if you want to check them out again)  
+(These are also in the `Images` folder for this week, if you want to check them out again)  
 
 * Edward Pickering's human computers doing astronomical calculations  
-* Census workers using Hollerith's punch-card system in 1890  
-* A variety of mechanical calculators (including a beautiful Brunsviga model)  
-* Workers at the Mathematical Tables Projects as part of the WPA  
-* Mechanical analog "fire control" computers  
-* Vannevar Bush's Memex machine  
-* Douglas Englebart's "Mother of All Demos" from 1968 ([watch all 100 minutes of it here](https://www.youtube.com/watch?v=yJDv-zdhzMY))  
-* Donald Sherman ordering a pizza through a computer in 1974  
-* The 2,793-page IEEE wifi spec  
-* Deep Dream and style transfer  
+* WPA's Mathematical Tables Project  
+* Sol LeWitt wall drawings  
+* Manfred Mohr  
+* Vera Molnar  
+* Daniel John Jones  
 
-*Top: a screenshot of the the [Xerox Alto operating system](https://en.wikipedia.org/wiki/Xerox_Alto), developed around the time of Alan Kay's work there.*
+*Top: Sol LeWitt's *Six Geometric Figures* wall drawing from 1980-81.
 
