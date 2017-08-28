@@ -20,6 +20,16 @@ We also have to "boot up" a few things before we can start coding. Please:
 
 ***
 
+### GRADING RUBRIC  
+Your project (and most upcoming ones) will be graded with the following rubric:
+
+**10%:** Project meets technical requirements (correct file format, naming convention, etc)  
+**30%:** Project shows creativity, attention to visual quality (composition, color, etc)  
+**30%:** Project shows clear use of technical material covered in class  
+**30%:** Project shows investigation and exploration of assignment topic  
+
+***
+
 ### PROJECTS SHOWN  
 (These are also in the `Images` folder for this week, if you want to check them out again)  
 
