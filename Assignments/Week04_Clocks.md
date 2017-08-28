@@ -1,4 +1,4 @@
-![A gif of John Maeda's "12 Clocks", created in 1996-97 using his language Design By Numbers – gif via Golan Levin](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week04/JohnMaeda_12Clocks_1996-97.gif)
+![A gif of John Maeda's "12 Clocks", created in 1996-97 using his language Design By Numbers – gif via Golan Levin](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week04_Time/JohnMaeda_12Clocks_1996-97.gif)
 
 CLOCKS
 ====

@@ -1,4 +1,4 @@
-![An operator at a SAGE console, using a light pen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week05/SAGE-ConsoleOperator.jpg)
+![An operator at a SAGE console, using a light pen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week05_Interactivity1/SAGE-ConsoleOperator.jpg)
 
 DRAWING APP
 ====

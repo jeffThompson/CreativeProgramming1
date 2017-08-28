@@ -1,4 +1,4 @@
-![A screenshot of the classic bot @everyword by Allison Parrish](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week08/everyword.png)
+![A screenshot of the classic bot @everyword by Allison Parrish](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week08_Language1/everyword.png)
 
 LANGUAGE
 ====

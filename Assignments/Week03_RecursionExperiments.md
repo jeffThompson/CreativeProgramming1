@@ -1,4 +1,4 @@
-![Coral exhibits fractal-like patterns, and is intensely beautiful to boot](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week03/Coral/Coral_4.jpg)
+![Coral exhibits fractal-like patterns, and is intensely beautiful to boot](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week03_Recursion/Coral/Coral_4.jpg)
 
 RECURSION EXPERIMENTS
 ====

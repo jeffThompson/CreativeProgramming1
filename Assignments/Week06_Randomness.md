@@ -1,4 +1,4 @@
-![A detail of a video work by A. Michael Noll from the 1960s](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week06/FramesFromVideoByAMichaelNoll_1960s-DETAIL.jpg)
+![A detail of a video work by A. Michael Noll from the 1960s](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week06_Randomness/FramesFromVideoByAMichaelNoll_1960s-DETAIL.jpg)
 
 RANDOMNESS
 ====

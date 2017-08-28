@@ -1,4 +1,4 @@
-![An example robot, drawn with code](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01/Robots.jpg)
+![An example robot, drawn with code](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/Robots.jpg)
 
 ROBOT DRAWINGS
 ====
@@ -35,7 +35,7 @@ To turn in your project, zip your sketch's folder (with the code and png file in
 
 Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class. In class next week, we'll run the code and look at everyone's robots together.
 
-![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01/OscilloscopeCamera-1.jpg)
+![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/OscilloscopeCamera-1.jpg)
 
 *How people used to "export" images from code – taking a photo of an oscilloscope screen*
 

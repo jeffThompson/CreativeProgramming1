@@ -1,4 +1,4 @@
-![An example of an algorithmic quilt](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week02/NinePatch_BarbaraYoder_1920-detail.jpg)
+![An example of an algorithmic quilt](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week02_IterationAndLoops/NinePatch_BarbaraYoder_1920-detail.jpg)
 
 ALGORITHMIC QUILTS
 ====
