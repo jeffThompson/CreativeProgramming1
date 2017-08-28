@@ -30,5 +30,5 @@ We also have to "boot up" a few things before we can start coding. Please:
 * Vera Molnar  
 * Daniel John Jones  
 
-*Top: Sol LeWitt's *Six Geometric Figures* wall drawing from 1980-81.
+*Top: Sol LeWitt's *Six Geometric Figures* wall drawing from 1980-81.*
 
