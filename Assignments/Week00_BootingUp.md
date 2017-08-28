@@ -1,4 +1,4 @@
-![Sol LeWitt's "Six Geometric Figures" wall drawing from 1980-81](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
+![Sol LeWitt's "Six Geometric Figures" wall drawing from 1980-81](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00_BootingUp/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
 
 BOOTING UP
 ====
