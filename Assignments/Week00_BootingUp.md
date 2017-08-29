@@ -5,9 +5,9 @@ BOOTING UP
 
 ### DUE: THURSDAY, SEPTEMBER 7  
 
-As a way to start thinking about writing code, but without the hassle of learning syntax and finding missing semicolons, we're going to make some drawings together (and then as your homework) using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
-
 >“The idea becomes a machine that makes the art.” – Sol LeWitt  
+
+As a way to start thinking about writing code, but without the hassle of learning syntax and finding missing semicolons, we're going to make some drawings together (and then as your homework) using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
 
 Please Manfred Mohr's [*Computer Graphics* essay](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Readings/Week00_BootingUp) and, using it and our in-class work as inspiration, create a more involved drawing using instructions you create. You will want to experiment and test what different instructions and variations will do – this is called "iterative development" and is exactly what we'll do when we start writing code! You can make your drawing collaboratively or by yourself. Think about the drawings we made in class together, and Mohr's essay – feel free to embrace or push against the idea of instructions defining a creative act like drawing.
 
@@ -33,14 +33,13 @@ Below are some of the exercises we'll do in class. The first few are inspired by
 
 4. Draw a curving line in from the edge of the paper. Each person should draw another curving line from the edge, not touching any other lines. Repeat.  
 
-5. From Sol LeWitt:
-
->WORK FROM INSTRUCTIONS (1971):
-USING A BLACK, HARD CRAYON DRAW A TWENTY INCH SQUARE.
-DIVIDE THIS SQUARE INTO ONE INCH SQUARES. WITHIN EACH
-ONE INCH SQUARE, DRAW NOTHING, OR DRAW A DIAGONAL
-STRAIGHT LINE FROM CORNER TO CORNER OR TWO CROSSING
-STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER.
+5. From Sol LeWitt:  
+WORK FROM INSTRUCTIONS (1971):  
+USING A BLACK, HARD CRAYON DRAW A TWENTY INCH SQUARE.  
+DIVIDE THIS SQUARE INTO ONE INCH SQUARES. WITHIN EACH  
+ONE INCH SQUARE, DRAW NOTHING, OR DRAW A DIAGONAL  
+STRAIGHT LINE FROM CORNER TO CORNER OR TWO CROSSING  
+STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER.  
 
 ***
 
