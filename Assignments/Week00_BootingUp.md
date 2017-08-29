@@ -34,6 +34,7 @@ Below are some of the exercises we'll do in class. The first few (and the last o
 4. Draw a curving line in from the edge of the paper. Each person should draw another curving line from the edge, not touching any other lines. Repeat.  
 
 5. From Sol LeWitt, using pre-printed templates. (Our twist: draw in one square, then pass to the person on your right.)  
+<br>
 WORK FROM INSTRUCTIONS (1971):  
 USING A BLACK, HARD CRAYON DRAW A TWENTY INCH SQUARE.  
 DIVIDE THIS SQUARE INTO ONE INCH SQUARES. WITHIN EACH  
