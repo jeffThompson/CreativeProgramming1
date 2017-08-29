@@ -22,8 +22,8 @@ We also have to "boot up" a few things before we can start coding. Please:
 
 ***
 
-### IN CLASS DRAWINGS  
-Below are some of the exercises we'll do in class. The first few are inspired by [Zach Lieberman](http://thesystemis.com) (who also does really cool work with code and art, btw). In all of these, it's best not to think too much – just make marks quickly and see what results from the accumulation!
+### IN-CLASS DRAWINGS  
+Below are some of the exercises we'll do in class. The first few (and the last one) are inspired by [Zach Lieberman](http://thesystemis.com) (who also does really cool work with code and art, btw). In all of these, it's best not to think too much – just make marks quickly and see what results from the accumulation!
 
 1. Each member of your group should draw a dot on the page, one at a time, in a point that is as far from other dots as possible. Repeat many times and as quickly as possible.  
 
@@ -34,12 +34,16 @@ Below are some of the exercises we'll do in class. The first few are inspired by
 4. Draw a curving line in from the edge of the paper. Each person should draw another curving line from the edge, not touching any other lines. Repeat.  
 
 5. From Sol LeWitt:  
+
 WORK FROM INSTRUCTIONS (1971):  
 USING A BLACK, HARD CRAYON DRAW A TWENTY INCH SQUARE.  
 DIVIDE THIS SQUARE INTO ONE INCH SQUARES. WITHIN EACH  
 ONE INCH SQUARE, DRAW NOTHING, OR DRAW A DIAGONAL  
 STRAIGHT LINE FROM CORNER TO CORNER OR TWO CROSSING  
 STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER.  
+  
+(Our twist: draw in one square, then pass to the person on your right.)  
+6. Using the pre-printed shapes, draw a series of evenly-spaced points along the edge, about 20-30 of them. Pass the person on your right. On this new sheet, write a set of simple instructions about what to do from these points. Pass to the right again and carry out the instructions on this new sheet.
 
 ***
 
