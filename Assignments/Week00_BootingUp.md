@@ -55,10 +55,12 @@ Below are some of the exercises we'll do in class. The first few (and the last o
 * [Yoko Ono's](https://en.wikipedia.org/wiki/Yoko_Ono) book *Grapefruit*  
 * Dick Higgins' [*Danger Music #17*](https://www.moma.org/collection/works/127389)  
 * [George Brecht's](https://en.wikipedia.org/wiki/George_Brecht) box of [Fluxus](https://monoskop.org/images/c/c1/Brecht_George_Water_Yam_1963.pdf) scores [*Water Yam*](https://monoskop.org/images/c/c1/Brecht_George_Water_Yam_1963.pdf)  
+* The massive [*DO IT* archive](http://projects.e-flux.com/do_it/manuals/0_manual.html) online  
 * ["Massively Multiplayer Soba"](http://www.tiltfactor.org/game/massively-multiplayer-urban-games/) at Conflux Festival  
 * [Manfred Mohr](https://en.wikipedia.org/wiki/Manfred_Mohr)  
 * [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r)  
 * Daniel John Jones' [*Cubic Interpolations*](http://www.erase.net/weblog/2013-07/cube-interpolations)  
+* Casey Reas's (who co-created Processing) [collection of process documentation](https://drive.google.com/file/d/0B9h469--G5OwOGVfVmUxZUQ5VzA/view) from 2004–2010 (giant PDF alert)  
 
 *Top: Sol LeWitt's *Six Geometric Figures* wall drawing from 1980-81.*
 
