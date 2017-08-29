@@ -55,6 +55,7 @@ Below are some of the exercises we'll do in class. The first few (and the last o
 * [Yoko Ono's](https://en.wikipedia.org/wiki/Yoko_Ono) book *Grapefruit*  
 * Dick Higgins' [*Danger Music #17*](https://www.moma.org/collection/works/127389)  
 * [George Brecht's](https://en.wikipedia.org/wiki/George_Brecht) box of [Fluxus](https://monoskop.org/images/c/c1/Brecht_George_Water_Yam_1963.pdf) scores [*Water Yam*](https://monoskop.org/images/c/c1/Brecht_George_Water_Yam_1963.pdf)  
+* ["Massively Multiplayer Soba"](http://www.valuesatplay.org/massively-multiplayer-soba)  
 * [Manfred Mohr](https://en.wikipedia.org/wiki/Manfred_Mohr)  
 * [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r)  
 * Daniel John Jones' [*Cubic Interpolations*](http://www.erase.net/weblog/2013-07/cube-interpolations)  
