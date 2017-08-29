@@ -33,16 +33,13 @@ Below are some of the exercises we'll do in class. The first few (and the last o
 
 4. Draw a curving line in from the edge of the paper. Each person should draw another curving line from the edge, not touching any other lines. Repeat.  
 
-5. From Sol LeWitt:  
-
+5. From Sol LeWitt (our twist: draw in one square, then pass to the person on your right)  
 WORK FROM INSTRUCTIONS (1971):  
 USING A BLACK, HARD CRAYON DRAW A TWENTY INCH SQUARE.  
 DIVIDE THIS SQUARE INTO ONE INCH SQUARES. WITHIN EACH  
 ONE INCH SQUARE, DRAW NOTHING, OR DRAW A DIAGONAL  
 STRAIGHT LINE FROM CORNER TO CORNER OR TWO CROSSING  
 STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER.  
-  
-(Our twist: draw in one square, then pass to the person on your right.)  
 6. Using the pre-printed shapes, draw a series of evenly-spaced points along the edge, about 20-30 of them. Pass the person on your right. On this new sheet, write a set of simple instructions about what to do from these points. Pass to the right again and carry out the instructions on this new sheet.
 
 ***
