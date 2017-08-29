@@ -35,7 +35,6 @@ Below are some of the exercises we'll do in class. The first few (and the last o
 
 5. From Sol LeWitt, using pre-printed templates. (Our twist: draw in one square, then pass to the person on your right.)  
 
-<br>
 
     WORK FROM INSTRUCTIONS (1971):  
     USING A BLACK, HARD CRAYON DRAW A TWENTY INCH SQUARE.  
@@ -44,7 +43,6 @@ Below are some of the exercises we'll do in class. The first few (and the last o
     STRAIGHT LINE FROM CORNER TO CORNER OR TWO CROSSING  
     STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER.
 
-<br>
 
 6. Using the pre-printed shapes, draw a series of evenly-spaced points along the edge, about 20-30 of them. Pass the person on your right. On this new sheet, write a set of simple instructions about what to do from these points. Pass to the right again and carry out the instructions on this new sheet.
 
