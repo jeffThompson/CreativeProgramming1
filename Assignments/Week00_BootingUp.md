@@ -23,7 +23,7 @@ We also have to "boot up" a few things before we can start coding. Please:
 ***
 
 ### IN-CLASS DRAWINGS  
-Below are some of the exercises we'll do in class. The first few (and the last one) are inspired by [Zach Lieberman](http://thesystemis.com) (who also does really cool work with code and art, btw). In all of these, it's best not to think too much – just make marks quickly and see what results from the accumulation!
+Below are some of the exercises we'll do in class. The first few, and the last one, are inspired by [Zach Lieberman](http://thesystemis.com) (who also does really cool work with code and art, btw). In all of these, it's best not to think too much – just make marks quickly and see what results from the accumulation!
 
 1. Each member of your group should draw a dot on the page, one at a time, in a point that is as far from other dots as possible. Repeat many times and as quickly as possible.  
 
@@ -41,7 +41,12 @@ Below are some of the exercises we'll do in class. The first few (and the last o
 `STRAIGHT LINE FROM CORNER TO CORNER OR TWO CROSSING`  
 `STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER.`  
 
-6. Using the pre-printed shapes, draw a series of evenly-spaced points along the edge, about 20-30 of them. Pass the person on your right. On this new sheet, write a set of simple instructions about what to do from these points. Pass to the right again and carry out the instructions on this new sheet.
+6. From avant-garde composer and musician [La Monte Young](https://en.wikipedia.org/wiki/La_Monte_Young), written in 1960 ([more of his text scores](https://en.wikipedia.org/wiki/Compositions_1960#cite_note-9)):  
+`#10 ("to Bob Morris")`  
+`Instructions:`  
+`Draw a straight line and follow it.`  
+
+7. Using the pre-printed shapes, draw a series of evenly-spaced points along the edge, about 20-30 of them. Pass the person on your right. On this new sheet, write a set of simple instructions about what to do from these points. Pass to the right again and carry out the instructions on this new sheet.
 
 ***
 
