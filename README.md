@@ -3,7 +3,7 @@ CREATIVE PROGRAMMING 1
 
     Instructor      Prof. Jeff Thompson
     Email           jeff.thompson@stevens.edu
-    Office/hours    Morton 208, Tues/Thurs 2–3pm
+    Office/hours    Morton 208, Tues/Thurs 2.30–3.30pm
 
     Meeting times   Thursdays 9.00am–12.50pm
     Location        Visual Arts & Technology Lab
