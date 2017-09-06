@@ -3,11 +3,13 @@
 ROBOT DRAWINGS
 ====
 
-### DUE: TUESDAY, FEBRUARY 7
+### DUE: THURSDAY, SEPT 14
 
-Using the code basics you learned today, your assignment is to **generate one drawing of a robot using only code.** Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels, and exported as a PNG file.**
+Today we have amazingly deep programs for making art using computers, like Photoshop and Maya. But the concepts behind these tools is the same as it was in the earliest days of computer graphics: basic shapes, a coordinate system, pixels and colors on a screen. This week, we'll explore these as our toolset and get more familiar thinking about images as numbers and positions.
 
-The basic structure of your sketch will be:
+Building on the code examples you learned today, your assignment is to **generate one drawing of a robot using only code.** Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels, and exported as a PNG file.**
+
+Create a sketch called `LastnameFirstname_ROBOT`. The basic structure of your sketch will be:
 
     void setup() {
     	size(800,800);
@@ -18,12 +20,12 @@ The basic structure of your sketch will be:
     	save("LastnameFirstname_ROBOT.png");
     }
 
-*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions.*
+*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. For loops are ok, but no animation please!*
 
 ### STRETCH GOALS  
 No problem drawing your robot? Try these challenges:
 
-* Make your image resizable using `width` and `height` instead of set positions  
+* Make your image resizable using `width` and `height` instead of set positions.  
 * Try adding shading to your robot, and/or drawing in perspective!
 
 ### TURNING IN  
@@ -33,7 +35,7 @@ To turn in your project, zip your sketch's folder (with the code and png file in
 * On Mac, click `Compress...` to zip  
 * On PC, click `Send To > Compressed...`
 
-Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class. In class next week, we'll run the code and look at everyone's robots together.
+If necessary, rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of class. In class next week, we'll run the code and look at everyone's robots together.
 
 ![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/OscilloscopeCamera-1.jpg)
 
@@ -41,11 +43,12 @@ Rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas before the start of
 
 ### PROJECTS/ARTISTS SHOWN  
 
-* Ivan Sutherland's [*Sketchpad*](https://en.wikipedia.org/wiki/Sketchpad) system ([video](https://youtu.be/USyoT_Ha_bA?t=3m30s))  
+* The collages of [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse), who uses simple shapes to create beautiful and dynamic drawings  
+* Before the computer mouse and interactive drawing software: programming by [punchcard](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)  
+* Ivan Sutherland's [*Sketchpad*](https://en.wikipedia.org/wiki/Sketchpad) system ([video](https://youtu.be/USyoT_Ha_bA?t=3m30s)) and the [light pen](https://en.wikipedia.org/wiki/Light_pen)  
 * *The Incredible Machine: Applications, Computer Graphics, Look at Future Uses* from Bell Laboratories in the 1960s, including lots of examples of input and output ([video](https://www.youtube.com/watch?v=r18i-uR6BD4))  
-* Programming by [punchcard](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)  
 * John Whitney's animation [*Catalog*](https://www.youtube.com/watch?v=TbV7loKp69s), created in 1966 as a record of the many visual effects he was able to create with the computer  
-* Wall drawings by artist Sol Lewitt, completed from written instructions  
+* [Lillian Schwartz](https://en.wikipedia.org/wiki/Lillian_Schwartz), working at Bell Labs, created many early computer animations including [*ENIGMA*](http://lillian.com/1972-enigma-4-min-20-sec/) from 1972  
 * Before printers, artists like John Whitney would output their work to CRT screens and photograph them (for animations, frame-by-frame) using devices like above  
 
 ### GRADING RUBRIC  
