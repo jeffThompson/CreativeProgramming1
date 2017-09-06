@@ -9,7 +9,7 @@ Today we have amazingly deep programs for making art using computers, like Photo
 
 Building on the code examples you learned today, your assignment is to **generate one drawing of a robot using only code.** Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. **Your sketch should be 800 x 800 pixels, and exported as a PNG file.**
 
-Create a sketch called `LastnameFirstname_ROBOT`. The basic structure of your sketch will be:
+Create a sketch called `LastnameFirstname_ROBOT` – the basic structure will be:
 
     void setup() {
     	size(800,800);
@@ -20,7 +20,7 @@ Create a sketch called `LastnameFirstname_ROBOT`. The basic structure of your sk
     	save("LastnameFirstname_ROBOT.png");
     }
 
-*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. For loops are ok, but no animation please!*
+*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example.) Making functions to clean up your code is ok, but no for loops or animation please!*
 
 ### STRETCH GOALS  
 No problem drawing your robot? Try these challenges:
