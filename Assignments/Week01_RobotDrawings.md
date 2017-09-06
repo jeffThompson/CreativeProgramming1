@@ -20,7 +20,7 @@ Create a sketch called `LastnameFirstname_ROBOT` – the basic structure will be
     	save("LastnameFirstname_ROBOT.png");
     }
 
-*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example.) Making functions to clean up your code is ok, but no for loops or animation please!*
+*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for loops or animation please!*
 
 ### STRETCH GOALS  
 No problem drawing your robot? Try these challenges:
