@@ -1,13 +1,16 @@
-![An example of an algorithmic quilt](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week02_IterationAndLoops/NinePatch_BarbaraYoder_1920-detail.jpg)
+for week where we learn functions as reusable code, a paper from Grace Hopper describing their birth:
+
+
+![An example of a traditional quilt](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week02_IterationAndLoops/NinePatch_BarbaraYoder_1920-detail.jpg)
 
 ALGORITHMIC QUILTS
 ====
 
-### DUE: TUESDAY, FEBRUARY 14
+### DUE: THURSDAY, SEPTEMBER 21  
 
-One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying this text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching traditional quilt patterns and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
+One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching traditional quilt patterns and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
 
-**Your quilt sketch should be 800x800 pixels and exported as a png file, then everything zipped and uploaded to Canvas, just like last week.**
+**Your quilt sketch should be 800 x 800 pixels and exported as a png file, then everything zipped and uploaded to Canvas, just like last week.**
 
 Want to see what this process might have looked like in 1984? See [this article in *Compute! Gazette* issue 13](https://archive.org/stream/1984-07-computegazette/Compute_Gazette_Issue_13_1984_Jul#page/n85/mode/2up) on page 83.
 
@@ -24,9 +27,12 @@ Try adding these elements to your quilt:
 ### PROJECT REQUIREMENTS  
 
 * Drawings of at least 10 quilt patterns from Brackman's book, or from patterns you find elsewhere – bring these to class next week!  
-* Finished quilt code and image, uploaded as a zip  
+* Quilt sketch should be named `LastnameFirstname_QUILT` and be 800 x 800 pixels.  
+* Exported image of your quilt, also named `LastnameFirstname_QUILT.png`.  
+* Zip your sketch folder, with the image in it, and upload to Canvas.  
 
 ### RESOURCES  
+
 * The [graph paper](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project  
 * Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
 * The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
@@ -34,14 +40,11 @@ Try adding these elements to your quilt:
 * Read more about [Girih tiles](https://en.wikipedia.org/wiki/Girih_tiles), used in Islamic architecture  
 * And if you want to get mathier, read about [aperiodic tiling](https://en.wikipedia.org/wiki/Aperiodic_tiling), [Penrose tiles](https://en.wikipedia.org/wiki/Penrose_tiling), and [aperiodic sets of tiles](https://en.wikipedia.org/wiki/List_of_aperiodic_sets_of_tiles)  
 
-### TURNING IN  
-To turn in your project, zip your sketch's folder (with the code and png file in it). To zip a folder:
+### IMAGES SHOWN  
 
-* Right-click the sketch folder...  
-* On Mac, click `Compress...` to zip  
-* On PC, click `Send To > Compressed...`
-
-Rename to `LastnameFirstname_QUILT.zip` and upload to Canvas before the start of class. Bring your drawings too!
+* [Bauhaus-era](https://en.wikipedia.org/wiki/Bauhaus) quilts and textiles by [Anni Albers](https://en.wikipedia.org/wiki/Anni_Albers), [Gertrud Arndt](https://en.wikipedia.org/wiki/Gertrud_Arndt), and [Sophie Taeuber-Arp](https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp)  
+* Islamic tile from Morocco, Spain, Iran, and Uzbekistan  
+* Images of tiling from mathematics and science, such as the Penrose Tile and bismuth crystals  
 
 ### GRADING RUBRIC  
 Your project will be graded with the following rubric:
