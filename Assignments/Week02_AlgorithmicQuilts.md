@@ -1,6 +1,3 @@
-for week where we learn functions as reusable code, a paper from Grace Hopper describing their birth:
-
-
 ![An example of a traditional quilt](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week02_IterationAndLoops/NinePatch_BarbaraYoder_1920-detail.jpg)
 
 ALGORITHMIC QUILTS
@@ -34,11 +31,12 @@ Try adding these elements to your quilt:
 ### RESOURCES  
 
 * The [graph paper](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project  
-* Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
+* Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
 * The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
 * A wonderful video documenting the Met Museum's [re-created Moroccan courtyard](https://www.youtube.com/watch?v=Og6cTlwBTrk) (which you can go see IRL, too!)  
 * Read more about [Girih tiles](https://en.wikipedia.org/wiki/Girih_tiles), used in Islamic architecture  
 * And if you want to get mathier, read about [aperiodic tiling](https://en.wikipedia.org/wiki/Aperiodic_tiling), [Penrose tiles](https://en.wikipedia.org/wiki/Penrose_tiling), and [aperiodic sets of tiles](https://en.wikipedia.org/wiki/List_of_aperiodic_sets_of_tiles)  
+* Want to read about the birth of the function, created by Grace Hopper in 1952? See the `Optional Readings` section for this week.  
 
 ### IMAGES SHOWN  
 
