@@ -36,7 +36,7 @@ Try adding these elements to your quilt:
 * A wonderful video documenting the Met Museum's [re-created Moroccan courtyard](https://www.youtube.com/watch?v=Og6cTlwBTrk) (which you can go see IRL, too!)  
 * Read more about [Girih tiles](https://en.wikipedia.org/wiki/Girih_tiles), used in Islamic architecture  
 * And if you want to get mathier, read about [aperiodic tiling](https://en.wikipedia.org/wiki/Aperiodic_tiling), [Penrose tiles](https://en.wikipedia.org/wiki/Penrose_tiling), and [aperiodic sets of tiles](https://en.wikipedia.org/wiki/List_of_aperiodic_sets_of_tiles)  
-* Want to read about the birth of the function, created by Grace Hopper in 1952? See the `Optional Readings` section for this week.  
+* Want to read about the birth of the function, created by Grace Hopper in 1952? See the `Optional Readings` section for this week  
 
 ### IMAGES SHOWN  
 
