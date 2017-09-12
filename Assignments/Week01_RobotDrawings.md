@@ -50,6 +50,7 @@ If necessary, rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas befor
 * John Whitney's animation [*Catalog*](https://www.youtube.com/watch?v=TbV7loKp69s), created in 1966 as a record of the many visual effects he was able to create with the computer  
 * [Lillian Schwartz](https://en.wikipedia.org/wiki/Lillian_Schwartz), working at Bell Labs, created many early computer animations including [*ENIGMA*](http://lillian.com/1972-enigma-4-min-20-sec/) from 1972  
 * Before printers, artists like John Whitney would output their work to CRT screens and photograph them (for animations, frame-by-frame) using devices like above  
+* Single-line drawings by Waclaw Szpakowski in the 1920s  
 * The amazing (and relevant to this week) *The Art of Computer Designing: A Black and White Approach* by Osamu Sato from 1993  
 
 ### GRADING RUBRIC  
