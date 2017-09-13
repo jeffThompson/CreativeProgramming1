@@ -44,6 +44,7 @@ Try adding these elements to your quilt:
 * Images from [*Encyclopedia of Needlework*](https://archive.org/details/encyclopediaofne00dill) by Thérèse de Dillmont, published in 1890  
 * [Bauhaus-era](https://en.wikipedia.org/wiki/Bauhaus) quilts and textiles by [Anni Albers](https://en.wikipedia.org/wiki/Anni_Albers), [Gertrud Arndt](https://en.wikipedia.org/wiki/Gertrud_Arndt), and [Sophie Taeuber-Arp](https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp)  
 * Islamic tile from Morocco, Spain, Iran, and Uzbekistan  
+* Quilts, quilt/paintings, and quilt/sculptures of [Sanford Biggers](http://www.marianneboeskygallery.com/artists/sanford-biggers)  
 * Drawings of [tessellated](https://en.wikipedia.org/wiki/Tessellation) animals and figures by [M. C. Escher](https://en.wikipedia.org/wiki/M._C._Escher)  
 * Paintings by [Peter Halley](http://www.peterhalley.com/)  
 * Images of tiling from mathematics and science, such as the Penrose Tile and bismuth crystals  
