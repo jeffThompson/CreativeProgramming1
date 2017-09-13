@@ -5,11 +5,11 @@ ALGORITHMIC QUILTS
 
 ### DUE: THURSDAY, SEPTEMBER 21  
 
-One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching traditional quilt patterns and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
+One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. This week, we'll use the ideas of iteration, `push/popMatrix()`, and custom functions to build algorithmically-generated quilts. After researching [traditional quilt patterns](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of designs might be appropriate for a computer-generated quilt.
+
+(Want to see what this process might have looked like in 1984? See [this article in *Compute! Gazette* issue 13](https://archive.org/stream/1984-07-computegazette/Compute_Gazette_Issue_13_1984_Jul#page/n85/mode/2up) on page 83.)
 
 **Your quilt sketch should be 800 x 800 pixels and exported as a png file, then everything zipped and uploaded to Canvas, just like last week.**
-
-Want to see what this process might have looked like in 1984? See [this article in *Compute! Gazette* issue 13](https://archive.org/stream/1984-07-computegazette/Compute_Gazette_Issue_13_1984_Jul#page/n85/mode/2up) on page 83.
 
 *Above: a "Nine Patch" pattern quilt by Barabara Yoder, 1920*  
 
