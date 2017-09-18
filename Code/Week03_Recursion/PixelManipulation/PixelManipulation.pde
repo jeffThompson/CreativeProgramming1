@@ -6,7 +6,8 @@ Jeff Thompson | 2017 | jeffreythompson.org
 In addition to drawing shapes, Processing can also
 access the individual pixels onscreen and, as we'll
 see later, of images too. The pixel values of the
-sketch are stored in an array of color values.
+sketch are stored in an array (a list) of values that
+are the "color" type.
 
 */
 
@@ -23,7 +24,7 @@ void setup() {
   
   // we can also set a pixel to a specific color
   // once done, we update the sketch's pixels
-  pixels[320000] = color(0);
+  pixels[ pixels.length-1 ] = color(0);
   updatePixels();
   
   // the pixel array is one-dimensional, but our image

@@ -35,19 +35,21 @@ void branch(float x, float y, float len) {
   
   // for extra fun, try changing the stroke color
   // using the length of the line
-  // stroke(map(len, 400,minLen, 20,230));
+  // stroke( map(len, 400,minLen, 20,230) );
   
-  // draw vertical pieces
+  // each iteration draws an "H" shape made of three lines
+  // draw the horizontal piece...
+  line(x-len/2, y, x+len/2, y);
+  
+  // ...and draw the vertical pieces
   line(x-len/2, y-len/2, x-len/2, y+len/2);   // left
   line(x+len/2, y-len/2, x+len/2,y+len/2);    // right
-  
-  // and draw horizontal pieces
-  line(x-len/2, y, x+len/2, y);
   
   // reduce length
   len /= 2;
   
-  // recursively draw branches
+  // recursively draw branches, passing in new
+  // starting points from the tips of the "H"
   if (len > minLen) {
     branch(x-len, y-len, len);    // upper L
     branch(x-len, y+len, len);    // lower L

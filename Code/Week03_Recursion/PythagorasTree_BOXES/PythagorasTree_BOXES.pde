@@ -1,19 +1,10 @@
 
 /*
-PYTHAGORAS TREE
+PYTHAGORAS TREE: BOXES
 Jeff Thompson | 2017 | jeffreythompson.org
 
-A classic fractal, the Pythagoras tree uses a simple recusive
-function. Like all fractals, when the variables are changed
-slightly, the results vary widely.
-
-This recursion is hard to follow mentally, but the metaphor of
-a tree is apt: as the function is called, it branches and branches
-and branches. When the exit condition is reached, it returns to
-where it left off and continues down the opposite branch.
- 
-For more info: 
-http://en.wikipedia.org/wiki/Pythagoras_tree_(fractal)
+A modified version of the more basic line example, using squares
+instead.
 
 CHALLENGES:
 1. Try changing the variables below, and the reduction formula
@@ -34,7 +25,7 @@ float rotAngle = 45;     // rotation angle for each branch
 
 
 void setup() {
-  size(1000, 800);
+  size(800, 800);
   background(200);
   
   // draw rects from center, like ellipse()

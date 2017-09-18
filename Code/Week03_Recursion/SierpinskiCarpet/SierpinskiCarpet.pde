@@ -7,6 +7,10 @@ The Sierpinski carpet, described by mathematician
 Wacław Sierpiński in 1916, is a recusive pattern
 that makes smaller and smaller copies of itself.
 
+In this classic example, we draw a square, then draw
+eight smaller squares around it. The process repeats,
+getting smaller each time but more tightly packed.
+
 More about the Sierpinski carpet here:
 https://en.wikipedia.org/wiki/Sierpinski_carpet
 
@@ -39,9 +43,11 @@ void setup() {
 }
 
 
+// to draw the carpet, we pass in the current recursion
+// count, an x/y position, and the size of the square
 void carpet(int n, float x, float y, float s) {
   
-  // center rect
+  // draw a square in the current location 
   rect(x, y, s, s);
   
   // run until we've reached the specified
@@ -52,16 +58,19 @@ void carpet(int n, float x, float y, float s) {
     n += 1;
     
     // calculate a new size for the squares
+    // try changing this and see what happens!
     float newSize = s/3;
     
     // draw in 8 directions
-    carpet(n, x-s, y-s, newSize);    // upper L
-    carpet(n, x, y-s, newSize);      // up
-    carpet(n, x+s, y-s, newSize);    // upper R
-    carpet(n, x+s, y, newSize);      // L
-    carpet(n, x+s, y+s, newSize);    // lower R
-    carpet(n, x, y+s, newSize);      // down
-    carpet(n, x-s, y+s, newSize);    // lower L
-    carpet(n, x-s, y, newSize);      // R
+    // for each, we move over by the old size
+    
+    carpet(n, x-s, y-s, newSize);      // upper L
+    carpet(n, x,   y-s, newSize);      // up
+    carpet(n, x+s, y-s, newSize);      // upper R
+    carpet(n, x+s, y,   newSize);      // L
+    carpet(n, x+s, y+s, newSize);      // lower R
+    carpet(n, x,   y+s, newSize);      // down
+    carpet(n, x-s, y+s, newSize);      // lower L
+    carpet(n, x-s, y,   newSize);      // R
   }
 }

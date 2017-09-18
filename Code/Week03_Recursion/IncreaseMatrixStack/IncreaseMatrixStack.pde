@@ -30,8 +30,7 @@ void setup(){
   stroke(0, 30);
   rectMode(CENTER);
   
-  // initial translation to center
-  // then draw
+  // initial translation to center, then draw
   translate(width/2,height/2);
   doSomething(0, 800);
 }

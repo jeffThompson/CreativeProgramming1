@@ -12,12 +12,14 @@ CHALLENGES:
    radii, and the amount that the radius is changed.
 2. Can you drive color or transparency shifts within
    the recursive function? (Hint: use map())
+3. Can you re-write our recursive function to work by
+   a set number of steps, instead of by radius?
 
 */
 
 
-float radius =    700;    // starting radius
-float minRadius = 10;     // exit condition
+float radius =    400;    // starting radius
+float minRadius = 50;     // exit condition
 
 // note that variables have "scope" – the context where they can be seen
 // variables declared above setup() are "global" and can be seen
