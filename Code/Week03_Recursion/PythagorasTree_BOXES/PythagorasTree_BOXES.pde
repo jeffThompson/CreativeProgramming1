@@ -19,7 +19,7 @@ CHALLENGES:
 */
 
 
-float boxSize =  140;    // initial size of box
+float boxSize =  200;    // initial size of box
 int minSize =    5;      // minimum size for box (sets the exit condition)
 float rotAngle = 45;     // rotation angle for each branch
 
@@ -31,15 +31,16 @@ void setup() {
   // draw rects from center, like ellipse()
   rectMode(CENTER);
   
-  // move to starting location
+  // move to starting location off the bottom edge
+  translate(width/2, height-boxSize/2);
+  
   // and draw first box
-  translate(width/2, height-boxSize);
   fill(0, 100);
   noStroke();
   rect(0, 0, boxSize, boxSize);
 
   // recursively draw branches
-  branch(boxSize);    // the box size is passed as an argument
+  branch(boxSize);
 }
 
 
@@ -56,25 +57,28 @@ void branch(float s) {
   // classically, this would be the formula used
   // s *= 0.5 * sqrt(2);
 
-  // if the size is not too small, draw and continue recursion
-  if (s > minSize) {                                
-
-    // rotate left
-    pushMatrix();                     // local transformations
-    translate(-prevS/2, -prevS/2);    // move to upper-L corner of previous box
-    rotate(radians(-rotAngle));       // rotate branch
-    translate(s/2, -s/2);             // move to center of new box
-    rect(0, 0, s, s);                 // draw the rectangle
-    branch(s);                        // recursively call the function with the new size
-    popMatrix();
-
-    // rotate right
-    pushMatrix();                     // ditto for right side
-    translate(prevS/2, -prevS/2);     // note the different values for translate()
-    rotate(radians(rotAngle));        // and rotate(), which move the branch off
-    translate(-s/2, -s/2);            // to the other side
-    rect(0, 0, s, s);
-    branch(s);
-    popMatrix();
+  // if the size is too small, stop
+  if (s < minSize) {
+    return;
   }
+  
+  // otherwise, draw and continue recursion
+
+  // rotate left
+  pushMatrix();                     // local transformations
+  translate(-prevS/2, -prevS/2);    // move to upper-L corner of previous box
+  rotate(radians(-rotAngle));       // rotate branch
+  translate(s/2, -s/2);             // move to center of new box
+  rect(0, 0, s, s);                 // draw the rectangle
+  branch(s);                        // recursively call the function with the new size
+  popMatrix();
+
+  // rotate right
+  pushMatrix();                     // ditto for right side
+  translate(prevS/2, -prevS/2);     // move to right corner instead
+  rotate(radians(rotAngle));        // rotate() opposite direction
+  translate(-s/2, -s/2);            // to the other side
+  rect(0, 0, s, s);
+  branch(s);
+  popMatrix();
 }

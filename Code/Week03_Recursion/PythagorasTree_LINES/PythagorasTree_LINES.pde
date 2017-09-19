@@ -27,7 +27,7 @@ CHALLENGES:
  
 */
 
-float startLen = 100;    // initial length of line
+float startLen = 300;    // initial length of line
 float minLen =   10;     // min length (sets exit condition)
 
 

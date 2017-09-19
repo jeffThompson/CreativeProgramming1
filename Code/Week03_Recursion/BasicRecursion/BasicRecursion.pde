@@ -48,8 +48,12 @@ void recursiveLine(int x) {
   
   // exit condition to stop recursion
   // (this is necessary, or it will go on forever!)
-  if (x < width) {            // continue until x is larger than width
-    line(x, 0, x, height);    // draw a line at the current position
-    recursiveLine(x);         // and call the function again
+  if (x > width) {    // continue until x is greater than width
+    return;
   }
+  
+  // draw a line at the current position
+  // and call the function again
+  line(x, 0, x, height);
+  recursiveLine(x);
 }

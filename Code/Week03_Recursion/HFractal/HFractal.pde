@@ -3,7 +3,7 @@
 H-FRACTAL
 Jeff Thompson | 2017 | jeffreythompson.org
  
-Similar to the Sierpinski carpet, the h-fractal has
+Similar to the Sierpinski carpet, the H-fractal has
 features that repeat at smaller and smaller scales.
  
 More info here:

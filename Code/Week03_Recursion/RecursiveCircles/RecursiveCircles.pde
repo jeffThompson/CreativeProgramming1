@@ -7,6 +7,13 @@ A slightly more complex take on our recursive
 lines example – here we draw circles branching
 off from the left/right and up/down.
 
+While our first example could be accomplished with
+a for loop, this one can't. Each step contains a 
+smaller version of the previous one, packing more
+and more tightly inward. This is what's really cool
+about recursion, and the ability to define such a
+complex system with just a few lines of code!
+
 CHALLENGES:
 1. Try changing the values for the initial and minimum
    radii, and the amount that the radius is changed.
@@ -55,4 +62,12 @@ void drawCircle(float x, float y, float r) {
     drawCircle(x, y-r, r);
     drawCircle(x, y+r, r);
   }
+  
+  // NOTE: this method for defining the exit
+  // condition is a little different – here we
+  // run the recursive code *inside* the if
+  // statement. This means that the function
+  // finishes when the radius is less than the
+  // minRadius, then quits. Either way works,
+  // but sometimes one is clearer than the other.
 }
