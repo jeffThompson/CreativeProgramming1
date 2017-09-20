@@ -24,9 +24,9 @@ Try adding these elements to your quilt:
 ### PROJECT REQUIREMENTS  
 
 * Drawings of at least 10 quilt patterns from Brackman's book, or from patterns you find elsewhere – bring these to class next week!  
-* Quilt sketch should be named `LastnameFirstname_QUILT` and be 800 x 800 pixels.  
-* Exported image of your quilt, also named `LastnameFirstname_QUILT.png`.  
-* Zip your sketch folder, with the image in it, and upload to Canvas.  
+* Quilt sketch should be named `LastnameFirstname_QUILT` and be 800 x 800 pixels  
+* Exported image of your quilt, also named `LastnameFirstname_QUILT.png`  
+* Zip your sketch folder, with the image in it, and upload to Canvas  
 
 ### RESOURCES  
 
