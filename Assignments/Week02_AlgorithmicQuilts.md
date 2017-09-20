@@ -22,14 +22,12 @@ Try adding these elements to your quilt:
 * Add ["quilting"](https://en.wikipedia.org/wiki/Quilting) to your finished image (quilting is decorative stitching that is over the top of the pieced pattern)  
 
 ### PROJECT REQUIREMENTS  
-
 * Drawings of at least 10 quilt patterns from Brackman's book, or from patterns you find elsewhere – bring these to class next week!  
 * Quilt sketch should be named `LastnameFirstname_QUILT` and be 800 x 800 pixels  
 * Exported image of your quilt, also named `LastnameFirstname_QUILT.png`  
 * Zip your sketch folder, with the image in it, and upload to Canvas  
 
 ### RESOURCES  
-
 * The [graph paper](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/QuiltGraphPaper.pdf) we used in class – print more if you need it for planning your project  
 * Barbara Brackman's [*Encyclopedia of Pieced Quilt Patterns*](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Readings/Week02_IterationAndLoops/EncyclopediaOfPiecedQuiltPatterns_BarbaraBrackman.pdf) includes over 1000 different quilt patterns  
 * The University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
@@ -39,7 +37,6 @@ Try adding these elements to your quilt:
 * Want to read about the birth of the function, created by Grace Hopper in 1952? See the `Optional Readings` section for this week  
 
 ### IMAGES SHOWN  
-
 * Historic quilts from around the world (see the `Images` folder for the details)  
 * Images from [*Encyclopedia of Needlework*](https://archive.org/details/encyclopediaofne00dill) by Thérèse de Dillmont, published in 1890  
 * [Bauhaus-era](https://en.wikipedia.org/wiki/Bauhaus) quilts and textiles by [Anni Albers](https://en.wikipedia.org/wiki/Anni_Albers), [Gertrud Arndt](https://en.wikipedia.org/wiki/Gertrud_Arndt), and [Sophie Taeuber-Arp](https://en.wikipedia.org/wiki/Sophie_Taeuber-Arp)  

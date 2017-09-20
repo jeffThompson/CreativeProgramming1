@@ -42,7 +42,6 @@ If necessary, rename to `LastnameFirstname_ROBOT.zip` and upload to Canvas befor
 *How people used to "export" images from code – taking a photo of an oscilloscope screen*
 
 ### PROJECTS/ARTISTS SHOWN  
-
 * The collages of [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse), who uses simple shapes to create beautiful and dynamic drawings  
 * Before the computer mouse and interactive drawing software: programming by [punchcard](https://en.wikipedia.org/wiki/Computer_programming_in_the_punched_card_era)  
 * Ivan Sutherland's [*Sketchpad*](https://en.wikipedia.org/wiki/Sketchpad) system ([video](https://youtu.be/USyoT_Ha_bA?t=3m30s)) and the [light pen](https://en.wikipedia.org/wiki/Light_pen)  
