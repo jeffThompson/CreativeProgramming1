@@ -3,11 +3,11 @@
 CLOCKS
 ====
 
-### DUE: TUESDAY, FEBRUARY 28
+### DUE: THURSDAY, OCTOBER 5
 
 This week, we've seen some basic ways of turning a static sketch into an animated one, and in the coming weeks we'll build on this even more, going from animated to interactive. [John Maeda](https://en.wikipedia.org/wiki/John_Maeda) – an artist, designer, educator, and creator of [Design By Numbers](https://en.wikipedia.org/wiki/Design_By_Numbers) (which led to Processing) – made a series of experimental clocks (seen above) as a way of thinking about designing with code. Your assignment, inspired by Maeda's work and the other examples we looked at, is to create your own visual, non-traditional clocks using code.
 
-Think about ways of showing time that are interesting visually, conceptually, or poetically. Your clocks don't need to be easy to read, or even useful! Should they measure traditional units of time, or something personal, biological, political, or unusual? Consider timescale and [alternative divisions of time](https://youtu.be/At5atF4mKiU), and how you can use the built-in `hour()`, `minute()`, `second()`, and `millis()` to drive visuals onscreen. Try to push past the obvious, first ideas and into something suprising.
+Think about ways of showing time that are interesting visually, conceptually, or poetically. Your clocks don't need to be easy to read, or even useful! Should they measure traditional units of time, or something personal, biological, political, or unusual? Consider timescale and [alternative divisions of time](https://youtu.be/At5atF4mKiU), and how you can use the built-in `hour()`, `minute()`, `second()`, and `millis()` to drive visuals onscreen. Try to push past the obvious first ideas and into something suprising.
 
 We'll also have our first quiz next week – if you missed our study session in class, see [the notes](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf).
 
@@ -17,9 +17,14 @@ We'll also have our first quiz next week – if you missed our study session in 
 Try adding these elements to your sketch:
 
 * Can you add boolean "flags" to your code, allowing multiple modes for your clock to take?  
+* Can you record an animated gif of your piece? Use [this library](https://github.com/01010101/GifAnimation) and the sample code in this week's `code` folder  
 
-### TURNING IN  
-To turn in your project, zip your clock code and an image of the sketch running (either exported using code or as a cropped screenshot). Name it `LastnameFirstname_CLOCKS.zip` and upload to Canvas before the start of class.
+### PROJECT REQUIREMENTS  
+* Your project should show time in an interesting, visual way that isn't just a traditional clock  
+* Name your sketch `LastnameFirstname_CLOCK`  
+* Your sketch can be any size, but think about how that changes our experience of your clock  
+* When done, create an image of your clock running, either using the `save()` command or a cropped screenshot  
+* Zip your sketch, with the image insize, and upload it to Canvas before the start of class  
 
 ### READING  
 For next week, please also read:
@@ -67,6 +72,7 @@ Think about how sharing code fits into your view of ownership and making money, 
 * Jürg Lehni's [*Flood Fill – Clock*](https://vimeo.com/16216790)  
 * Not really a clock for telling time, but Skot900's [*Four Letter Clock*](http://www.skot9000.com/four-letter-clock/) is a pretty hilarious clock hack  
 * Lots, lots more from [Golan Levin's *Interactivity & Computation* course](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/)  
+* Even more historical examples from [Wikipedia's history of timekeeping devices](https://en.wikipedia.org/wiki/History_of_timekeeping_devices) page  
 
 ### RESOURCES  
 * Alternate time bases, like [Unix epoch time](https://en.wikipedia.org/wiki/Unix_time) and CW&T's [*Time Since Launch*](http://cwandt.com/#time-since-launch)  
