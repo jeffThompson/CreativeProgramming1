@@ -44,7 +44,7 @@ Try adding these elements to your sketch:
 * In `Readings > Week03` you'll find a PDF of *Snowflakes*, a book from 1863 with lots of amazing drawings  
 * For visual inspiration, consider looking to nature for recursive patterns like ice crystals, broccoli, coral, sea urchin shells, and slime mold  
 * Some programming languages don't have any iteration (like for loops) but do everything with recursion – examples include [Haskell](https://en.wikipedia.org/wiki/Haskell_%28programming_language%29) and [Erlang](https://en.wikipedia.org/wiki/Erlang_%28programming_language%29)  
-* Read more about the history of recursion in computer science from two papers (also in the `Readings` folder)  
+* Read more about the history of recursion in computer science from two papers (also in the `Readings` folder) and [this video from Computerphile](https://youtu.be/HXNhEYqFo0o) on the history of loops and recursion  
 
 ### GRADING RUBRIC  
 Your project will be graded with the following rubric:
