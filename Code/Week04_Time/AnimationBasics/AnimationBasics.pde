@@ -5,10 +5,12 @@ Jeff Thompson | 2017 | jeffreythompson.org
 
 The draw() loop lets us draw animated shapes,
 interact with our sketch, and do other things
-that happen over time.
+that happen over time. It starts after setup()
+is finished, and runs over and over until the
+sketch is stopped.
 
 There is a *ton* more we can do with animation
-and the draw() loop, but we'll return to this
+and the draw() loop, and we'll return to this
 in the Interaction sections throughout the
 semester.
 
@@ -22,7 +24,11 @@ CHALLENGES:
 
 */
 
-float angle = 0;    // updated in the draw() loop
+// if we want variables accessible in setup() and
+// draw(), they need to be "global" variables, which
+// are declared up at the top – here we keep track of
+// an angle of rotation, which gets updated every frame
+float angle = 0;
 
 
 void setup() {

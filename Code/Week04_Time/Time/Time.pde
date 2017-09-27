@@ -3,10 +3,24 @@
 TIME
 Jeff Thompson | 2017 | jeffreythompson.org
 
-Getting the time can be useful for timing events in the
-sketch or for things like formatting unique filenames
-(by adding a timestamp)... and for making clocks, like
-you'll do for your homework this week :)
+Getting the current time can be useful for triggering 
+events in your sketch or for things like formatting 
+unique filenames (by adding a timestamp)... and for 
+making clocks, like you'll do for your homework this week :)
+
+Processing gives us a handful of easy time values:
+
+  millis()    time in milliseconds since the sketch started
+  second()    current time in seconds (0-59)
+  minute()    current time in minutes (0-59)
+  hour()      current time in hours (0-23)
+  day()       current day of the month (1-28/30/31)
+  month()     current month of the year (1-12)
+  year()      current year (ex: 2017)
+
+For more complex time operations (and trust me, time and
+date stuff gets *really* complicated) see:
+https://docs.oracle.com/javase/tutorial/datetime/iso/datetime.html
 
 CHALLENGES:
 1. Can you add milliseconds to our clock? (Hint: since
@@ -51,7 +65,8 @@ void draw() {
   background(0);
   
   // show us the time!
-  // (use nf() to add leading zero the the digits)
+  // (use nf() to add leading zero the the digits – makes em
+  // look nicer, but not necessary)
   fill(255);
   noStroke();
   text(nf(hour(),2) + ":" + nf(minute(),2) + ":" + nf(second(),2), width/2, height/2);

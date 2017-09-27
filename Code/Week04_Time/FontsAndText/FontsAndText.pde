@@ -4,10 +4,10 @@ FONTS AND TEXT
 Jeff Thompson | 2017 | jeffreythompson.org
 
 Displaying text can be very helpful for onscreen feedback
-of how a program is doing, settings of variables, or as
-a visual part of your sketch. Luckily, we're not stuck with
-the default Processing font, and can load (most) any font
-from our system.
+of how a program is doing, seeing the value of variables, 
+or as a visual part of your sketch. Luckily, we're not stuck
+with the default Processing font, and can load (most) any 
+font from our system.
 
 Note this example loads a font from your computer, meaning if
 another user doesn't have that font, it won't look the same.
@@ -32,8 +32,8 @@ void setup() {
   size(800,800);
   
   // first we create a font from one on our system
-  // (to find its name, look in Tools > Create Font...
-  font = createFont("Times-Roman", 120);    // 60 = font size in px
+  // (to find its name, look in Tools > Create Font...)
+  font = createFont("Times-Roman", 120);    // 120 = font size in px
   textAlign(CENTER);                        // set alignment (LEFT, CENTER, RIGHT)
   
   // note that we do this in the setup(), so that the font doesn't
@@ -43,7 +43,7 @@ void setup() {
   // on high-resolution displays (like Mac Retina screens) fonts
   // can look super cruddy in normal mode – but we can set the
   // sketch to run at a higher pixel density to make up for that
-  pixelDensity(displayDensity());    // displayDensity() of 1 = normal, 2 = high-res
+  pixelDensity( displayDensity() );    // displayDensity() of 1 = normal, 2 = high-res
 }
 
 

@@ -40,8 +40,8 @@ ffmpeg -y -r 24 -i %04d.png -vcodec png MySuperCoolVideo.mov
 */
 
 
-int spacing = 6;      // how far apart should the grid be?
-float angle = 0;      // angle of rotation for the grid
+int spacing = 6;        // how far apart should the grid be?
+float angle = 0;        // angle of rotation for the grid
 
 
 void setup() {
@@ -49,6 +49,7 @@ void setup() {
   size(1920,1080);      // standard HD resolution
   //size(3840,2160);    // standard 4k resolution
   
+  // set drawing parameters for the whole sketch
   stroke(255, 100);
   noFill();
 }
