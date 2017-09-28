@@ -74,28 +74,29 @@ Recursion Experiments
 **In class**  
 Conditionals, strings, fonts and text, exporting video files
 
-**Readings**  
-The *Debian Constitution* and *Debian Social Contract*, Creative Commons' *Licensing Considerations*, and *Free Software Is Even More Important Now* by Richard Stallman  
-
 **Homework**  
-Create a clock, open source response, study for [Quiz #1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf)  
+Create a clock, study for [Quiz #1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf)  
 
 \- \- \-
 
 ### WEEK 05: INTERACTIVITY 1  
-(And ⊨ Open Source)
 
 **In class**  
-Discuss readings, contributing to open source projects, mouseX/Y, mousePressed()/Dragged(), background with alpha, importing fonts
+Making things move, mouseX/Y, mousePressed()/Dragged(), background with alpha, importing fonts
+
+**Readings**  
+The *Debian Constitution* and *Debian Social Contract*, Creative Commons' *Licensing Considerations*, and *Free Software Is Even More Important Now* by Richard Stallman  
 
 **Homework**  
-Animated Letterforms
+Animated Letterforms, open source response  
 
 \- \- \-
 
 ### [WEEK 06: RANDOMNESS 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
+(And ⊨ Open Source)
+
 **In class**  
-random(), Brownian motion, Perlin noise, random choices, writing to PDF
+Discuss readings, contributing to open source projects, random(), Brownian motion, Perlin noise, random choices, writing to PDF
 
 **Homework**  
 Begin Randomness project, install Python

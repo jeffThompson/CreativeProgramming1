@@ -26,26 +26,6 @@ Try adding these elements to your sketch:
 * When done, create an image of your clock running, either using the `save()` command or a cropped screenshot  
 * Zip your sketch, with the image insize, and upload it to Canvas before the start of class  
 
-### READING  
-For next week, please also read:
-
-* Richard Stallman's [*Free Software Is Even More Important Now*](https://www.gnu.org/philosophy/free-software-even-more-important.html)  
-* Sections 1, 2, and 3 of the [*Constitution for the Debian Project*](https://www.debian.org/devel/constitution)  
-* The [Debian Social Contract](https://www.debian.org/social_contract) and [*What Does Free Mean?*](https://www.debian.org/intro/free)  
-* Creative Commons' [*License Considerations*](https://creativecommons.org/share-your-work/licensing-considerations/)  
-
-Optional, but you might also want to check out, most all of which are in the `Readings` folder:  
-
-* Gabriella Coleman's excellent book [*Coding Freedom*](http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) (available free online as a PDF)  
-* *Computer Lib/Dream Machines* by Ted Nelson  
-* *Two Bits: The Cultural Significance of Free Software* by Christopher Kelty  
-* [*The Debian Manifesto*](https://www.debian.org/doc/manuals/project-history/ap-manifesto.en.html#sA.2)  
-* Richard Stallman's [*Motives for Writing Free Software*](https://www.gnu.org/philosophy/fs-motives.html)  
-* [*Introduction to Linux: A Brief History of Linux*](http://www.tldp.org/LDP/gs/node3.html)  
-* And a few other random PDfs, stuffed in this week's `Readings` folder...  
-
-Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and publish it as an "issue" here, like you did in the first week. Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
-
 ### PROJECTS SHOWN  
 * John Maeda's [*12 Clocks*](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
 * Yugo Nakamura's [*Hand Drawn Clock*](https://classic.dryang.org/flash/handclock.shtml)  
