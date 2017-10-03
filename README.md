@@ -79,16 +79,16 @@ Create a clock, study for [Quiz #1](https://github.com/jeffThompson/CreativeProg
 
 \- \- \-
 
-### WEEK 05: INTERACTIVITY 1  
+### [WEEK 05: INTERACTIVITY 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_Interactivity.md)  
 
 **In class**  
-Making things move, mouseX/Y, mousePressed()/Dragged(), background with alpha, importing fonts
+Making things move, mouseX/Y, mousePressed()/Dragged(), background with alpha  
 
 **Readings**  
-The *Debian Constitution* and *Debian Social Contract*, Creative Commons' *Licensing Considerations*, and *Free Software Is Even More Important Now* by Richard Stallman  
+*Free Software Is Even More Important Now* by Richard Stallman  
 
 **Homework**  
-Animated Letterforms, open source response  
+Interactivity, open source response  
 
 \- \- \-
 
