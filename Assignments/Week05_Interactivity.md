@@ -5,25 +5,24 @@ INTERACTIVITY
 
 ### DUE: THURSDAY, OCTOBER 12
 
-In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having an input device that translates one's behavior into digital form, that the input data affects the output, and that the output is translated back into real-world phenomena that we can perceive, all in real-time. This week, your assignment is to build a sketch that is interactive in some way, responding to mouse and/or keyboard input.
-
-Think about all the ways of drawing we've covered so far; it may also be helpful to think back to the first week, when a simple set of instructions transformed into surprising drawings. How you approach this, and what it looks like, is up to you, but the result should be a unique exploration of interactivity and the visual.
+In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having three things: an input device that translates one's behavior into digital form, that the input data affects the output, and that the output is translated back into real-world phenomena that we can perceive, all in real-time. This week, your assignment is to build a sketch that is interactive in some way, responding to mouse and/or keyboard input in a visual way. How you approach this, and what it looks like, is up to you, but the result should be a unique exploration of interactivity and the visual.
 
 Think about ways the mouse and keyboard could change:
 
-* Position (follow mouse, flee away, move back-and-forth, still/motion)  
+* Position (stillness/motion, follow the mouse or flee away, move back-and-forth)  
 * Size (things get bigger, smaller, appear, disappear)  
 * Shape (number of sides, switch between shapes)  
 * Rotation (angle, faster/slower, start/stop)  
 * Color (shift or flicker, `lerpColor()`, HSB mode)  
 * How many of something (end condition of for-loop or recursion)  
 * Complex conditions (nest if/else statements depending on interaction)  
+* Constraining movement or changes using `map()`  
 
-Remember! The way your finished code interacts with the viewer and the results it creates are what's important: great code + boring output = boring art.
+Remember! The way your finished code interacts with the viewer and the visual results it creates are what's important: fancy code + boring output = boring art. Same goes for ["feature creep"](https://en.wikipedia.org/wiki/Feature_creep) (aka the potpourri approach). 
 
 In addition to the sketch's interactive functionality, please add a way to export still images (perhaps a key or combination of keys, saved with a timestamp). Save at least two images of your sketch and include in your upload.
 
-*Above: an operator at a SAGE console, using a light pen.*  
+*Above: an operator at a [SAGE console](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment), using a light pen.*  
 
 ### STRETCH GOALS  
 Try adding these elements to your sketch:
@@ -45,7 +44,7 @@ For next week, please also read these articles, found in the `Readings > Open So
 * *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan in the book ["Social Media Reader"](https://archive.org/stream/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc#page/n33/mode/2up)  
 * *Motives for Writing Free Software* by the Free Software Foundation  
 
-Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and publish it as an "issue" here, like you did in the first week. Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
+Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and [publish it as an "issue"](https://github.com/jeffThompson/CreativeProgramming1/issues/new). Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
 
 Optional, but you might also want to check these out too. Most all of them are in the same folder:  
 
@@ -53,7 +52,8 @@ Optional, but you might also want to check these out too. Most all of them are i
 * Richard Stallman's [*Free Software Is Even More Important Now*](https://www.gnu.org/philosophy/free-software-even-more-important.html)  
 * Sections 1, 2, and 3 of the [*Constitution for the Debian Project*](https://www.debian.org/devel/constitution)  
 * The [Debian Social Contract](https://www.debian.org/social_contract) and [*What Does Free Mean?*](https://www.debian.org/intro/free)  
-* Creative Commons' [*License Considerations*](https://creativecommons.org/share-your-work/licensing-considerations/)  * Gabriella Coleman's excellent book [*Coding Freedom*](http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) (available free online as a PDF)  
+* Creative Commons' [*License Considerations*](https://creativecommons.org/share-your-work/licensing-considerations/)  
+* Gabriella Coleman's excellent book [*Coding Freedom*](http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) (available free online as a PDF)  
 * *Computer Lib/Dream Machines* by Ted Nelson  
 * *Two Bits: The Cultural Significance of Free Software* by Christopher Kelty  
 * [*The Debian Manifesto*](https://www.debian.org/doc/manuals/project-history/ap-manifesto.en.html#sA.2)  
