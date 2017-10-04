@@ -42,11 +42,15 @@ Try adding these elements to your sketch:
 ### READING  
 For next week, please also read these articles, found in the `Readings > Open Source` folder:
 
+* *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan in the book ["Social Media Reader"](https://archive.org/stream/TheSocialMediaReader/Mandiberg-theSocialMediaReader-cc-by-sa-nc#page/n33/mode/2up)  
 * *Motives for Writing Free Software* by the Free Software Foundation  
+
+Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and publish it as an "issue" here, like you did in the first week. Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
+
+Optional, but you might also want to check these out too. Most all of them are in the same folder:  
+
+* *The Cathedral and the Bazaar* by Eric Steven Raymond  
 * Richard Stallman's [*Free Software Is Even More Important Now*](https://www.gnu.org/philosophy/free-software-even-more-important.html)  
-
-Optional, but you might also want to check out, most all of which are in the same folder:  
-
 * Sections 1, 2, and 3 of the [*Constitution for the Debian Project*](https://www.debian.org/devel/constitution)  
 * The [Debian Social Contract](https://www.debian.org/social_contract) and [*What Does Free Mean?*](https://www.debian.org/intro/free)  
 * Creative Commons' [*License Considerations*](https://creativecommons.org/share-your-work/licensing-considerations/)  * Gabriella Coleman's excellent book [*Coding Freedom*](http://gabriellacoleman.org/Coleman-Coding-Freedom.pdf) (available free online as a PDF)  
@@ -56,8 +60,6 @@ Optional, but you might also want to check out, most all of which are in the sam
 * Richard Stallman's [*Motives for Writing Free Software*](https://www.gnu.org/philosophy/fs-motives.html)  
 * [*Introduction to Linux: A Brief History of Linux*](http://www.tldp.org/LDP/gs/node3.html)  
 * And a few other random PDfs, stuffed in the `Open Source` readings folder...  
-
-Think about how sharing code fits into your view of ownership and making money, and write up a short response (2-3 paragraphs) and publish it as an "issue" here, like you did in the first week. Title your issue `Firstname Lastname: Open Source Response`. Be specific! Why does the idea of open source and free software appeal to you, or why do you find it difficult to get behind?
 
 ### PROJECTS SHOWN  
 * [A. Michael Noll's](https://en.wikipedia.org/wiki/A._Michael_Noll) work with early computer graphics at Bell Labs in the 1960s  
