@@ -85,7 +85,7 @@ Create a clock, study for [Quiz #1](https://github.com/jeffThompson/CreativeProg
 Making things move, mouseX/Y, mousePressed()/Dragged(), background with alpha  
 
 **Readings**  
-*Free Software Is Even More Important Now* by Richard Stallman  
+*Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan, and *Motives for Writing Free Software* by the Free Software Foundation  
 
 **Homework**  
 Interactivity, open source response  
