@@ -5,7 +5,13 @@ INTERACTIVITY
 
 ### DUE: THURSDAY, OCTOBER 12
 
-In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having three things: an input device that translates one's behavior into digital form, that the input data affects the output, and that the output is translated back into real-world phenomena that we can perceive, all in real-time. This week, your assignment is to build a sketch that is interactive in some way, responding to mouse and/or keyboard input in a visual way. How you approach this, and what it looks like, is up to you, but the result should be a unique exploration of interactivity and the visual.
+In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having three things: 
+
+* An input device that translates one's behavior into digital form  
+* That the input data affects the output  
+* And that the output is translated back into real-world phenomena that we can perceive, all in real-time  
+
+This week, your assignment is to build a sketch that is interactive in some way, responding to mouse and/or keyboard input in a visual way. How you approach this, and what it looks like, is up to you, but the result should be a unique exploration of interactivity and the visual.
 
 Think about ways the mouse and keyboard could change:
 
