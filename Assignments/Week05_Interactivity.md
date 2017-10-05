@@ -73,6 +73,7 @@ Optional, but you might also want to check these out too. Most all of them are i
 * Zach Lieberman's [daily sketching](https://www.instagram.com/zach.lieberman/) in OpenFrameworks (and [read more about his process here](https://medium.com/@zachlieberman/daily-sketches-2016-28586d8f008e))  
 
 ### RESOURCES  
+* If you want more natural movement, you might find the `Math` examples (under `File > Examples...`) to be helpful, especially ones like `Sine`  
 * [Read more about A. Michael Noll's work](http://median.newmediacaucus.org/routing-mondrian-the-a-michael-noll-experiment/) in the Media-N journal  
 * Several articles on the history of interactivity and the arts in this week's `Readings` folder  
 
