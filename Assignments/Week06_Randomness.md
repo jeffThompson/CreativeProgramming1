@@ -48,7 +48,6 @@ For next week, please take the studies you did and the feedback received, and re
 * Works by early computer artist [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r)  
 * [Manfred Mohr](https://en.wikipedia.org/wiki/Manfred_Mohr), also an early pioneer of art using the computer  
 * *Quantum Cloud* by Antony Gormley, see also [this engineering design analysis](http://www.lusas.com/case/civil/gormley.html) for the project  
-* [*Kinematics Dress*](http://n-e-r-v-o-u-s.com/projects/sets/kinematics-dress/) by Nervous System  
 * The epic terrain and history-generating game [Dwarf Fortress](http://www.bay12games.com/dwarves)  
 * [*Z1FFER*](http://www.creativeapplications.net/arduino-2/z1ffer/), a hardware random number generating "shield" for the Arduino  
 * [Torrit Grey](https://www.gamblincolors.com/torrit-grey) from Gamblin Paints  
