@@ -1,4 +1,4 @@
-![A detail of a video work by A. Michael Noll from the 1960s](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week06_Randomness/FramesFromVideoByAMichaelNoll_1960s-DETAIL.jpg)
+![A detail of a drawing by Kenneth Martin, 1971](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week06_Randomness/ChanceAndOrderGroupVII-Drawing6_KennethMartin_1971-DETAIL.jpg)
 
 RANDOMNESS
 ====
@@ -11,7 +11,8 @@ For this project, we'll look at how randomness can be a creative tool, both brea
 
 Since your code is going to generate different output every time it's run, when your sketch is finished (and while working too) you'll want to run it many times and keep the best outputs. This can be exciting if not a little weird: it removes your artistic hand somewhat, leaving you to act as coordinator (writing code) and curator (selecting output to show).
 
-*Above: a detail of a video work by A. Michael Noll from the 1960s.*  
+*Above: a detail of the drawing *Chance and Order Group VII, Drawing 6* by Kenneth Martin in 1971
+.*  
 
 ### STRETCH GOALS  
 Try adding these elements to your sketch:
@@ -54,6 +55,7 @@ For next week, please take the studies you did and the feedback received, and re
 * And [*White Noise Boutique*](http://jeffreythompson.org/white-noise-boutique.php) by Jeff Thompson (me 😊)  
 
 ### RESOURCES  
+* Greate, practical [examples of using randomness in code](https://kynd.github.io/p5sketches/random.html) from kynd  
 * Some historical random number generating methods include [dice](https://en.wikipedia.org/wiki/Dice), [yarrow sticks](https://en.wikipedia.org/wiki/I_Ching_divination), [radio noise](https://www.random.org/history/), [lava lamps](https://en.wikipedia.org/wiki/Lavarand), [hard-drive entropy](https://en.wikipedia.org/wiki/Entropy_(computing)), and [various algorithms](https://en.wikipedia.org/wiki/Mersenne_Twister) (computed by hand or computer)  
 * More about the history of [Random.org](https://www.random.org/history/) and their [intro to random numbers](https://www.random.org/randomness/)  
 * We can also test for randomness using a variety of mathematical and statistical tests – the [Dieharder suite](https://www.phy.duke.edu/~rgb/General/dieharder.php) is a classic  
