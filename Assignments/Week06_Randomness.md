@@ -31,7 +31,7 @@ For next week, please take the studies you did and the feedback received, and re
 * Five or more exploratory studies, exported and printed.  
 * Sketch should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`) and printed on `11x17"` paper with a `0.5"` margin all around. Either orientation is ok. You can also make your sketch larger and shrink it to fit, if the proportions are the same.  
 * Run lots of times until you have two different PDFs you're happy with.  
-* Name your sketch `LastnameFirstname_Interactivity`  
+* Name your sketch `LastnameFirstname_Random`  
 * Zip your code, studies, and final PDFs and upload to Canvas.  
 * **Be sure to check if Python is installed and working for you, or plan to use the Lab computers for our next project.**  
 
