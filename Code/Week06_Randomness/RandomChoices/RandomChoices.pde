@@ -74,14 +74,20 @@ void draw() {
   // random(1) returns a random value b/w 0-1
   // if less than 0.5 (50% chance), draw in the
   // x direction, otherwise draw in the y direction
+  
+  // move left or right
   if (random(1) < 0.5) {
-    if (random(1) < 0.5) {    // do the same thing to determine left or right!
+    
+    // do the same thing to determine which direction!
+    if (random(1) < 0.5) {
       x -= 8;
     } 
     else {
       x += 8;
     }
   }
+  
+  // move up or down
   else {
     if (random(1) < 0.5) {
       y -= 8;

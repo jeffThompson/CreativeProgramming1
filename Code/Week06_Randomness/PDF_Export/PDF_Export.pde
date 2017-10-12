@@ -33,11 +33,26 @@ void setup() {
   // immediately after the size() command
   beginRecord(PDF, filename);
   
-  // do some drawing to our PDF
+  // background must come *after* beginRecord()
   background(255);
-  stroke(0, 50);
-  for (int i=0; i<1000; i++) {
-    line(random(width), random(height), random(width), random(height));
+  
+  // do some drawing to our PDF
+  for (int i=0; i<10000; i++) {
+    
+    // create four random points 
+    float x1 = random(width);
+    float y1 = random(height);
+    float x2 = random(width);
+    float y2 = random(height);
+    
+    // draw a line between the two
+    stroke(0, 50);
+    line(x1,y1, x2,y2);
+    
+    // and a circle at one end
+    fill(255);
+    noStroke();
+    ellipse(x1,y1, 10,10);
   }
   
   // stop recording to save the file
