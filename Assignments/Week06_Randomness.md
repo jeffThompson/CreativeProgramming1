@@ -25,15 +25,17 @@ Try adding these elements to your sketch:
 For next week, you should create a series of five or more exploratory code studies thinking about randomness. These should show a range of ideas, and explore potential directions for the project. These should be the same size/format as the final sketch (`1152x720 pixels`), exported as PDFs, and printed on a laser printer (either in the Lab or at Kinkos, etc). Bring your prints to class next week – remember that presentation counts, so keep your prints crisp and clean. 
 
 ### FOR THURSDAY, OCTOBER 26  
-For next week, please take the studies you did and the feedback received, and re-work one (or a combination) into a final version. This should be printed on a laser printer and brought to class. See the **Project Requirements** below for the full details.
+For next week, please take the studies you did and the feedback received, and re-work one (or a combination) into a single, final version. This should be printed on a laser printer and brought to class. See the **Project Requirements** below for the full details.
 
-### PROJECT REQUIREMENTS  
-* Five or more exploratory studies, exported and printed.  
+### PROJECT REQUIREMENTS: FIRST WEEK  
 * Sketch should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`) and printed on `11x17"` paper with a `0.5"` margin all around. Either orientation is ok. You can also make your sketch larger and shrink it to fit, if the proportions are the same.  
-* Run lots of times until you have two different PDFs you're happy with.  
-* Name your sketch `LastnameFirstname_Random`  
-* Zip your code, studies, and final PDFs and upload to Canvas.  
-* **Be sure to check if Python is installed and working for you, or plan to use the Lab computers for our next project.**  
+* Five or more exploratory studies, exported as PDF (or PNG if the files are too big) and printed.  
+
+### PROJECT REQUIREMENTS: SECOND WEEK  
+* Name your sketch `LastnameFirstname_Random` – it should be the same dimensions as **Week 1**  
+* Run lots of times until you have a version you're happy with. Print at 11x17" and bring to class.  
+* Zip your code, studies, and final PDF and upload to Canvas.  
+* **Be sure to [check if Python is installed](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Resources/CheckingPython.md) and working for you, or plan to use the Lab computers for our next project.**  
 
 ### PROJECTS SHOWN  
 * [Exquisite corpse drawings](https://en.wikipedia.org/wiki/Exquisite_corpse), for example [the ones by Jake and Dinos Chapman](http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78458)  
