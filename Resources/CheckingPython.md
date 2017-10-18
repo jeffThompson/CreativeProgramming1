@@ -14,7 +14,7 @@ For our Twitter bots, we'll use the programming language [Python](https://www.py
 
 **MAC:** Go to `Applications > Utilities > Terminal` (or do a Spotlight search)  
 **LINUX:** You know what to do :)  
-** WINDOWS:** Open the `Windows` menu and type `command` in the search bar – select `Command Prompt`  
+**WINDOWS:** Open the `Windows` menu and type `command` in the search bar – select `Command Prompt`  
 
 ### CHECK IF PYTHON IS INSTALLED
 
