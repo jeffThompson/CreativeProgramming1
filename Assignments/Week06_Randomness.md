@@ -24,14 +24,12 @@ Try adding these elements to your sketch:
 ### FOR THURSDAY, OCTOBER 19  
 For next week, you should create a series of five or more exploratory code studies thinking about randomness. These should show a range of ideas, and explore potential directions for the project. These should be the same size/format as the final sketch (`1152x720 pixels`), exported as PDFs, and printed on a laser printer (either in the Lab or at Kinkos, etc). Bring your prints to class next week – remember that presentation counts, so keep your prints crisp and clean. 
 
-### FOR THURSDAY, OCTOBER 26  
-For next week, please take the studies you did and the feedback received, and re-work one (or a combination) into a single, final version. This should be printed on a laser printer and brought to class. See the **Project Requirements** below for the full details.
-
-### PROJECT REQUIREMENTS: FIRST WEEK  
 * Sketch should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`) and printed on `11x17"` paper with a `0.5"` margin all around. Either orientation is ok. You can also make your sketch larger and shrink it to fit, if the proportions are the same.  
 * Five or more exploratory studies, exported as PDF (or PNG if the files are too big) and printed.  
 
-### PROJECT REQUIREMENTS: SECOND WEEK  
+### FOR THURSDAY, OCTOBER 26  
+For next week, please take the studies you did and the feedback received, and re-work one (or a combination) into a single, final version. This should be printed on a laser printer and brought to class. (Details of size should be the same as above.)
+
 * Name your sketch `LastnameFirstname_Random` – it should be the same dimensions as **Week 1**  
 * Run lots of times until you have a version you're happy with. Print at 11x17" and bring to class.  
 * Zip your code, studies, and final PDF and upload to Canvas.  
