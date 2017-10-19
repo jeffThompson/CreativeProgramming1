@@ -96,16 +96,16 @@ Interactivity, open source response
 (And ⊨ Open Source)
 
 **In class**  
-Discuss readings, contributing to open source projects, random(), Brownian motion, Perlin noise, random choices, writing to PDF
+Discuss readings, contributing to open source projects, random(), Brownian motion, random choices, writing to PDF
 
 **Homework**  
 Begin Randomness project, install Python
 
 \- \- \-
 
-### WEEK 07: RANDOMNESS 2  
+### [WEEK 07: RANDOMNESS 2](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
 **In class**  
-Cellular automata, work day, check if Python is working for everyone
+Psueo-random numbers and Java's Linear Congruential Generator, random seed, Perlin noise and motion, work day, check if Python is working for everyone
 
 **Homework**  
 Finish Randomness project
