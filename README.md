@@ -146,9 +146,6 @@ Historical Code Explorations
 **In class**  
 Simulating motion, object-oriented programming, ArrayLists
 
-**Mini Project**  
-TBA
-
 **Homework**  
 Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) proposal
 
@@ -158,8 +155,8 @@ Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/
 **In class**  
 More simulation and interactivity
 
-**Mini Project**  
-Finish mini project in class
+**In class**  
+Work on Final Projects, get help as needed
 
 **Homework**  
 Rough [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) prototype 
@@ -171,9 +168,7 @@ Thanksgiving break – no class!
 
 \- \- \-
 
-### WEEK 13: WORK DAY
-**In class**  
-Work on Final Projects, get help as needed
+### WEEK 13: NO CLASS (JEFF OUT OF TOWN)
 
 **Homework**  
 Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md)
@@ -184,14 +179,14 @@ Continue working on [Final Project](https://github.com/jeffThompson/CreativeProg
 **In class**  
 Work on Final Projects, get help as needed
 
+**In class**  
+Final crit of works in progress
+
 **Homework**  
 Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) and documentation
 
 \- \- \-
 
-### EXAM PERIOD: FINAL CRITIQUE  
-Date TBD, please don’t book travel until after exam period ends!
-
-**In class**  
-Crit and goodbye
+### EXAM PERIOD: THURSDAY, DECEMBER 21  
+Final project files and documentation due online – no class meeting (bye!)
 
