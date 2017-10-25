@@ -1,9 +1,9 @@
 
 '''
-BASIC CONTROL STRUCTURES
+LOOPS AND CONTROL STRUCTURES
 Jeff Thompson | 2017 | jeffreythompson.org
 
-If statements and for loops are important structures across
+Loops and if/else statements are important structures across
 almost all programming languages. Below are some examples
 of how these are implemented in Python.
 
@@ -12,9 +12,9 @@ Python is spacing. Unlike in Processing, where you can
 have as much whitespace as you want, Python uses indenting
 to define code block, like curly-brackets {} do in other
 langauges. Use either two or four spaces to indent (but
-be consistent). Python also uses colons (:) instead of
-curly brackets for conditionals, for loops, and defining
-functions.
+you do have to be consistent). Python also uses colons (:) 
+instead of curly brackets for conditionals, for loops, and 
+defining functions.
 
 This if statement in Processing:
 
@@ -29,6 +29,7 @@ Looks like this in Python:
 
 It takes a bit of getting used to, so don't be surprised if
 you get errors for a while.
+
 
 '''
 
@@ -45,7 +46,7 @@ else:
 num_cats = 2
 if num_cats == 0:						# same comparisons as Processing and other languages
 	print 'I have no cats.'
-elif num_cats > 0 and num_cats < 4:		# instead of using &&, Python uses 'and' and 'or'!
+elif num_cats > 0 and num_cats < 4:		# instead of using &&, Python uses the words 'and' and 'or'!
 	print 'I have some cats.'
 else:
 	print 'I have a *lot* of cats.'

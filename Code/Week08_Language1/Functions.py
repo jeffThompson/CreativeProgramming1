@@ -27,33 +27,42 @@ def mult(i, j):
 	return i * j
 
 val = mult(3, 8)
-print 'Three times eight = ' + str(val)
+print 'Three times eight = ' + str(val)		
+
+# note if we want to print a number (val) and a string, we
+# do have to convert it to a string too using the str() command
 
 
 # functions are most useful for tasks you'll use several times, and
 # especially for ones that would make your code messy
 from datetime import datetime
-def picards_age():
+def grace_hoppers_age():
 	'''
 	for complex functions, its customary to include a 
 	comment like this with information about what it does,
 	what arguments it takes, and what values it returns...
 
-	calculates Jean Luc Picard's age, based on today's date
+	calculates how old Grace Hopper (an important figure
+	in computer science, responsible for many ways we write
+	code today) would be today, based on today's date
 
 	args:    none
-	returns: Picard's age, in years
+	returns: Hopper's age, in years
 	'''
 	now = datetime.now()
-	birthday = datetime.strptime('Jul 13 2305', '%b %d %Y')
+	birthday = datetime.strptime('Dec 09 1906', '%b %d %Y')
 	diff = now - birthday
 	return diff.days / 360
 
-print 'Jean Luc Picard is ' + str(picards_age()) + ' years old.'
+print 'Grace Hopper would be ' + str(grace_hoppers_age()) + ' years old today.'
 
 
 # unlike Processing, Python functions can return several
-# values, and of different types
+# values, and of different types, all at once
+# note here too the comments inside the function noting what
+# it does, what arguments it takes, and what values it returns
+# this is good form, making it easier for you and others to
+# quickly see what a function does
 def todays_weather():
 	'''
 	what is today's weather forecast?

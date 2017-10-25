@@ -16,9 +16,9 @@ first_names = [ 'Bob', 'Linda', 'Tina', 'Gene', 'Louise', 'Teddy', 'Mort', 'Jimm
 last_names = [ 'Belcher', 'Francisco', 'Pesto', 'Frond', 'Charles', 'Carwinkle', 'Fishoeder' ]
 
 # create a random name
-first_name =  choice(first_names)
-last_name =   choice(last_names)
-full_name = first_name + ' ' + last_name
+first_name = choice(first_names)
+last_name =  choice(last_names)
+full_name =  first_name + ' ' + last_name
 print full_name
 
 # write to file

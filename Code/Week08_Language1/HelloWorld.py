@@ -3,7 +3,7 @@
 HELLO WORLD
 Jeff Thompson | 2017 | jeffreythompson.org
 
-The most basic Python script – print the words "Hello,
+The most basic Python script - print the words "Hello,
 world!" to the command line.
 
 RUNNING YOUR SCRIPT
