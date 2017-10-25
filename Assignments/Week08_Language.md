@@ -7,7 +7,7 @@ LANGUAGE
 
 Bots create and post text and images, interact with people, and do other creative work, often autonomously, repetitively, and on social media platforms like Twitter. The idea of bots is relatively new (even its antecedent *robot* [only dates to the 1920s](http://www.npr.org/2011/04/22/135634400/science-diction-the-origin-of-the-word-robot)) and while there is a lot of discussion about bots (as well as related topics like chat, AI, etc) in tech right now, there are many people that build bots for artistic and critical purposes.
 
-While bots can take many forms, ours will be text-based. Over the next two weeks, we'll create templates for them and develop corpora for them to pull from. You'll learn the basics of the programming language [Python](https://www.python.org) (which makes working with text much, much nicer than Processing, and works well for automated generation) and ultimately build your own bot that posts to Twitter.
+While bots can take many forms, ours will be text-based. Over the next two weeks, we'll create templates for them and develop corpora to pull from. You'll learn the basics of the programming language [Python](https://www.python.org) (which makes working with text much, much nicer than Processing, and works well for automated generation) and ultimately build your own bot that posts to Twitter.
 
 **ASIDE: PROGRAMMING LANGUAGES EMBED VALUES**  
 Once you get used to it, Python code reads very much like sentences. This is, in part, by design – from its beginnings in the early 1990s, Python was meant to be as clear and concise as possible, as opposed to many other common languages at the time (like C++). In fact, these and similar values are outlined in the [*Zen of Python*](https://en.wikipedia.org/wiki/Zen_of_Python) document. For example:
@@ -31,7 +31,7 @@ Try adding these elements to your bot:
 ### FOR THURSDAY, NOVEMBER 1  
 For next week, you'll start building the skeleton of your bot:
 
-* Please read Allison Parrish's [*Bots: A Definition and Some Historical Threads](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) on the Data & Society blog  
+* Please read Allison Parrish's [*Bots: A Definition and Some Historical Threads*](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) on the Data & Society blog  
 * Continue developing your bot's template, like we did in class – come up with at least two templates that your bot can randomly select from (see the example templates below)  
 * Select a corpus (or multiple *corpora*) for your bot to work with – this might be some of the pre-built word lists provided, one you find online (see the `Corpora` section below for suggestions), or some of your own making  
 * Come up with a name for your bot! Something descriptive, catchy, and (hopefully) available as a Twitter handle  
@@ -43,7 +43,7 @@ A template defines the structure of your bot's tweets. It's basically like a [Ma
 
 * A `<noun>` in the hand is worth `<number>` in the `<noun>` (as in *A bird in the hand is worth two in the bush*)     
 * The `<noun>` `<adjective>` `<animal>` jumps over the `<adjective>` `<animal>` (as in *The quick brown fox jumps over the lazy dog*)  
-* `<do>` `<a/an>` `<media>` `<verb>` `<approach>` `<topic>`, due `<date>` (which is one that my @artassignbot uses, as in *Make a drawing exploring your relationship to booms, due Thursday, October 26*)  
+* `<do>` `<a/an>` `<media>` `<verb>` `<approach>` `<topic>`, due `<date>` (which is one that my [@artassignbot](https://twitter.com/artassignbot) uses, as in *Make a drawing exploring your relationship to booms, due Thursday, October 26*)  
 
 ### FOR THURSDAY, NOVEMBER 8  
 For next week, your assignment is to finish your bot! Get your OAuth settings from Twitter and run some test posts. Once all done, post a bunch of tweets and assemble your documentation:
@@ -63,6 +63,7 @@ To post our tweets, we'll need a library to handle all the messy bits. There are
 * With `pip` installed, getting the Twitter library is easy! In the command line, simply run `pip install python-twitter`. You should see a bunch of text roll by, then success!  
 * Some code includes amazingly rich documentation... this library not as much. There are a [few examples here](https://github.com/bear/python-twitter/tree/master/examples), but for this project you shouldn't need anything too fancy.  
 * Optional: other tools for installing libraries on the Mac include the excellent [Homebrew](https://brew.sh/)  
+* Errors that say you don't have permission to do something? Try adding the word `sudo` in front of your command, as in `sudo pip install python-twitter`. You'll put in your user's password and it should word. (Why's the command called that weird thing? [Wikipedia has the anser.](https://en.wikipedia.org/wiki/Sudo))
 
 ### PROJECTS SHOWN  
 * Historical examples of bot-like work include Dadist [Tristan Tzara's *Combinations*](http://www.in-vacua.com/tzara.shtml) and [William S. Burroughs and Brion Gysin's *The Third Mind*](http://www.ubu.com/historical/burroughs/William_S_Burroughs___Brion_Gysin_-_3rd_Mind.pdf) (also in the `Readings` folder)    
@@ -75,7 +76,7 @@ To post our tweets, we'll need a library to handle all the messy bits. There are
 * Katie Rose Pipkin's [@tiny_star_field](https://twitter.com/tiny_star_field), [@viewgenerator](https://twitter.com/viewgenerator), [@unicode_birds](https://twitter.com/unicode_birds), and [@mothgenerator](https://twitter.com/mothgenerator)  
 * Description-generating bots, like [@spacetravelbot](https://twitter.com/spacetravelbot), [@str_voyage](https://twitter.com/str_voyage), [@thanetguide](https://twitter.com/thanetguide), [@a_travel_bot](https://twitter.com/a_travel_bot), [@cant_miss_it](https://twitter.com/cant_miss_it), and [@gardensbritish](https://twitter.com/gardensbritish)  
 * Lots more emoji-based landscape bots via [this list](https://twitter.com/muffinista/lists/tableau-ji)  
-* My project [@artassignmentbot](https://twitter.com/artassignbot) and the real-life version [Bot Art School](http://botartschool.com/)  
+* My project [@artassigntbot](https://twitter.com/artassignbot) and the real-life version [Bot Art School](http://botartschool.com/)  
 * Tons more examples in Elizaveta Pritychenko's 2014 *Twitter Bot Encyclopedia*, found in this week's `Readings` folder  
 * Christopher Strachey's 1953 [computerized love letter generator](https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine), and an updated Javascript version  
 * Bot-ish project [Trump2Cash](https://github.com/maxbbraun/trump2cash) invests in companies Trump tweets about  
@@ -83,13 +84,13 @@ To post our tweets, we'll need a library to handle all the messy bits. There are
 ### RESOURCES  
 * If you're new to the command line, try [these common commands for Mac/Linux](http://www.dummies.com/computers/macs/mac-operating-systems/how-to-use-basic-unix-commands-to-work-in-terminal-on-your-mac/) and [these for Windows](https://commandwindows.com/command3.htm)  
 * There are lots of great resources for learning Python, including free ones like [learnpython.org](https://www.learnpython.org/) and [*Learn Python The Hard Way*](https://learnpythonthehardway.org/book/), and the always-good books from O'Reilly like [*Learning Python*](http://shop.oreilly.com/product/0636920028154.do)  
-* If you have particular Python questions, try searching [Stack Overflow](https://stackoverflow.com)  
+* If you have particular Python questions, try searching [Stack Overflow](https://stackoverflow.com) (or send me an email, or even better post an issue here!)  
 * Want your bot to run automatically and without having to pay for hosting? I've written [this tutorial on running your bots using a Raspberry Pi](http://www.jeffreythompson.org/blog/2014/08/31/setting-up-raspberry-pi-to-run-bots/)
 * The tool `crontab` will automate the posting of your bot's tweets – it can be confusing, but [crontab.guru](https://crontab.guru/) is a helpful resource    
-* You could also use the amazing [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)  
 * Lots of regular expressions tutorials and info are out there (and a few are listed in the `Stretch Goals` section above) – great to try if you want a challenge  
 * If you want to get into fancier language processing, like tagging words with their parts-of-speech, try the [pattern](http://www.clips.ua.ac.be/pages/pattern-en) and [NLTK](http://www.nltk.org/) libraries  
 * Allison Parrish, among her many great tutorials on language, has [this excellent introduction to the spaCy library in Python](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3); see also [this post on building your own NLP system for bots](https://medium.com/rasa-blog/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)  
+* Want less code? You could also use the amazing [Cheap Bots Done Quick](http://cheapbotsdonequick.com/)  
 
 ### CORPORA  
 While making your own word lists can make way more interesting results, here are some online that you might find helpful. (Note they may not be in a format that you can easily use, so they might require manual formatting – this is normal bot-work.)  
