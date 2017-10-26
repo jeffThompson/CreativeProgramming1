@@ -70,6 +70,7 @@ To post our tweets, we'll need a library to handle all the messy bits. There are
 * Allison Parrish's classic [@everyword](https://twitter.com/everyword), which does exactly what you'd think it does  
 * "Micropoetry" from [@poem_exe](https://twitter.com/poem_exe)  
 * [@congressedits](https://twitter.com/congressedits) tweets when anonymous edits are made to Wikipedia from IP addresses in the US Congress  
+* Nora Reed's [@hydratebot](https://twitter.com/hydratebot) reminds humans to drink water  
 * The hilarious video-generating [@freezeframebot](https://twitter.com/freezeframebot), [@thissummerbot](https://twitter.com/thissummerbot), and [@OminousZoom](https://twitter.com/ominouszoom)  
 * [@wikisext](https://twitter.com/wikisext) generates sexts based on things it learns from WikiHow  
 * [@unchartedatlas](https://twitter.com/unchartedatlas) ([waaayyy more detail](http://mewo2.com/notes/terrain) on this amazing bot)  
@@ -95,13 +96,18 @@ To post our tweets, we'll need a library to handle all the messy bits. There are
 ### CORPORA  
 While making your own word lists can make way more interesting results, here are some online that you might find helpful. (Note they may not be in a format that you can easily use, so they might require manual formatting – this is normal bot-work.)  
 
+* The lists we used in class can be found in the `Resources` folder  
 * Bot-maker Darius Kazemi has [extensive word lists in this Github repo](https://github.com/dariusk/corpora), covering topics ranging from humans to foods, divination to medicine, and colors to archetypes  
 * Slightly more complicated to use, the site [Wordnik](https://www.wordnik.com/) offers an [amazing, free API](http://developer.wordnik.com/docs.html) where you can get info like definition, etymology, and even audio  
+* [MOBY word lists](http://www.gutenberg.org/ebooks/3201) by Grady Ward (a selection of these are in the `Code > Word Lists` folder for this project)  
+* Author [Ashley Bovan has some interesting lists](http://www.ashley-bovan.co.uk/words/wordlists.html), including hyphenated words and words by syllable count (great for poetry bots)  
+* [Shorter but useful lists from Nora Reed](http://barrl.net/2882), including several about cooking (and one titled *Unsettling Adjectives*)  
 * Find a good one? Let me know by email, or better yet create an issue in this repo!  
 
 ### OPTIONAL READINGS  
 If you want to read more about bots, their history, etc, try these:
 
+* Garbage in, garbage out – the corpora you use, and how you use it, are important. [This excellent post from Martin O'Leary](http://mewo2.com/notes/bot-ethics/) discusses bot ethics  
 * Bot-maker Katie Rose Pipkin's excellent post [*A Long History of Generated Poetics: Cutups from Dickinson to Melitzah*](https://medium.com/@katierosepipkin/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233)  
 * Geoff Shullenberger's [*The Birth of the Algorithmic Author*](https://thesocietypages.org/cyborgology/2016/01/12/the-birth-of-the-algorithmic-author/) on the Cyborgology blog  
 * Training language models on existing texts can be dangerous – [this post on the ConceptNet blog](https://blog.conceptnet.io/2017/04/24/conceptnet-numberbatch-17-04-better-less-stereotyped-word-vectors/) does a good job talking about how to minimize this  
