@@ -44,6 +44,7 @@ A template defines the structure of your bot's tweets. It's basically like a [Ma
 * A `<noun>` in the hand is worth `<number>` in the `<noun>` (as in *A bird in the hand is worth two in the bush*)     
 * The `<noun>` `<adjective>` `<animal>` jumps over the `<adjective>` `<animal>` (as in *The quick brown fox jumps over the lazy dog*)  
 * `<do>` `<a/an>` `<media>` `<verb>` `<approach>` `<topic>`, due `<date>` (which is one that my [@artassignbot](https://twitter.com/artassignbot) uses, as in *Make a drawing exploring your relationship to booms, due Thursday, October 26*)  
+* YOU ARE MY `<adjective>` `<noun>`. MY `<adjective>` `<noun>` `<adverb>` `<verbs>` YOUR `<adjective>` `<noun>`. (the template used in [Christopher Strachey's 1953 love letter generator](https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine))
 
 ### FOR THURSDAY, NOVEMBER 8  
 For next week, your assignment is to finish your bot! Get your OAuth settings from Twitter and run some test posts. Once all done, post a bunch of tweets and assemble your documentation:
@@ -75,7 +76,7 @@ To post our tweets, we'll need a library to handle all the messy bits. There are
 * [@wikisext](https://twitter.com/wikisext) generates sexts based on things it learns from WikiHow  
 * [@unchartedatlas](https://twitter.com/unchartedatlas) ([waaayyy more detail](http://mewo2.com/notes/terrain) on this amazing bot)  
 * Katie Rose Pipkin's [@tiny_star_field](https://twitter.com/tiny_star_field), [@viewgenerator](https://twitter.com/viewgenerator), [@unicode_birds](https://twitter.com/unicode_birds), and [@mothgenerator](https://twitter.com/mothgenerator)  
-* Description-generating bots, like [@spacetravelbot](https://twitter.com/spacetravelbot), [@str_voyage](https://twitter.com/str_voyage), [@thanetguide](https://twitter.com/thanetguide), [@a_travel_bot](https://twitter.com/a_travel_bot), [@cant_miss_it](https://twitter.com/cant_miss_it), and [@gardensbritish](https://twitter.com/gardensbritish)  
+* Description-generating bots, like [@spacetravelbot](https://twitter.com/spacetravelbot), [@str_voyage](https://twitter.com/str_voyage), [@thanetguide](https://twitter.com/thanetguide), [@a_travel_bot](https://twitter.com/a_travel_bot), [@cant_miss_it](https://twitter.com/cant_miss_it), [@gardensbritish](https://twitter.com/gardensbritish), and [@magicrealismbot](https://twitter.com/magicrealismbot)  
 * Lots more emoji-based landscape bots via [this list](https://twitter.com/muffinista/lists/tableau-ji)  
 * My project [@artassigntbot](https://twitter.com/artassignbot) and the real-life version [Bot Art School](http://botartschool.com/)  
 * Tons more examples in Elizaveta Pritychenko's 2014 *Twitter Bot Encyclopedia*, found in this week's `Readings` folder  
