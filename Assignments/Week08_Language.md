@@ -3,7 +3,7 @@
 LANGUAGE
 ====
 
-### DUE: THURSDAY, NOVEMBER 1/8  
+### DUE: THURSDAY, NOVEMBER 2/9  
 
 Bots create and post text and images, interact with people, and do other creative work, often autonomously, repetitively, and on social media platforms like Twitter. The idea of bots is relatively new (even its antecedent *robot* [only dates to the 1920s](http://www.npr.org/2011/04/22/135634400/science-diction-the-origin-of-the-word-robot)) and while there is a lot of discussion about bots (as well as related topics like chat, AI, etc) in tech right now, there are many people that build bots for artistic and critical purposes.
 
@@ -28,7 +28,7 @@ Try adding these elements to your bot:
 * Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?  
 * Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html), [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/), and [this online regex builder](https://www.debuggex.com/).  
 
-### FOR THURSDAY, NOVEMBER 1  
+### FOR THURSDAY, NOVEMBER 2  
 For next week, you'll start building the skeleton of your bot:
 
 * Please read Allison Parrish's [*Bots: A Definition and Some Historical Threads*](https://points.datasociety.net/bots-a-definition-and-some-historical-threads-47738c8ab1ce) on the Data & Society blog  
@@ -44,9 +44,9 @@ A template defines the structure of your bot's tweets. It's basically like a [Ma
 * A `<noun>` in the hand is worth `<number>` in the `<noun>` (as in *A bird in the hand is worth two in the bush*)     
 * The `<noun>` `<adjective>` `<animal>` jumps over the `<adjective>` `<animal>` (as in *The quick brown fox jumps over the lazy dog*)  
 * `<do>` `<a/an>` `<media>` `<verb>` `<approach>` `<topic>`, due `<date>` (which is one that my [@artassignbot](https://twitter.com/artassignbot) uses, as in *Make a drawing exploring your relationship to booms, due Thursday, October 26*)  
-* YOU ARE MY `<adjective>` `<noun>`. MY `<adjective>` `<noun>` `<adverb>` `<verbs>` YOUR `<adjective>` `<noun>`. (the template used in [Christopher Strachey's 1953 love letter generator](https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine))
+* YOU ARE MY `<adjective>` `<noun>`. MY `<adjective>` `<noun>` `<adverb>` `<verbs>` YOUR `<adjective>` `<noun>` (the template used in [Christopher Strachey's 1953 love letter generator](https://www.newyorker.com/tech/elements/christopher-stracheys-nineteen-fifties-love-machine))
 
-### FOR THURSDAY, NOVEMBER 8  
+### FOR THURSDAY, NOVEMBER 9  
 For next week, your assignment is to finish your bot! Get your OAuth settings from Twitter and run some test posts. Once all done, post a bunch of tweets and assemble your documentation:
 
 * Create a folder called `LastnameFirstname_Bot`, in it put...  
