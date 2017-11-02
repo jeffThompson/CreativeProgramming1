@@ -25,6 +25,7 @@ Try to think about these values as you're writing Python code the next two weeks
 ### STRETCH GOALS  
 Try adding these elements to your bot:
 
+* Can you include a check that ensures your tweet is less than 140 characters and generates a new one if it isn't?  
 * Can you make your bot mimic a certain kind of text, such as the author of a novel or a type of viral headline?  
 * Try looking into [regular expressions](https://www.tutorialspoint.com/python/python_reg_expressions.htm), a difficult-to-get-used-to but very powerful library that lets you manipulate text based on patterns. Lots more info in the [Python docs](https://docs.python.org/2/library/re.html), [this cheatsheet](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/pdf/), and [this online regex builder](https://www.debuggex.com/).  
 
