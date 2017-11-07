@@ -133,7 +133,7 @@ Selection from *10 PRINT CHR$* (Montfort, et al)
  
 \- \- \-
 
-### [WEEK 10: ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Excercises/CriticalCodeStudies.md)  
+### [WEEK 10: ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_CriticalCodeStudies.md)  
 **In class**  
 Reading code as text, porting code as critical research
 
@@ -147,7 +147,7 @@ Historical Code Explorations
 Simulating motion, object-oriented programming, ArrayLists
 
 **Homework**  
-Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) proposal
+Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal
 
 \- \- \-
 
@@ -159,7 +159,7 @@ More simulation and interactivity
 Work on Final Projects, get help as needed
 
 **Homework**  
-Rough [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) prototype 
+Rough [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) prototype 
 
 \- \- \-
 
@@ -171,7 +171,7 @@ Thanksgiving break – no class!
 ### WEEK 13: NO CLASS (JEFF OUT OF TOWN)
 
 **Homework**  
-Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md)
+Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
@@ -183,10 +183,10 @@ Work on Final Projects, get help as needed
 Final crit of works in progress
 
 **Homework**  
-Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_FinalProject.md) and documentation
+Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
 
 \- \- \-
 
 ### EXAM PERIOD: THURSDAY, DECEMBER 21  
-Final project files and documentation due online – no class meeting (bye!)
+Final project files and documentation due online – **no class meeting** (bye!)
 
