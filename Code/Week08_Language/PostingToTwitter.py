@@ -39,10 +39,10 @@ verbs =   [ 'waltzed', 'ran', 'crept', 'soared', 'swam' ]
 places =  [ 'hotel', 'park', 'Louvre', 'sun' ]
 
 # OAuth settings for the Twitter API
-consumer_key =    'xxxx'
-consumer_secret = 'xxxx'
-oauth_token =     'xxxx'
-oauth_secret =    'xxxx'
+consumer_key =        'xxxx'
+consumer_secret =     'xxxx'
+access_token_key =    'xxxx'
+access_token_secret = 'xxxx'
 
 # pick some random words for our tweet
 animal = random.choice(animals)
@@ -58,7 +58,7 @@ with open('Tweets.txt', 'a') as f:		# 'a' = append to the file, not overwrite ev
 	f.write(tweet + '\n')				# be sure to add a line break so your tweets don't get mashed together
 
 # connect to Twitter with our OAuth settings
-api = twitter.Api(consumer_key = consumer_key, consumer_secret = consumer_secret, access_token_key = oauth_token, access_token_secret = oauth_secret)
+api = twitter.Api(consumer_key = consumer_key, consumer_secret = consumer_secret, access_token_key = access_token_key, access_token_secret = access_token_secret)
 
 # post tweet
 print 'posting tweet...'

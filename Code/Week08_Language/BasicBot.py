@@ -13,24 +13,27 @@ CHALLENGES
 1. Experiment with the template, or build your own!
 2. Can you make several templates that get chosen at random? (Hint: use
    the random library's random.random() method to get a number between
-   0–1 to drive an if/else conditional like we did in the Randomness
+   0-1 to drive an if/else conditional like we did in the Randomness
    examples.)
 
 '''
 
 import random  			# for selecting random elements from lists
 
+# we'll use a template to define the bot's post:
+# The <animal> <verb> through the <place>.
+
 # some lists for our bot
 animals = [ 'fish', 'cat', 'zebra', 'sparrow', 'pterodactyl' ]
 verbs =   [ 'waltzed', 'ran', 'crept', 'soared', 'swam' ]
 places =  [ 'hotel', 'park', 'Louvre', 'sun' ]
 
-# pick some random words for our tweet
+# pick random values to fit in our template
 animal = random.choice(animals)
 verb =   random.choice(verbs)
 place =  random.choice(places)
 
-# format the tweet
+# fill in the template and build our tweet as a string
 tweet = 'The ' + animal + ' ' + verb + ' through the ' + place + '.'
 print tweet
 
