@@ -53,6 +53,16 @@ For next week, expand on our exploration of the `10 PRINT CHR$` code in Processi
 
 You should also start to think about what you'd like to do for your final project – a written proposal will be due in two weeks.
 
+### PROJECTS SHOWN
+
+* Artist Ramsey Nasser's [programming language قلب, which is written entirely in Arabic](http://nas.sr/%D9%82%D9%84%D8%A8/)  
+* Daniel Temkin's [Velato](http://velato.net/Language/HelloWorld/), a language that uses MIDI files as source code  
+* David Morgan-Mar's [Piet](http://www.dangermouse.net/esoteric/piet/samples.html), in which programmers write code useing abstract images  
+* Joseph Connor's ultra-minimal language [Dots](https://github.com/josconno/dots) (see the Python code for an example of how an [interpreter](https://en.wikipedia.org/wiki/Interpreter_(computing)) works)  
+* The ever-classic [Brainfuck](https://esolangs.org/wiki/Brainfuck) by Urban Müller, written in 1993  
+* [Ook](http://www.dangermouse.net/esoteric/ook.html), a Brainfuck-like language that uses three orangutan sounds as it's entire syntax  
+* The even more minimal [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) by Edwin Brady and Chris Morris, where code is written entirely in non-printing whitespace characters (spaces, tabs, and new-lines)  
+
 ### FURTHER READING
 If you want to dig further into this topic, a good place to start is fields related to Critical Code Studies, such as [Platform Studies](http://platformstudies.com/) (which looks at hardware platforms), [Software Studies](https://mitpress.mit.edu/books/series/software-studies), and [Media Archeology](https://en.wikipedia.org/wiki/Media_archaeology) (which looks at older technologies as objects that reflect the culture in which they were used).
 
