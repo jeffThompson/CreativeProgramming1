@@ -1,4 +1,4 @@
-![Bridges on Long Island, designed by Robert Moses in the 1920s and 30s](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Exercises/CriticalCodeStudies/LongIslandBridges.png)
+![Bridges on Long Island, designed by Robert Moses in the 1920s and 30s](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week10_CriticalCodeStudies/LongIslandBridges.png)
 
 CRITICAL CODE STUDIES
 ====
@@ -70,13 +70,9 @@ And some more wide-ranging reads and resources:
 
 * [*Critical Critical Code Studies*](http://www.electronicbookreview.com/thread/electropoetics/codology), Mark C. Marino  
 * [*Critical Code Studies Working Group*](http://haccslab.com), various authors  
+* [*There Is Blatant Racism And Sexist Language Hiding In Open Source Code*](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), Leslie Horn  
 * [*Computer As Ethical Artifacts*](http://homes.soic.indiana.edu/nensmeng/files/ensmenger-29-3.pdf), Nathan Ensmenger  
-* [*Computer Boys Take Over*](https://mitpress.mit.edu/books/computer-boys-take-over), Nathan Ensmenger  
-* [@CongressEdits](https://twitter.com/CongressEdits), Ed Summers  
 * [*A Peek At A/B Testing In The Wild*](https://freedom-to-tinker.com/blog/dreisman/a-peek-at-ab-testing-in-the-wild), Dillon Reisman  
 * [*"Number of Agents Waiting" Is A Random Number*](https://twitter.com/mixonic/status/736575632226852865), @mixonic  
 * [*Facebook Thinks I Like Toes*](http://distractify.com/geek/2015/12/04/landry-facebook-thinks-i-like-toes), Landry Taylor  
-* [*Hidden ASCII Art In Websites*](http://www.theverge.com/2012/4/25/2976042/discovering-hidden-ascii-art-in-the-pages-of-the-web), Bryan Bishop  
-* [*Infographics From .MIL Searches*](https://medium.com/message/amazing-military-infographics-1ba60bdc32e7#.hhw22ssra), Paul Ford  
 * [Libscore](https://medium.com/@Shapiro/introducing-libscore-com-be93165fa497#.g4cts1uxn) and [FontReach](https://insidedigitalocean.com/fontreach-font-usage-visualized-b6c5b6294787#.xtdko6x3v), Julian Shapiro and Jesse Chase  
-* [*There Is Blatant Racism And Sexist Language Hiding In Open Source Code*](http://gizmodo.com/5980842/there-is-blatant-racist-and-sexist-language-in-github-code), Leslie Horn  
