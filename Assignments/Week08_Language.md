@@ -57,6 +57,8 @@ For next week, your assignment is to finish your bot! [Get your OAuth settings f
 
 Please also read the excerpt from *10 PRINT CHR$*, found in the `Readings` folder. We'll talk about Critical Code Studies and analyzing code. Write up two responses, questions, or provocations and post them as an issue on this repository under the title `Firstname Lastname: 10 PRINT CHR$`. (Optionally, also check out the amazing collection *Software Studies: A Lexicon*, also in the `Readings` folder.)
 
+>"When you first sit at a computer terminal, the feeling is one of sheer terror. Sweat and chills, jumpiness and sudden clumsy nervous motions, lunatic absentmindedness, and stammering fear and awkwardness interfere with your ability to function or understand the person who is helping you. It's perfectly normal." – Ted Nelson, *Dream Machines*
+
 ### INSTALLING PYTHON LIBRARIES  
 To post our tweets, we'll need a library to handle all the messy bits. There are a few Python libraries for this, but we're going to use `python-twitter`, [available here](https://github.com/bear/python-twitter). Use the instructions below to install the library, and others you might want to try.
 
