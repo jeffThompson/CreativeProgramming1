@@ -1,11 +1,13 @@
 FINAL PROJECT
 ====
 
-### DUE: FRIDAY, MAY 12
+### DUE: THURSDAY, DECEMBER 21
 
 >"A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. Computer programs are good, they say, for particular purposes, but they aren't flexible. Neither is a violin, or a typewriter, until you learn how to use it." – Marvin Minsky
 
-Your final project for the semester is to make something, anything, using at least one of the tools covered in class this semester. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of four weeks' of work, and that pushes your artistic, creative, and technical skills. Feel free to involve non-computational media (drawing, photography, illustration, music) if you want.
+Your final project for the semester is to make something, anything, using at least one of the tools covered in class this semester. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of four weeks' of work, and that pushes your artistic, creative, and technical skills. Feel free to involve non-computational media (drawing, photography, illustration, music) if you want alongside or with your code.
+
+The goal should be a project that you're personally invested in, and that you procrastinate all other projects to work on!
 
 ### PROJECT CALENDAR  
 **Nov 15:** Final project assigned, work on project proposals and rough prototypes.  
@@ -14,9 +16,7 @@ Your final project for the semester is to make something, anything, using at lea
 **Dec 21:** Final projects due uploaded to Canvas and updated Wiki page with project documentation due.  
 
 ### FOR THURSDAY, NOVEMBER 30  
-Please write a written proposal outlining the project you want to make. This should be specific, and include details of 
-
-Instead of just writing up ideas in a Word document, you should [create a Wiki page](https://github.com/jeffThompson/CreativeProgramming1/wiki) on the class Github repo. Click the [New Page button](https://github.com/jeffThompson/CreativeProgramming1/wiki/_new), and title your page `Final Project: Your Name`.
+Please write a written proposal outlining the project you want to make. This should be specific, and include details of what you want to work on, why this project, and inspiration. Instead of just writing up ideas in a Word document, you should [create a Wiki page](https://github.com/jeffThompson/CreativeProgramming1/wiki) on the class Github repo. Click the [New Page button](https://github.com/jeffThompson/CreativeProgramming1/wiki/_new), and title your page `Final Project: Your Name`.
 
 Use [the template I've made](https://github.com/jeffThompson/CreativeProgramming1/wiki/Example-Template), changing it to fit your project. See the template for details on what your proposal should include as well. We'll use this page later to document your project when it's finished.  
 
