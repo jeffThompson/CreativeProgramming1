@@ -31,9 +31,13 @@ ArrayList<Rabbit> rabbits = new ArrayList<Rabbit>();
 void setup() {
   size(800, 800);
 
-  // create a bunch of rabbits
+  // create a bunch of new rabbits
   for (int i=0; i<numRabbits; i++) {
+    
+    // pass the class' arguments: initial x and y position
     Rabbit r = new Rabbit(random(width), random(height));
+    
+    // add the new rabbit to the ArrayList
     rabbits.add(r);
   }
 }
@@ -43,13 +47,14 @@ void draw() {
   background(15,190,25);
   
   // each frame, go through all rabbits
-  // draw and update its position
+  // draw and update their positions
   for (Rabbit r : rabbits) {
     r.display();
     r.update();
   }
   
   // randomly create a new rabbit in the center
+  // every so often
   if (random(1) < 0.01) {
     Rabbit r = new Rabbit(width/2, height/2);
     rabbits.add(r);
@@ -83,7 +88,7 @@ class Rabbit {
   void display() {
     pushMatrix();
     translate(x, y);
-    scale(direction, 1);  // flip depending on which direction it's moving
+    scale(direction, 1);   // flip depending on which direction it's moving
     imageMode(CENTER);
     image(body, 0,0);
     popMatrix();

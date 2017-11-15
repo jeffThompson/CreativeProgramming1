@@ -4,19 +4,20 @@ SIMPLE CLASS
 Jeff Thompson | 2017 | jeffreythompson.org
 
 While the way we've been coding most of our examples up until
-now, using loops and functions, has worked well, for more complex
+now (using loops and functions) has worked well, for more complex
 projects we'll need a better system. One very common paradigm
 is called "object-oriented programming" (or OOP, a term coined by
 Alan Kay, famous for his work on early GUI systems), which lets us
 create our own data types, and add features and actions to them.
 
 In Java, we do this by creating a "class". We've actually already
-used classes before – while an int is a primitive data type,
+used classes before – while an int is a "primitive" data type,
 Strings are classes, and include lots of extras like the toUpperCase()
 method.
 
 For our first example, we'll create a really simple class for
-a square.
+a square, which includes variables like position and size, and
+methods to display and change its size.
 
 Lots more about OOP here:
 + https://en.wikipedia.org/wiki/Object-oriented_programming
@@ -26,8 +27,11 @@ Lots more about OOP here:
 + http://www2.latech.edu/~box/ase/tp/Per%20Kjeldaas%20Research%20Paper%20.pdf
 
 CHALLENGES
++ Can you add another variable to the class for the rate of growth?
 + Here we have only one instance of the Square class – can you create
   another and see what happens?
++ Our square eventually gets so big it fills the screen. Can you modify
+  the update() method to prevent that?
 
 */
 
@@ -69,8 +73,8 @@ class Square {
   // the Square – this can take arguments (as we'll
   // see in upcoming examples)
   Square() {
-    x = random(0, width);
-    y = random(0, height);
+    x = random(w, width-w);
+    y = random(w, height-w);
   }
   
   // a class can also have "methods", or custom-written
