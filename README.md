@@ -144,22 +144,10 @@ Historical Code Explorations
 
 ### WEEK 11: INTERACTIVITY 2  
 **In class**  
-Simulating motion, object-oriented programming, ArrayLists
+Simulating motion and behavior, object-oriented programming, ArrayLists
 
 **Homework**  
-Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal
-
-\- \- \-
-
-### WEEK 12: INTERACTIVITY 3
-**In class**  
-More simulation and interactivity
-
-**In class**  
-Work on Final Projects, get help as needed
-
-**Homework**  
-Rough [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) prototype 
+Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal, begin work on rough prototype  
 
 \- \- \-
 
@@ -168,19 +156,19 @@ Thanksgiving break – no class!
 
 \- \- \-
 
-### WEEK 13: NO CLASS (JEFF OUT OF TOWN)
+### WEEK 12: NO CLASS (JEFF OUT OF TOWN)
 
 **Homework**  
 Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
-### WEEK 14: WORK DAY
+### WEEK 13: WORK DAY
 **In class**  
 Work on Final Projects, get help as needed
 
 **In class**  
-Final crit of works in progress
+Demo of work in progress
 
 **Homework**  
 Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
