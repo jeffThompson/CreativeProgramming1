@@ -3,14 +3,14 @@ CREATIVE PROGRAMMING 1
 
     Instructor      Prof. Jeff Thompson
     Email           jeff.thompson@stevens.edu
-    Office/hours    Morton 208, Tues/Thurs 2.30–3.30pm
+    Office/hours    Morton 208, Tuesdays 2–4pm
 
-    Meeting times   Thursdays 9.00am–12.50pm
+    Meeting times   Tuesdays 9.00am–12.50pm
     Location        Visual Arts & Technology Lab
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
-During the course of the semester, you’ll learn how to write code for a variety of visual projects including image, text, animation, and interaction. We’ll primarily be using the Processing platform, a toolkit created specifically for artists and designers built on the language Java, and a brief exploration of Python as a tool for building Twitter bots.
+During the course of the semester, you’ll learn how to write code for a variety of visual projects including image, text, animation, and interaction. We’ll primarily be using the [Processing platform](http://www.processing.org), a toolkit created specifically for artists and designers built on the language Java.
 
 Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective.
 
@@ -31,7 +31,8 @@ Please note this is subject to change – be sure to check this page and your em
 *Topics noted with ⊨ are short explorations of topics that jump off from or surround programming in a creative context. The symbol ⊨ is used in the field of logic to mean that an idea semantically entails another.*
 
 
-### [WEEK 00: BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
+### [WEEK 00 (AUG 27): BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week00_BootingUp.md)  
+
 **In class:**  
 Hello, introductions and syllabus, instruction-drawings
 
@@ -43,127 +44,141 @@ Install [Processing](http://www.processing.org/download) and test to make sure i
 
 \- \- \-
 
-### [WEEK 01: DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
+### [WEEK 01 (SEPT 3): DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week01_RobotDrawings.md)  
+
 **In class**  
 Creating sketches, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help
 
 **Homework**  
-Drawings of Robots
+Robot Drawings
 
 \- \- \-
 
-### [WEEK 02: ITERATION && LOOPS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md) 
+### [WEEK 02 (SEPT 10): ITERATION && LOOPS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md)  
+
 **In class**  
-For loops, nested loops, driving parameters with loops, push/popMatrix(), creating functions, historical quilt research
+Variables, for loops, nested loops, driving parameters with loops, historical quilt research
 
 **Homework**  
-Algorithmic Quilts
+Create a quilt block for your Algorithmic Quilt
 
 \- \- \-
  
-### [WEEK 03: RECURSION && FRACTALS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week03_RecursionExperiments.md)  
+### [WEEK 03 (SEPT 17): ITERATION && LOOPS 2](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week02_AlgorithmicQuilts.md)  
+
 **In class**  
-Creating recursive functions, Pythagoras Tree, Koch Snowflake, the pixel array
+Matrix transformations, creating functions, saving PDFs
 
 **Homework**  
-Recursion Experiments
+Finish your Algorithmic Quilt
 
 \- \- \-
 
-### [WEEK 04: CLOCKS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Clocks.md)  
-**In class**  
-Conditionals, strings, fonts and text, exporting video files
-
-**Homework**  
-Create a clock, study for [Quiz #1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Quizzes/Quiz1.pdf)  
-
-\- \- \-
-
-### [WEEK 05: INTERACTIVITY 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week05_Interactivity.md)  
+### [WEEK 04 (SEPT 24): RANDOMNESS](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Randomness.md)  
 
 **In class**  
-Making things move, mouseX/Y, mousePressed()/Dragged(), background with alpha  
+Conditionals, arrays, `random()`, Brownian motion, random choices
 
 **Readings**  
 *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan, and *Motives for Writing Free Software* by the Free Software Foundation  
 
 **Homework**  
-Interactivity, open source response  
+Code sketches exploring randomness
 
 \- \- \-
 
-### [WEEK 06: RANDOMNESS 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
-(And ⊨ Open Source)
+### [WEEK 05 (OCT 1): RANDOMNESS 2](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week04_Randomness.md)  
+(And ⊨ Open Source)  
 
 **In class**  
-Discuss readings, contributing to open source projects, random(), Brownian motion, random choices, writing to PDF
-
-**Homework**  
-Begin Randomness project, install Python
-
-\- \- \-
-
-### [WEEK 07: RANDOMNESS 2](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Randomness.md)  
-**In class**  
-Psueo-random numbers and Java's Linear Congruential Generator, random seed, Perlin noise and motion, work day, check if Python is working for everyone
+Discuss readings, contributing to open source projects, psuedo-randomness, Perlin noise
 
 **Homework**  
 Finish Randomness project
 
 \- \- \-
 
-### [WEEK 08: LANGUAGE 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week08_Language.md)  
-**In class**  
-Creating a Python script, printing “Hello World,” running a script in the Terminal, loops and conditionals, lists, cleaning text, templating strings, saving to file 
+### [WEEK 06 (OCT 8): COLLAGE](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week06_Collage.md)  
+
+**Jeff out of town, so we won't meet in person – demos will be online**
+
+**Demos**  
+Loading images, resizing, `get()`, high-res output
 
 **Homework**  
-Begin Bot project, create a Twitter account
+Collaged Photographs
 
 \- \- \-
 
-### WEEK 09: LANGUAGE 2  
-**In class**  
-Installing Python modules, creating an app on Twitter, OAuth, posting to Twitter automatically, bot sever demo
+### OCT 15: MONDAY SCHEDULE, NO CLASS!
 
-**Homework**  
-Finish Bot project
-
-**Reading**  
-Selection from *10 PRINT CHR$* (Montfort, et al)  
- 
 \- \- \-
 
-### [WEEK 10: ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_CriticalCodeStudies.md)  
+### [WEEK 07 (OCT 22): INTERACTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week07_Interaction.md)  
+
 **In class**  
-Reading code as text, porting code as critical research
+`map()`, mouse and keyboard input  
+
+**Readings**  
+Critical Code Studies readings TBA
+
+**Homework**  
+Interaction project  
+
+\- \- \-
+
+### [WEEK 08 (OCT 29): ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week08_CriticalCodeStudies.md)  
+
+**In class**  
+Discussion of readings, porting code
 
 **Homework**  
 Historical Code Explorations
 
 \- \- \-
 
-### WEEK 11: INTERACTIVITY 2  
+### WEEK 09 (NOV 5): LANGUAGE   
+
+**In class**  
+Loading text, fonts, saving PDFs, regular expressions
+
+**Homework**  
+Generative Zine  
+ 
+\- \- \-
+
+### [WEEK 10 (NOV 12): ANIMATION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_Animation.md)  
+
+**In class**  
+Change over time, `frameCount`, tweening, flags
+
+**Homework**  
+Algorithmic animation with three scenes  
+
+\- \- \-
+
+### WEEK 11 (NOV 19): FINAL PROJECT 1  
+
 **In class**  
 Simulating motion and behavior, object-oriented programming, ArrayLists
 
 **Homework**  
-Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal, begin work on rough prototype  
+Finish animation, write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal
 
 \- \- \-
 
-### NOV 22–26  
-Thanksgiving break – no class!
+### WEEK 12 (NOV 26): FINAL PROJECT 2  
 
-\- \- \-
-
-### WEEK 12: NO CLASS (JEFF OUT OF TOWN)
+**In class**  
+Proposal feedback, work day  
 
 **Homework**  
 Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
-### WEEK 13: WORK DAY
+### WEEK 13 (DEC 3): FINAL PROJECT 3  
+
 **In class**  
 Work on Final Projects, get help as needed
 
@@ -175,6 +190,7 @@ Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob
 
 \- \- \-
 
-### EXAM PERIOD: THURSDAY, DECEMBER 21  
+### EXAM PERIOD (DATE TBD)  
+
 Final project files and documentation due online – **no class meeting** (bye!)
 
