@@ -37,15 +37,15 @@ Want to make your robot really awesome? Try these challenges:
 * Try adding shading to your robot, and/or drawing in perspective!
 
 
-![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/EarlyProgramming/OscilloscopeCamera-1.jpg)
-
-*How people used to "export" images from code – taking a photo of an oscilloscope screen*
-
-
 ## PROJECTS SHOWN  
 
 * The collages of [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse), who used simple shapes to create beautiful and dynamic drawings  
 * Osamu Sato's book *The Art of Computer Designing: A Black and White Approach* (in the `Images` folder)  
 * Illustrators like [Elton Kūns](https://theycallmeelton.tumblr.com/), [Matt Carlson](https://www.instagram.com/plaidmtn), [Erin Aniker](https://www.instagram.com/erinaniker/), [Ori Toor](https://oritoor.com/), [Ricardo Cavolo](http://ricardocavolo.com/art/), [Malika Favre](https://www.instagram.com/malikafavre/), [Ruby Taylor](https://www.instagram.com/rubyst/), and [Mike Perry](https://www.mikeperrystudio.com/)  
 * Plus some fun stuff in this week's `Images` folder of early computer graphics programming  
+
+
+![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/EarlyProgramming/OscilloscopeCamera-1.jpg)
+
+*How people used to "export" images from code – taking a photo of an oscilloscope screen*
 
