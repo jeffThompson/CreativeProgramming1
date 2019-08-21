@@ -19,23 +19,25 @@ Create a sketch with this basic structure:
     	save("LastnameFirstname_ROBOT.png");
     }
 
-*If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for loops or animation please!*
+If you already have some coding experience, please try to just use the methods we learned today – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for loops or animation please!
 
 
 ## DELIVERABLES  
 
 * Exported `png` image of your robot, with the correct filename, uploaded to Canvas  
+* No need to upload your code – we'll take a look at it in class next week  
 
 
 ## STRETCH GOALS  
 
 Want to make your robot really awesome? Try these challenges:
 
+* Show your robot from multiple angles, either as separate sketches or all in the same one!  
 * Make your image resizable using `width` and `height` instead of set `x/y` positions  
 * Try adding shading to your robot, and/or drawing in perspective!
 
 
-![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/OscilloscopeCamera-1.jpg)
+![How people used to "export" images from code – taking a photo of an oscilloscope screen](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/EarlyProgramming/OscilloscopeCamera-1.jpg)
 
 *How people used to "export" images from code – taking a photo of an oscilloscope screen*
 
