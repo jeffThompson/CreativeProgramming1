@@ -1,9 +1,8 @@
 ![Sol LeWitt's "Six Geometric Figures" wall drawing from 1980-81](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00_BootingUp/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
 
-BOOTING UP
-====
+# BOOTING UP  
 
-### DUE: SEPTEMBER 3  
+**DUE: SEPTEMBER 3**  
 
 >“The idea becomes a machine that makes the art.” – Sol LeWitt  
 
@@ -13,16 +12,19 @@ Please read Manfred Mohr's [*Computer Graphics* essay](https://github.com/jeffTh
 
 The goal is a much more fully-developed drawing that produces surprising results and feels finished. The drawings should fill an 8.5x11" sheet of paper or larger (larger == better, probably), and should include a set of printed instructions on a separate sheet. Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc. 
 
-We also have to "boot up" a few things before we can start coding. Please:  
-
-* Create an account on [Github](https://www.github.com) – it's free and will let you do things like create "issues" on the class page  
-* Download and install [Processing](https://processing.org/download) – be sure to open it and make sure everything works ok before class next week. If you have problems, send me an email or submit an "issue" (instructions below)  
-
 **Be sure to bring your laptop, charger, and notebook next week (and every week!)**
 
-***
 
-### IN-CLASS DRAWINGS  
+## DELIVERABLES  
+
+* A set of instructions you create, printed with your name on them  
+* A drawing made following your instructions, filling at least 8.5x11"  
+* Create a free account here on [Github](https://www.github.com)  
+* Download and install [Processing](https://processing.org/download) – be sure to open it and make sure everything works ok before class next week; if you have problems, send me an email    
+
+
+## IN-CLASS DRAWINGS  
+
 Below are some of the exercises we'll do in class. The first few are inspired by [Zach Lieberman](http://thesystemis.com) (who also does really cool work with code and art, btw). In all of these, it's best not to think too much – just make marks quickly and see what results from the accumulation!
 
 1. Each member of your group should draw a dot on the page, one at a time, in a point that is as far from other dots as possible. Repeat many times and as quickly as possible.  
@@ -48,9 +50,9 @@ Below are some of the exercises we'll do in class. The first few are inspired by
 `Instructions:`  
 `Draw a straight line and follow it.` 
 
-***
 
-### PROJECTS SHOWN  
+## PROJECTS SHOWN  
+
 (These are also in the `Images` folder for this week, if you want to check them out again, plus some optional articles in the `Readings` folder.)  
 
 * [Edward Pickering's](https://en.wikipedia.org/wiki/Edward_Charles_Pickering) human computers doing astronomical calculations  
