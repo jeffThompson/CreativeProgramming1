@@ -16,7 +16,7 @@ Along the way, we’ll also look at historical and contemporary figures in the a
 
 We’ll be starting from scratch, so if you don’t know anything about writing software that’s totally ok! For those that have experience coding, we’ll be using ideas from graphics programming that might be new to you, and I encourage you to take the cool things you know and apply them to our projects. For everyone in the class: talk to and help each other. Classes shouldn’t be one-way information machines, but a way to share ideas and skills between each other.
 
-See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Syllabus.pdf) for full details, grading policy, etc.
+See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Syllabus.pdf) for course policies, grading, etc.
 
 ***
 
