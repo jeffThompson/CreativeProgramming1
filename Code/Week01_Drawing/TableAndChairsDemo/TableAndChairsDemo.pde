@@ -7,6 +7,10 @@ Sample code showing how you *might* draw a room with
 table and chairs (though there's lots and lots of other
 great ways you could approach this too!).
 
+Notice the careful commenting throughout? It makes it
+waaayy easier to find the code you want to modify if it's
+well commented – a habit worth practicing early.
+
 */
 
 

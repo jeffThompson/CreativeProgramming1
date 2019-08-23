@@ -16,7 +16,7 @@ here: http://helloworldcollection.de
 
 Not only is this our first program, but it also demonstrates
 the very useful println() function, which lets us display
-text in the console. This is helpful for debugging purposes,
+text in the console. This is used for debugging purposes,
 especially when working on larger or interactive projects.
 
 (We're also seeing here a multiline comment – text that isn't
@@ -38,5 +38,11 @@ void setup() {
   
   // try printing some other text, using separate
   // println() commands!
+  
+  // also, you might have noticed that the println() command
+  // is inside this setup() function
+  // all static (ie that isn't animated or interactive) must goes
+  // inside this function – we'll talk more about what that is
+  // in a few weeks :)
   
 }
