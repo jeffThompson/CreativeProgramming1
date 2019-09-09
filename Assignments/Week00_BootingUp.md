@@ -61,6 +61,7 @@ Below are some of the exercises we'll do in class. The first few are inspired by
 * [Lawrence Weiner's](https://en.wikipedia.org/wiki/Lawrence_Weiner) book *Statements*  
 * [Yoko Ono's](https://en.wikipedia.org/wiki/Yoko_Ono) book *Grapefruit*  
 * Dick Higgins' [*Danger Music #17*](https://www.moma.org/collection/works/127389)  
+* Dennis Oppenheim's [*Two-Stage Transfer Drawing (Advancing to a Future State)*](https://www.dennisaoppenheim.org/copy-of-new-page) and [*A Feed-back Situation*](https://www.dennisaoppenheim.org/copy-3-of-new-page)  
 * [George Brecht's](https://en.wikipedia.org/wiki/George_Brecht) box of [Fluxus](https://monoskop.org/images/c/c1/Brecht_George_Water_Yam_1963.pdf) scores [*Water Yam*](https://monoskop.org/images/c/c1/Brecht_George_Water_Yam_1963.pdf)  
 * The massive [*DO IT* archive](http://projects.e-flux.com/do_it/manuals/0_manual.html) online  
 * ["Massively Multiplayer Soba"](http://www.tiltfactor.org/game/massively-multiplayer-urban-games/) at Conflux Festival  
