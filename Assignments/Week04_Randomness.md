@@ -38,7 +38,9 @@ Sketches should be `1152x720 pixels` (that's `16x10" * 72 pixels per inch`); eit
 ## FOR TUESDAY, OCT 8  
 **Note! Jeff is out of town next week, so we will not meet as a class. Instead, turn in this project to Canvas and see the new assignment on Github.**
 
-[ details of what is due coming shortly ]
+For next week, please take your initial randomness studies and create a final iteration. Push the visual explorations you did last week: what happens when you layer more randomized parameters, layer things, or create systems driven by other systems? How might you take a simple idea and push it to something beautiful (like Vera Molnar's deformed squares)?
+
+Your sketch should be the same size as last week (`1152x720 pixels`, exported as `PDF` or `TIFF`). Since we won't be meeting in person, please just upload these images to Canvas.
 
 
 ## PROJECTS SHOWN  
