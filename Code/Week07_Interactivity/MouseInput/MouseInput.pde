@@ -38,6 +38,11 @@ void draw() {
   fill(255);
   noStroke();
   ellipse(mouseX,mouseY, 60,60);
+  
+  // bonus: change the circle's size based on the position too!
+  // add this above the ellipse() command and use
+  // the "dia" variable instead of 60
+  float dia = map(mouseX, 0,width, 10,200);
 }
 
 
