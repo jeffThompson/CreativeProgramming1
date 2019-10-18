@@ -190,7 +190,7 @@ Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob
 
 \- \- \-
 
-### EXAM PERIOD (DATE TBD)  
+### EXAM PERIOD (DEC 17, 1PM)  
 
 Final project files and documentation due online – **no class meeting** (bye!)
 
