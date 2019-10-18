@@ -4,7 +4,7 @@
 
 **DUE: TUESDAY, OCT 29**  
 
-TLDR: make something interactive and read text in the `Critical Code Studies` folder (posting a response as a comment in the assignment)  
+**TLDR: make something interactive and read text in the `Critical Code Studies` folder (posting a response as a comment in the assignment)**  
 
 So far we've only created static images, but that leaves out a huge part of what Processing can do! As a way of starting to think about interactivity (and, later, animation) we'll create sketches that respond to mouse and keyboard input. In his paper *The Art of Interaction: Interactivity, Performativity, and Computers* (found in the `Readings` folder), David Saltz describes interactive art having three things: 
 

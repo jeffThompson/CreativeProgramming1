@@ -123,7 +123,7 @@ Collaged Photographs
 Critical Code Studies readings TBA
 
 **Homework**  
-Interaction project  
+Interactive sketch
 
 \- \- \-
 
