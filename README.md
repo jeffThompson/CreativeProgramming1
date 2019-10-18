@@ -114,7 +114,7 @@ Collaged Photographs
 
 \- \- \-
 
-### [WEEK 07 (OCT 22): INTERACTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week07_Interaction.md)  
+### [WEEK 07 (OCT 22): INTERACTION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week07_Interactivity.md)  
 
 **In class**  
 `map()`, mouse and keyboard input  
