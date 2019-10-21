@@ -120,7 +120,7 @@ Collaged Photographs
 `map()`, mouse and keyboard input  
 
 **Readings**  
-Critical Code Studies readings TBA
+Selection from *10 PRINT CHR$(205.5+RND(1)); : GOTO 10*  
 
 **Homework**  
 Interactive sketch
@@ -130,7 +130,7 @@ Interactive sketch
 ### [WEEK 08 (OCT 29): ⊨ CRITICAL CODE STUDIES](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week08_CriticalCodeStudies.md)  
 
 **In class**  
-Discussion of readings, porting code
+Discussion of reading, porting code
 
 **Homework**  
 Historical Code Explorations
