@@ -140,7 +140,7 @@ Historical Code Explorations
 ### [WEEK 09 (NOV 5): ANIMATION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week09_Animation.md)  
 
 **In class**  
-Change over time, `frameCount` and timing, tweening, flags
+Change over time, `frameCount` and timing, tweening, flags, sprites
 
 **Homework**  
 Algorithmic animation with three scenes  
