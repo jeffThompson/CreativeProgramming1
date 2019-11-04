@@ -8,7 +8,7 @@ Building on the ideas of interactivity we explored, as our last regular project 
 
 You three "scenes" should be distinct parts that come one after another. This might be based on a `millis()` or `frameCount` timer, or a condition being met (like an object reaching a certain point). You should think about your sketch as a generative film: scenes that feel like parts of a cohesive whole. If you want, you can also consider adding sound using Processing's `Sound` library or `Minim`, though it's not required.
 
-*Above: a still from John Whitney's "Catalog." Made in 1961 using a decommissioned WW2-era M-5 Antiaircraft Gun Director, "Catalog" is what its name implies: a catalog of visual effects at the birth of computer graphics. ([More info here](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html), , including a picture of Whitney's computer.)*  
+*Above: a still from John Whitney's "Catalog." Made in 1961 using a decommissioned WW2-era M-5 Antiaircraft Gun Director, "Catalog" is what its name implies: a catalog of visual effects at the birth of computer graphics. ([More info here](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html), including a picture of Whitney's computer.)*  
 
 
 ## DELIVERABLES  
