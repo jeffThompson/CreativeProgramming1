@@ -137,23 +137,23 @@ Historical Code Explorations
 
 \- \- \-
 
-### [WEEK 09 (NOV 5): ANIMATION](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week09_Animation.md)  
+### [WEEK 09 (NOV 5): ANIMATION 1](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week09_Animation.md)  
 
 **In class**  
-Change over time, `frameCount` and timing, tweening, flags, sprites
+Change over time, `frameCount` and timing, flags, sprites
 
 **Homework**  
-Algorithmic animation with three scenes  
+[Algorithmic animation with three scenes](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week09_Animation.md): initial scene
 
 \- \- \-
 
-### WEEK 10 (NOV 12): LANGUAGE   
+### [WEEK 10 (NOV 12): ANIMATION 2](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week09_Animation.md)  
 
 **In class**  
-Loading text, fonts, saving PDFs, regular expressions
+Tweening, easing  
 
 **Homework**  
-[Generative Zine](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week10_Language.md)  
+Finish [algorithmic animation with three scenes](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week09_Animation.md)  
 
 \- \- \-
 
