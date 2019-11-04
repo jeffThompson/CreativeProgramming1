@@ -1,4 +1,4 @@
-![]()
+![John Whitney at his computer](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week09_Animation/JohnWhitneyAtHisComputer.gif)
 
 # ANIMATION
 
