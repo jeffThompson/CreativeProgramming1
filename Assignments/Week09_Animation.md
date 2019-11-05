@@ -48,6 +48,7 @@ This is a two-week project, so we won't be covering all the demos in the first w
 * Ryoji Ikeda's [*The Transfinite*](https://www.youtube.com/watch?v=omDK2Cm2mwo)  
 * Andrew Benson's [*Melting Rainbow Heart*](https://vimeo.com/79273630) and [*These Radical Hands*](https://vimeo.com/35479926)  
 * ZEITGUISED's [*emancipath*](https://www.zeitguised.com/emancipath#monobloc1-1)  
+* Matthieu Braccini's [*Egg McMuffin*](https://vimeo.com/354894903) (no, for real)  
 
 
 ## RESOURCES  
