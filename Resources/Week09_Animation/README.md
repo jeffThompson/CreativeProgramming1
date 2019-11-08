@@ -6,37 +6,32 @@ As a way to get your brain going, you might consider some of these lists of word
 ## *VERBLIST*  
 From Richard Serra's [drawing of the same name](https://www.moma.org/collection/works/152793) (1967–68):  
 
-to roll|to crease|to fold|to store
-to bend|to shorten|to twist|to dapple
-to crumple|to shave|to tear|to chip
-to split|to cut|to sever|to drop
-to remove|to simplify|to differ|to disarrange
-to open|to mix|to splash|to knot
-to spill|to droop|to flow|to curve
-to lift|to inlay|to impress|to fire
-to flood|to smear|to rotate|to swirl
-to support|to hook|to suspend|to spread
-to hang|to collect|of tension|of gravity
-of entropy|of nature|of grouping|of layering
-of felting|to grasp|to tighten|to bundle
-to heap|to gather|to scatter|to arrange
-to repair|to discard|to pair|to distribute
-to surfeit|to compliment|to enclose|to surround
-to encircle|to hole|to cover|to wrap
-to dig|to tie|to bind|to weave
-to join|to match|to laminate|to bond
-to hinge|to mark|to expand|to dilute
-to light|to modulate|to distill|of waves
-of electromagnetic|of inertia|of ionization|of polarization
-of refraction|of tides|of reflection|of equilibrium
-of symmetry|of friction|to stretch|to bounce
-to erase|to spray|to systematize|to refer
-to force|of mapping|of location|of context
-of time|of cabonization|to continue|
+|   |   |   |   |
+|---|---|---|---|
+to roll|to crease|to fold|to store|to bend|to shorten
+to twist|to dapple|to crumple|to shave|to tear|to chip
+to split|to cut|to sever|to drop|to remove|to simplify
+to differ|to disarrange|to open|to mix|to splash|to knot
+to spill|to droop|to flow|to curve|to lift|to inlay
+to impress|to fire|to flood|to smear|to rotate|to swirl
+to support|to hook|to suspend|to spread|to hang|to collect
+of tension|of gravity|of entropy|of nature|of grouping|of layering
+of felting|to grasp|to tighten|to bundle|to heap|to gather
+to scatter|to arrange|to repair|to discard|to pair|to distribute
+to surfeit|to compliment|to enclose|to surround|to encircle|to hole
+to cover|to wrap|to dig|to tie|to bind|to weave
+to join|to match|to laminate|to bond|to hinge|to mark
+to expand|to dilute|to light|to modulate|to distill|of waves
+of electromagnetic|of inertia|of ionization|of polarization|of refraction|of tides
+of reflection|of equilibrium|of symmetry|of friction|to stretch|to bounce
+to erase|to spray|to systematize|to refer|to force|of mapping
+of location|of context|of time|of cabonization|to continue|
 
 ## MUSICAL TERMS  
 From a variety of sources ([1](https://www.khanacademy.org/humanities/music/music-basics2/notes-rhythm/a/glossary-of-musical-terms), [2](https://www.laco.org/visit/glossary/))
 
+|   |   |
+|---|---|
 Luminous|This character requires two elements: a soft background, usually sustained strings, and another element to add "light."
 Mysterious|Mystery comes from lack of clarity. Appropriate sounds include very delicate background resonance (sustained sound) and/or very quiet movement, not too thickly spaced.
 Menacing|Certain sounds, often starting softly and making a crescendo, which evoke natural threats (e.g. earthquakes, eruptions) are very potent.
@@ -48,6 +43,8 @@ Funereal|Heavy, dragging sounds, suggesting a mourning procession.
 Playful, funny|The key here is lightness, unless a grotesque effect is wanted.
 Sad, melancholy, poignant|Often suggests an individual (solo) lamenting, or discouragement, weakness.
 
+|   |   |
+|---|---|
 Accent|An emphasis or “punch” at the beginning of a musical sound.
 Andante|Meaning a walking tempo or walking pace; a moderate speed.
 absolute music Music that is “free of” any explicit connection with words or specific meaning.
