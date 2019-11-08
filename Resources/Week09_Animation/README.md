@@ -71,6 +71,6 @@ Piu|More. For example, piu piano would mean more softly.
 Resolution|A group of chords can create harmonic tension, then "resolved."
 Sempre|Always. For example, sempre forte would mean always loud.
 Sempre piu|Always more.
-Solo"For one player (musician), or to be played alone. 
+Solo|For one player (musician), or to be played alone. 
 Tempo|The rate of speed of a musical work.
 
