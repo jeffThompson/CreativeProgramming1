@@ -27,8 +27,8 @@ From Richard Serra's [drawing of the same name](https://www.moma.org/collection/
 |to erase|to spray|to systematize|to refer|to force|of mapping|
 |of location|of context|of time|of cabonization|to continue||
 
-## MUSICAL TERMS  
-From a variety of sources ([1](https://www.khanacademy.org/humanities/music/music-basics2/notes-rhythm/a/glossary-of-musical-terms), [2](https://www.laco.org/visit/glossary/))
+## MUSICAL "CHARACTERS"  
+Via [Alan Blekin](http://alanbelkinmusic.com/site/en/index.php/orchestration-character-glossary):  
 
 |   |   |
 |---|---|
@@ -42,6 +42,9 @@ Dramatic|Sudden contrasts in register, timbre, and dynamics.
 Funereal|Heavy, dragging sounds, suggesting a mourning procession.
 Playful, funny|The key here is lightness, unless a grotesque effect is wanted.
 Sad, melancholy, poignant|Often suggests an individual (solo) lamenting, or discouragement, weakness.
+
+## MUSICAL TERMS  
+From a variety of sources ([1](https://www.khanacademy.org/humanities/music/music-basics2/notes-rhythm/a/glossary-of-musical-terms), [2](https://www.laco.org/visit/glossary/))
 
 |   |   |
 |---|---|
