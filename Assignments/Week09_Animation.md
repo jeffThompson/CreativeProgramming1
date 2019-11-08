@@ -4,7 +4,7 @@
 
 **DUE: TUESDAY, NOV 19**  
 
-Building on the ideas of interactivity we explored, as our last regular project your task is to create an animation in Processing with three scenes. While doing Pixar-level animation (or even cell animation like Looney Toons) is not really possible with the tools we have, we can explore motion, time, and change by making shapes and images move.
+Building on the ideas of interactivity we explored, as our last regular project your task is to create an animation in Processing with three scenes. While doing Pixar-level animation (or even cell animation like Looney Toons) is not really possible with the tools we have, we can explore motion, time, and change by making shapes and images move. For some prompts to consider, see the `Resources` folder for this week.
 
 You three "scenes" should be distinct parts that come one after another. This might be based on a `millis()` or `frameCount` timer, or a condition being met (like an object reaching a certain point). You should think about your sketch as a generative film: scenes that feel like parts of a cohesive whole. If you want, you can also consider adding sound using Processing's `Sound` library or `Minim`, though it's not required.
 
