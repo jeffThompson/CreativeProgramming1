@@ -47,7 +47,6 @@ Sad, melancholy, poignant|Often suggests an individual (solo) lamenting, or disc
 |---|---|
 Accent|An emphasis or “punch” at the beginning of a musical sound.
 Andante|Meaning a walking tempo or walking pace; a moderate speed.
-absolute music Music that is “free of” any explicit connection with words or specific meaning.
 Accelerando|Getting gradually faster.
 Arpeggio|A chord whose pitches are sounded successively rather than simultaneously.
 Atonality|Avoidance of centering around a specified note or key area.
