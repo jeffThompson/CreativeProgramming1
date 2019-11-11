@@ -8,6 +8,8 @@ Building on the ideas of interactivity we explored, as our last regular project 
 
 You three "scenes" should be distinct parts that come one after another. This might be based on a `millis()` or `frameCount` timer, or a condition being met (like an object reaching a certain point). You should think about your sketch as a generative film: scenes that feel like parts of a cohesive whole. If you want, you can also consider adding sound using Processing's `Sound` library or `Minim`, though it's not required.
 
+**Overall, please keep your animations to under 3 minutes! Shorter is fine too, but think about giving scenes enough time to unfold and for us to get into them.**
+
 *Above: a still from John Whitney's "Catalog." Made in 1961 using a decommissioned WW2-era M-5 Antiaircraft Gun Director, "Catalog" is what its name implies: a catalog of visual effects at the birth of computer graphics. ([More info here](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html), including a picture of Whitney's computer.)*  
 
 
@@ -15,7 +17,7 @@ You three "scenes" should be distinct parts that come one after another. This mi
 
 * Initial scene for your animation  
 * Final animation, running on its own as a fullscreen sketch  
-* Screenshots of each of your scenes, uploaded to Canvas  
+* Zipped sketch folder (please remove large unused files) uploaded to Canvas  
 
 
 ## FOR TUESDAY, NOVEMBER 12  
@@ -24,6 +26,10 @@ For next week, please create one scene for your animation. Think about the demos
 Next week we'll take a look at your first scenes, then do some more animation demos and have work time.
 
 This is a two-week project, so we won't be covering all the demos in the first week. Feel free to jump ahead and take a look at the other demos if there's something you want to try. If there's other stuff you want to know how to do for your project, come next week with questions and I'll do my best to show you!
+
+
+## FOR TUESDAY, NOVEMBER 19  
+For next week, please finish the three scenes of your animation. It should run in fullscreen, play the scenes automatically, and either quit or stop. Think about the ideas of motion and transformation we've talked about so far as well as ways that your scenes can flow into each other or be contrasting. Your animation should be no longer than 3 minutes total.
 
 
 ## PROJECTS SHOWN  
