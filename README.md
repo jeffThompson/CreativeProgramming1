@@ -160,33 +160,30 @@ Finish [algorithmic animation with three scenes](https://github.com/jeffThompson
 ### WEEK 11 (NOV 19): FINAL PROJECT 1  
 
 **In class**  
-Simulating motion and behavior, object-oriented programming, ArrayLists
+Object-oriented programming, ArrayLists
 
 **Homework**  
-Finish animation, write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal
+Write [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) proposal
 
 \- \- \-
 
 ### WEEK 12 (NOV 26): FINAL PROJECT 2  
 
 **In class**  
-Proposal feedback, work day  
+Project feedback, work day  
 
 **Homework**  
-Continue working on [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
+Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) for next week
 
 \- \- \-
 
 ### WEEK 13 (DEC 3): FINAL PROJECT 3  
 
 **In class**  
-Work on Final Projects, get help as needed
-
-**In class**  
-Demo of work in progress
+Final Project critique  
 
 **Homework**  
-Finish [Final Project](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md) and documentation
+Finish [Final Project documentation](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Assignments/Week11_FinalProject.md)
 
 \- \- \-
 
