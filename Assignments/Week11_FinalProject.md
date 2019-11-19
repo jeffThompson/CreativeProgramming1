@@ -6,7 +6,7 @@
 
 Your final project for the semester is to make something, anything, using Processing. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of two weeks' of work, and that pushes your artistic, creative, and technical skills. Feel free to involve non-computational media (drawing, photography, illustration, music) if you want alongside or with your code.
 
-The goal should be a project that you're personally invested in, and that you procrastinate all other projects to work on!
+The goal should be a project that you're personally invested in and that you procrastinate all other projects to work on!
 
 
 ## DELIVERABLES  
