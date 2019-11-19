@@ -1,7 +1,7 @@
 
 # FINAL PROJECT  
 
-**"NEARLY-FINISHED" CRITIQUE: TUESDAY, DECEMBER 3**  
+**FINAL CRITIQUE: TUESDAY, DECEMBER 3**  
 **PROJECT DOCUMENTATION: TUESDAY, DECEMBER 17 AT 1PM**  
 
 Your final project for the semester is to make something, anything, using Processing. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of two weeks' of work, and that pushes your artistic, creative, and technical skills. Feel free to involve non-computational media (drawing, photography, illustration, music) if you want alongside or with your code.
