@@ -38,5 +38,14 @@ We'll take a look at your work and you can use that feedback to improve your pro
 
 
 ## FOR TUESDAY, DECEMBER 17 AT 1pm – ONLINE TURN-IN!  
-**Note, we will NOT meet this week!** Turn in documentation of your project on Canvas only. Details TBA.
+**Note, we will NOT meet this week!** Turn in documentation of your project on Canvas only.
+
+What to turn in:  
+* Representative image (screenshot, photograph, etc) of your project  
+* For interactive or animation work: your sketch folder, zipped  
+* For print work: digital files used to print (optional: install shots too)  
+* For physical work (books, sculpture, etc): digital files **and** photographs of the project, taken carefully in the right context and with decent lighting  
+* Other formats: please chat with me individually  
+
+Work is due at 1pm – late work cannot be accepted, so please be sure it is uploaded in time. If you have any questions, you can reach me by email.
 
