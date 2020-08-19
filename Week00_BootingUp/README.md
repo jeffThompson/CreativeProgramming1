@@ -1,4 +1,4 @@
-![An image of artist Sol LeWitt's "Six Geometric Figures," a wall drawing from 1980-81 featuring lots of lines](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Week00_BootingUp/Images/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
+![An image of artist Sol LeWitt's "Six Geometric Figures," a wall drawing from 1980-81 featuring lots of lines](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Week00_BootingUp/Images/SolLeWitt_SixGeometricFiguresPlusTwo_1980-81.jpg)
 
 # BOOTING UP  
 
