@@ -3,9 +3,9 @@
 # ROBOT DRAWINGS
 
 ### TLDR  
-* Due September 10 by 9am EST  
+* Due September 15 by 12pm EST  
 * Sketch should be `600x600px` or resize with the browser  
-* Upload link to P5JS code to Canvas  
+* Upload link to `P5JS` code to Canvas  
 * See the code examples in this folder and the video playlist for this week  
 * Email or drop into my office hours if you need help!  
 
@@ -26,9 +26,9 @@ When you're ready to start your homework, you can make a new P5JS sketch from sc
 
 ### DELIVERABLES  
 * Sketch that runs at `600x600px` or resizes to fit the browser window  
-* Upload link to your code in the P5JS editor to Canvas by 9am on the due date (if you're working with an external editor, just copy/paste the code into the P5JS editor)  
+* Upload link to your code in the `P5JS` editor to Canvas by 12pm EST on the due date (if you're working with an external editor, just copy/paste the code into the `P5JS` editor)  
 
-(If you have any technical issues with the P5JS Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
+(If you have any technical issues with the `P5JS` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
 
 ### STRETCH GOALS  

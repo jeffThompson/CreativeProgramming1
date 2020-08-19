@@ -51,12 +51,12 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 *Topics noted with [⊨ symbol](https://en.wikipedia.org/wiki/Double_turnstile) are short explorations of topics that jump off from or surround programming in a creative context. The symbol ⊨ is used in the field of logic to mean that an idea semantically entails another.*
 
-**WEEK 00 (SEPT 1): BOOTING UP**  
+**WEEK 00 (SEPT 1): [BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week00_BootingUp)**  
 * In class: Hello, introductions and syllabus, how to access course materials  
 * Reading: *Computer Graphics* (Mohr)  
 * Homework: `Instruction Drawing`  
 
-**WEEK 01 (SEPT 8): DRAWING && COORDINATE SYSTEMS**  
+**WEEK 01 (SEPT 8): [DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week01_DrawingBasics)**  
 * In class: Creating sketches in the `P5JS` editor, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help  
 * Homework: `Robot Drawings`  
 

@@ -1,12 +1,12 @@
-![An image of artist Sol LeWitt's "Six Geometric Figures," a wall drawing from 1980-81 featuring lots of lines](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week00_BootingUp/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
+![An image of artist Sol LeWitt's "Six Geometric Figures," a wall drawing from 1980-81 featuring lots of lines](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Week00_BootingUp/Images/SixGeometricFiguresPlusTwo_SolLeWitt_1980-81.jpg)
 
 # BOOTING UP  
 
 ### TLDR  
-* Due September 3 by 9am EST  
+* Due September 10 by 12pm EST  
 * Upload a photo or scan of your drawing to Canvas  
 * Type the instructions used to create it as a comment on your submission  
-* Read *Computer Graphics* by Manfred Mohr  
+* Read *Computer Graphics* by Manfred Mohr and think about the question "how does making art with instructions differ from other ways of making?"  
 
 
 ### ASSIGNMENT  
@@ -17,14 +17,14 @@ As a way to start thinking about writing code, but without the hassle of learnin
 
 Please read Manfred Mohr's *Computer Graphics* essay in the `Readings` folder and, using it and our in-class work as inspiration, create a more involved drawing using instructions you create. You will want to experiment and test what different instructions and variations will do – this is called "iterative development" and is exactly what we'll do when we start writing code! You can make your drawing collaboratively or by yourself. Think about the drawings we made in class together, and Mohr's essay – feel free to embrace or push against the idea of instructions defining a creative act like drawing.
 
-The goal is a much more fully-developed drawing that produces surprising results and feels finished. The drawings should fill an 8.5x11" sheet of paper or larger (`larger == better`, probably), and should include a separate set of written instructions. Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc. 
+The goal is a much more fully-developed drawing that produces surprising results and feels finished. The drawings should fill an `8.5x11"` sheet of paper or larger (`larger == better`, probably), and should include a separate set of written instructions. Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc. 
 
 
 ### DELIVERABLES    
-* A drawing made following your instructions, filling at least 8.5x11"  
-* Drawing uploaded to the assignment on Canvas, with your instructions typed up as a comment on your submission  
+* A drawing made following your instructions, filling at least `8.5x11"`  
+* Drawing uploaded to the assignment on Canvas (either a photo or scan), with your instructions typed up as a comment on your submission  
 
-(If you have any problems with Canvas or the assignment, don't hesitate to email me! Since we'll be working with technical material (and all online this semester), it's important you be proactive in getting help. Don't be shy!)
+> If you have any problems with Canvas or the assignment, don't hesitate to email me! Since we'll be working with technical material (and all online this semester), it's important you be proactive in getting help. Don't be shy!)  
 
 
 ### STRETCH GOALS  
@@ -77,7 +77,6 @@ Each week, we'll look at examples of historical and contemporary makers who use 
 * [Manfred Mohr](https://en.wikipedia.org/wiki/Manfred_Mohr)  
 * [Vera Molnár](https://en.wikipedia.org/wiki/Vera_Moln%C3%A1r)  
 * Daniel John Jones' [*Cubic Interpolations*](http://www.erase.net/weblog/2013-07/cube-interpolations)  
-* Casey Reas's (who co-created Processing) [collection of process documentation](https://drive.google.com/file/d/0B9h469--G5OwOGVfVmUxZUQ5VzA/view) from 2004–2010 (giant PDF alert)  
 
 *Top: Sol LeWitt's *Six Geometric Figures,* an instruction-based wall drawing from 1980-81*
 
