@@ -1,4 +1,4 @@
-![A grid of images of some vintage and modern robots](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/Robots.jpg)
+![A grid of images of some vintage and modern robots](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Week01_DrawingBasics/Images/Robots.jpg)
 
 # ROBOT DRAWINGS
 
@@ -51,5 +51,5 @@ Many of the examples we'll look at each week are in the `Images` folder!
 ### BONUS  
 An example of how people used to "export" images from code in the early days of computer graphics: taking a photo of an oscilloscope screen!
 
-![Image of a large Polaroid camera connected to an oscilloscope](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week01_Drawing/EarlyProgramming/OscilloscopeCamera-1.jpg)
+![Image of a large Polaroid camera connected to an oscilloscope](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Week01_DrawingBasics/Images/OscilloscopeCamera.jpg)
 
