@@ -12,7 +12,7 @@
 
 ### ASSIGNMENT  
 
-> "The idea becomes a machine that makes the art."" – Sol LeWitt  
+> "The idea becomes a machine that makes the art." – Sol LeWitt  
 
 As a way to start thinking about writing code, but without the hassle of learning syntax and finding missing semicolons, we're going to make some drawings ~together~ using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
 
@@ -25,7 +25,7 @@ The goal is a much more fully-developed drawing that produces surprising results
 * A drawing made following your instructions, filling at least `8.5x11"`  
 * Drawing uploaded to the assignment on Canvas (either a photo or scan), with your instructions typed up as a comment on your submission  
 
-:heavy_exclamation_mark: If you have any problems with Canvas or the assignment, don't hesitate to email me! Since we'll be working with technical material (and all online this semester), it's important you be proactive in getting help. Don't be shy!)
+:heavy_exclamation_mark: If you have any problems with Canvas or the assignment, don't hesitate to email me or drop into my Zoom hours! Since we'll be working with technical material (and will be nearly all online this semester) it's important you be proactive in getting help. Don't be shy!
 
 
 ### STRETCH GOALS  
