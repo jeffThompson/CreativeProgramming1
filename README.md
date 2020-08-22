@@ -46,85 +46,85 @@ Watching video tutorials, looking at code examples, and doing your homework will
 ### COURSE CALENDAR  
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.
 
-| SEPT 1       | [BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week00_BootingUp) |
-| :---         | :--- |
-| In class     | Hello, introductions and syllabus, how to access course materials|
-| Reading      | *Computer Graphics* (Mohr)|
-| Homework     | `Instruction Drawing`|
+| SEPT 1     | [BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week00_BootingUp) |
+| :---       | :--- |
+| In class   | Hello, introductions and syllabus, how to access course materials, instruction drawings |
+| Reading    | *Computer Graphics* (Mohr)|
+| Homework   | `Instruction Drawing`|
 
-| SEPT 8       | [DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week01_DrawingBasics) |
-| :---         | :--- |
-| In class     | Creating sketches in the `p5.js` editor, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help |
-| Homework     | `Robot Drawings` |
+| SEPT 8     | [DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week01_DrawingBasics) |
+| :---       | :--- |
+| In class   | Creating sketches in the `p5.js` editor, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help |
+| Homework   | `Robot Drawings` |
 
-| SEPT 15      | ITERATION && LOOPS 1 |
-| :---         | :--- |
-| In class     | Variables, for loops, nested loops, driving parameters with loops, historical quilt research |
-| Homework     | Create a quilt block for your `Algorithmic Quilt` |
+| SEPT 15    | ITERATION && LOOPS 1 |
+| :---       | :--- |
+| In class   | Variables, for loops, nested loops, driving parameters with loops, historical quilt research |
+| Homework   | Create a quilt block for your `Algorithmic Quilt` |
  
-| SEPT 22      | ITERATION && LOOPS 2 |
-| :---         | :--- |
-| In class     | Matrix transformations, creating functions |
-| Homework     | Finish your `Algorithmic Quilt` |
+| SEPT 22    | ITERATION && LOOPS 2 |
+| :---       | :--- |
+| In class   | Matrix transformations, creating functions to re-use code |
+| Homework   | Finish your `Algorithmic Quilt` |
 
-| SEPT 29      | RANDOMNESS 1 |
-| :---         | :--- |
-| In class     | Conditionals, arrays, `random()`, Brownian motion, random choices |
-| Readings     | *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan and *Motives for Writing Free Software* by the Free Software Foundation |
-| Homework     | `Randomness` code sketches |
+| SEPT 29    | RANDOMNESS 1 |
+| :---       | :--- |
+| In class   | Conditionals, arrays, `random()`, Brownian motion, random choices |
+| Readings   | *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan and *Motives for Writing Free Software* by the Free Software Foundation |
+| Homework   | `Randomness` code sketches |
 
-| OCT 6        | RANDOMNESS 2 (and ⊨ Open Source) |
-| :---         | :--- |
-| In class     | Discuss readings, contributing to open source projects, psuedo-randomness, Perlin noise  |
-| Homework     | Finish `Randomness` project |
+| OCT 6      | RANDOMNESS 2 (and ⊨ Open Source) |
+| :---       | :--- |
+| In class   | Discuss readings, contributing to open source projects, psuedo-randomness, Perlin noise  |
+| Homework   | Finish `Randomness` project |
 
 **OCT 13: MONDAY SCHEDULE, NO CLASS!**  
 
-| OCT 20       | COLLAGE |
-| :---         | :--- |
-| In class     | Loading images, resizing, `get()` |
-| Homework     | `Collaged Photographs` |
+| OCT 20     | COLLAGE |
+| :---       | :--- |
+| In class   | Loading images, resizing, `get()` |
+| Homework   | `Collaged Photographs` |
 
-| OCT 27       | INTERACTIVITY |
-| :---         | :--- |
-| In class     | Mouse and keyboard input, using an external editor |
-| Readings     | Selection from *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* |
-| Homework     | `Interactivity` sketch |
+| OCT 27     | INTERACTIVITY |
+| :---       | :--- |
+| In class   | Mouse and keyboard input, using an external editor |
+| Readings   | Selection from *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* |
+| Homework   | `Interactivity` sketch |
 
-| NOV 3        | ⊨ CRITICAL CODE STUDIES |
-| :---         | :--- |
-| In class     | Discussion of reading, porting code |
-| Homework     | `Historical Code Explorations` |
+| NOV 3      | ⊨ CRITICAL CODE STUDIES |
+| :---       | :--- |
+| In class   | Discussion of reading, porting code |
+| Homework   | `Historical Code Explorations` |
 
-| NOV 10       | ANIMATION 1 |
-| :---         | :--- |
-| In class     | Change over time, `frameCount` and timing, flags, sprites |
-| Homework     | `Algorithmic Animation`: initial scene |
+| NOV 10     | ANIMATION 1 |
+| :---       | :--- |
+| In class   | Change over time, `frameCount` and timing, flags, sprites |
+| Homework   | `Algorithmic Animation`: initial scene |
 
-| NOV 17       | ANIMATION 2 |
-| :---         | :--- |
-| In class     | Tweening, easing, sound |
-| Homework     | Finish `Algorithmic Animation` |
+| NOV 17     | ANIMATION 2 |
+| :---       | :--- |
+| In class   | Tweening, easing, sound |
+| Homework   | Finish `Algorithmic Animation` |
 
-| NOV 24       | FINAL PROJECT 1 |
-| :---         | :--- |
-| In class     | Object-oriented programming |
-| Homework     | Write `Final Project` proposal |
+| NOV 24     | FINAL PROJECT 1 |
+| :---       | :--- |
+| In class   | Object-oriented programming |
+| Homework   | Write `Final Project` proposal |
 
-| DEC 1        | FINAL PROJECT 2 |
-| :---         | :--- |
-| In class     | Project feedback, work day |
-| Homework     | Finish `Final Project` |
+| DEC 1      | FINAL PROJECT 2 |
+| :---       | :--- |
+| In class   | Project feedback, work day |
+| Homework   | Finish `Final Project` |
 
-| DEC 8        | FINAL PROJECT 3 |
-| :---         | :--- |
-| In class     | `Final Project` critique |
-| Homework     | Finish `Final Project` documentation |
+| DEC 8      | FINAL PROJECT 3 |
+| :---       | :--- |
+| In class   | `Final Project` critique |
+| Homework   | Finish `Final Project` documentation |
 
-| TBA          | EXAM PERIOD |
-| :---         | :--- |
-| Due          | `Final Project` files and documentation due online |
-| In class     | * No class meeting (bye!) |
+| TBA        | EXAM PERIOD |
+| :---       | :--- |
+| Due        | `Final Project` files and documentation due online |
+| In class   | * No class meeting (bye!) |
 
 *Topics noted with [⊨ symbol](https://en.wikipedia.org/wiki/Double_turnstile) are short explorations of topics that jump off from or surround programming in a creative context; the symbol ⊨ is used in the field of logic to mean that an idea semantically entails another*
 
