@@ -82,7 +82,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | OCT 20     | COLLAGE |
 | :---       | :--- |
-| In class   | Loading images, resizing, `get()` |
+| In class   | Loading images, resizing, accessing pixel values with `get()` |
 | Homework   | `Collaged Photographs` |
 
 | OCT 27     | INTERACTIVITY |
