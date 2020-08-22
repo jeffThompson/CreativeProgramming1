@@ -50,7 +50,8 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 **WEEK 00 (SEPT 1): [BOOTING UP](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week00_BootingUp)**  
 
-|||  
+| | |  
+| ---      | --- |  
 | In class | Hello, introductions and syllabus, how to access course materials|  
 | Reading  | *Computer Graphics* (Mohr)|  
 | Homework | `Instruction Drawing`|  
