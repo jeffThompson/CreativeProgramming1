@@ -1,3 +1,5 @@
+**[:arrow_down: Jump to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
+
 > "The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music."  
 > – Donald Knuth
 
@@ -12,8 +14,6 @@
     Office hours     On Zoom, TBD
     Meeting times    Weekly Zoom critiques at 11am EST (link is on Canvas)
     Drop-in hours    Tuesdays 9–11am and during office hours
-
-**[:arrow_down: Jump to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
