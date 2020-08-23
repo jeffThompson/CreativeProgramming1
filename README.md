@@ -7,16 +7,17 @@
 
 # CREATIVE PROGRAMMING 1
 
-    Instructor      Prof. Jeff Thompson (please call me Jeff)
-    Email           jeff.thompson@stevens.edu
-    Office/hours    On Zoom, TBD
-    Meeting times   Weekly Zoom critiques at 11am EST
-    Drop-in hours   Tuesdays 9–11am
+    Instructor       Prof. Jeff Thompson (please call me Jeff)
+    Email            jeff.thompson@stevens.edu
+    Office hours     On Zoom, TBD
+    Meeting times    Weekly Zoom critiques at 11am EST (link is on Canvas)
+    Drop-in hours    Tuesdays 9–11am and during office hours
 
+**[:arrow_down: Jump to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
-During the course of the semester, you’ll learn how to write code for a variety of visual projects, including image, text, and interaction. We’ll primarily be using [`p5.js`](https://p5js.org), an offshoot of Processing originally developed by [Lauren McCarthy](https://lauren-mccarthy.com). `p5.js` is a toolkit created specifically for artists and designers build on the Javascript programming language and features a really easy-to-use online code editor.
+During the course of the semester, you’ll learn how to write code for a variety of visual projects, including image, text, and interaction. We’ll primarily be using [`p5.js`](https://p5js.org), an offshoot of Processing originally developed by [Lauren McCarthy](https://lauren-mccarthy.com). `p5.js` is a toolkit created specifically for artists and designers build on the Javascript programming language and features a really [easy-to-use online code editor](https://editor.p5js.org).
 
 Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective.
 
