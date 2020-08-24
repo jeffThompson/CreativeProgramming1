@@ -7,11 +7,13 @@
 
 # CREATIVE PROGRAMMING 1
 
-    Instructor       Prof. Jeff Thompson       (please call me Jeff)
-    Email            jeff.thompson@stevens.edu
-    Office hours     On Zoom, TBD
-    Drop-in hours    Tuesdays 9–11am EST       (link on Canvas)
-    Weekly crits     Tuesdays 11am–12:30pm EST (link on Canvas)
+| INFO          |      |  
+| :---          | :--- |  
+| Instructor    | Prof. Jeff Thompson (please call me Jeff) |  
+| Email         | jeff.thompson@stevens.edu |  
+| Office hours  | On Zoom, TBD |  
+| Drop-in hours | Tuesdays 9–11am EST (link on Canvas) |  
+| Weekly crits  | Tuesdays 11am–12:30pm EST (link on Canvas) |  
 
 **[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
 
