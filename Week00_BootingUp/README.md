@@ -48,10 +48,11 @@ Below are some of the exercises we did together in class (though normally we'd b
 
 4. Draw a curving line from the edge of the paper inwards. No lines should touch. Repeat.  
 
-5. Modified version of Sol LeWitt's `WORK FROM INSTRUCTIONS (1971)`:  
-`WITHIN EACH ONE INCH SQUARE, DRAW NOTHING,`  
-`OR DRAW A DIAGONAL STRAIGHT LINE FROM CORNER TO CORNER,`  
-`OR TWO CROSSING STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER`  
+5. Modified version of Sol LeWitt's *Work From Instructions* (1971):  
+`WITHIN EACH ONE INCH SQUARE,`  
+`DRAW NOTHING, OR`  
+`DRAW A DIAGONAL STRAIGHT LINE FROM CORNER TO CORNER, OR`  
+`TWO CROSSING STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER`  
 
 6. On a sheet of scratch paper (or your computer) write a set of simple instructions about what to do from the points you see here. When ready, start carrying out the instructions onscreen. It's totally ok if you get lost while others are drawing too!
 

@@ -9,12 +9,12 @@
 
 **[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
  
-| Instructor    | Prof. Jeff Thompson (please call me Jeff) |  
-| :---          | :--- |  
-| Email         | jeff.thompson@stevens.edu |  
-| Office hours  | On Zoom, TBD |  
-| Drop-in hours | Tuesdays 9–11am EST (link on Canvas) |  
-| Weekly crits  | Tuesdays 11am–12:30pm EST (link on Canvas) |  
+| Instructor     | Prof. Jeff Thompson (please call me Jeff) |  
+| :---           | :--- |  
+| Email          | jeff.thompson@stevens.edu |  
+| Student hours  | On Zoom, TBD |  
+| Drop-in hours  | Tuesdays 9–11am EST (link on Canvas) |  
+| Weekly crits   | Tuesdays 11am–12:30pm EST (link on Canvas) |  
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
