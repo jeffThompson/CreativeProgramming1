@@ -3,7 +3,7 @@
 # ROBOT DRAWINGS
 
 ### TLDR  
-* Due September 15 by 12pm EST  
+* Due September 15 by 11am EST  
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `P5JS` code to Canvas  
 * See the code examples in this folder and the video playlist for this week  

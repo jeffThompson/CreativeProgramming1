@@ -3,7 +3,7 @@
 # BOOTING UP  
 
 ### TLDR  
-* Due September 8 by 12pm EST  
+* Due September 8 by 11am EST  
 * Make a drawing using instructions you create  
 * Upload a photo or scan of your drawing to Canvas  
 * Type the instructions used to create it as a comment on your submission  

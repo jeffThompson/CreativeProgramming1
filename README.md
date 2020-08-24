@@ -1,5 +1,3 @@
-**[:arrow_down: Jump to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
-
 > "The process of preparing programs for a digital computer is especially attractive, not only because it can be economically and scientifically rewarding, but also because it can be an aesthetic experience much like composing poetry or music."  
 > – Donald Knuth
 
@@ -9,11 +7,13 @@
 
 # CREATIVE PROGRAMMING 1
 
-    Instructor       Prof. Jeff Thompson (please call me Jeff)
+    Instructor       Prof. Jeff Thompson       (please call me Jeff)
     Email            jeff.thompson@stevens.edu
     Office hours     On Zoom, TBD
-    Meeting times    Weekly Zoom critiques at 11am EST (link is on Canvas)
-    Drop-in hours    Tuesdays 9–11am and during office hours
+    Drop-in hours    Tuesdays 9–11am EST       (link on Canvas)
+    Weekly crits     Tuesdays 11am–12:30pm EST (link on Canvas)
+
+**[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
@@ -25,6 +25,8 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob
 
 
 ### FORMAT/ATTENDANCE  
+**TLDR: Weekly crits on Zoom at 11am EST, drop-in hours from 9–11am each week**
+
 Of course, this semester is quite unusual! While normally we’d be hanging out in a classroom together, this semester our class will be all online. We lose some things in that process but we also gain some: an online class means you can learn at your own pace and on your schedule, review materials as much as you like, make projects that can be shared online, and we can find creative ways to make and discuss art together, even if we're not physically in the same room.
 
 Our main format will be:  
@@ -79,7 +81,9 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | Discuss readings, contributing to open source projects, psuedo-randomness, Perlin noise  |
 | Homework   | Finish `Randomness` project |
 
-**OCT 13: MONDAY SCHEDULE, NO CLASS!**  
+| OCT 13     | MONDAY SCHEDULE, NO CLASS |  
+| :---       | :--- |  
+| Homework   | (Finish `Randomness` project) |
 
 | OCT 20     | COLLAGE |
 | :---       | :--- |
