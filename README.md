@@ -8,10 +8,9 @@
 # CREATIVE PROGRAMMING 1
 
 **[:arrow_down: Jump right to the Course Calendar :arrow_down:](https://github.com/jeffThompson/CreativeProgramming1#course-calendar)**  
-
-| INFO          |      |  
-| :---          | :--- |  
+ 
 | Instructor    | Prof. Jeff Thompson (please call me Jeff) |  
+| :---          | :--- |  
 | Email         | jeff.thompson@stevens.edu |  
 | Office hours  | On Zoom, TBD |  
 | Drop-in hours | Tuesdays 9–11am EST (link on Canvas) |  
@@ -27,8 +26,6 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob
 
 
 ### FORMAT/ATTENDANCE  
-**TLDR: Weekly crits on Zoom at 11am EST, drop-in hours from 9–11am each week**
-
 Of course, this semester is quite unusual! While normally we’d be hanging out in a classroom together, this semester our class will be all online. We lose some things in that process but we also gain some: an online class means you can learn at your own pace and on your schedule, review materials as much as you like, make projects that can be shared online, and we can find creative ways to make and discuss art together, even if we're not physically in the same room.
 
 Our main format will be:  
