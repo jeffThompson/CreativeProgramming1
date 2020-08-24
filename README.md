@@ -40,7 +40,7 @@ Where to find everything:
 
 Because of this format and the technical nature of this class, it’s really important that you stay on top of your coursework. 
 
-:heavy_exclamation_mark: **Don’t hesitate to reach out if you have any questions at all! Better to ask a question than be unsure of something. I also really (truly!) want to hear from you all on what is working and what’s not in the online format. I can’t know what it’s like to be on your end of things unless you tell me, so please do!**  
+:warning: **Don’t hesitate to reach out if you have any questions at all! Better to ask a question than be unsure of something. I also really (truly!) want to hear from you all on what is working and what’s not in the online format. I can’t know what it’s like to be on your end of things unless you tell me, so please do!**  
 
 Watching video tutorials, looking at code examples, and doing your homework will be on your own schedule but attendance at critiques is mandatory and attendance will be taken.
 
