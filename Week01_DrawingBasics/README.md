@@ -46,6 +46,8 @@ Many of the examples we'll look at each week are in the `Images` folder!
 * Osamu Sato's book *The Art of Computer Designing: A Black and White Approach*  
 * Illustrators like [Elton Kūns](https://theycallmeelton.tumblr.com), [Matt Carlson](https://www.instagram.com/plaidmtn), [Erin Aniker](https://www.instagram.com/erinaniker), [Ori Toor](https://oritoor.com), [Ricardo Cavolo](http://ricardocavolo.com/art), [Malika Favre](https://www.instagram.com/malikafavre), [Ruby Taylor](https://www.instagram.com/rubyst), and [Mike Perry](https://www.mikeperrystudio.com) who use simple shapes to great effect  
 * WIRED's list of [*The 50 Best Robots Ever*](https://www.wired.com/2006/01/robots-3)  
+* The very sad [Ketchup bot](https://www.youtube.com/watch?v=dbbque0Y4FU)  
+* Some amazing robot art (which connects creative programming to a ton of other rad disciplines!) by [Ian Ingram](https://www.ianingram.org), [Dan Chen](https://dankc.com/robotics), and [Sougwen Chung](https://sougwen.com)   
 
 
 ### BONUS  
