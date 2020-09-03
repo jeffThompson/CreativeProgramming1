@@ -23,7 +23,7 @@ resolutions; a sketch that auto-sizes to fit will look
 much better and be easier to install!
 
 CHALLENGES
-+ Can you re-write the code from the DrawingBasics example
++ Can you re-write the code from the DrawingCommands example
   to be all relative to width/height?
 + What other cool ways can you think of to make your sketch
   elements change size (or not change!) as the browser

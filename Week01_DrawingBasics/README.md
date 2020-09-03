@@ -5,7 +5,7 @@
 ### TLDR  
 * Due September 15 by 11am EST  
 * Sketch should be `600x600px` or resize with the browser  
-* Upload link to `P5JS` code to Canvas  
+* Upload link to `p5.js` code to Canvas  
 * See the code examples in this folder and the video playlist for this week  
 * Email or drop into my office hours if you need help!  
 
@@ -19,16 +19,18 @@ If you already have some coding experience, please try to just use the methods w
 
 
 ### CODE EXAMPLES/VIDEOS/TEMPLATE  
-You can find the code examples for this week [here in the P5JS Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW) or in this folder.
+Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
 
-When you're ready to start your homework, you can make a new P5JS sketch from scratch or [use this template](https://editor.p5js.org/jeffThompson/sketches/2I9rTGuQu) (be sure to duplicate it and add your name at the top!).
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDkQQXQwjgoAORziwqgleYaJ)  
+* [Code examples in the P5JS Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW)  
+* [Homework code template](https://editor.p5js.org/jeffThompson/sketches/2I9rTGuQu)  
 
 
 ### DELIVERABLES  
 * Sketch that runs at `600x600px` or resizes to fit the browser window  
-* Upload link to your code in the `P5JS` editor to Canvas by 12pm EST on the due date (if you're working with an external editor, just copy/paste the code into the `P5JS` editor)  
+* Upload link to your code in the `p5.js` editor to Canvas by 11am EST on the due date (if you're working with an external editor, just copy/paste the code into the `P5JS` editor)  
 
-(If you have any technical issues with the `P5JS` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
+(If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
 
 ### STRETCH GOALS  
