@@ -20,7 +20,7 @@ Using our in-class work as inspiration, create a more involved drawing using ins
 
 The goal is a much more fully-developed drawing that produces surprising results and feels finished. The drawings should fill an `8.5x11"` sheet of paper or larger (`larger == better`, probably), and should include a separate set of written instructions. Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc.
 
-Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readings` folder and write a one-paragraph response, posted as a comment on your drawing's submission on Canvas. Think about the drawings we made in class together and Mohr's essay: how does making art through instructions differ from other ways you've made things before? Are you excited by the idea of instructions defining a creative process? What is the role of intuition in this process? Is anything gained or lost making in this way?
+Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readings` folder and write a one-paragraph response, posted as a comment on your drawing's submission on Canvas. Think about the drawings we made in class together and Mohr's essay: how does making art through instructions differ from other ways you've made things before? Are you excited by the idea of instructions defining a creative process? What is the role of intuition in this process? Is anything gained or lost making in this way? Mohr refers to the algorithm as a "partner" – did this process feel like that to you?
 
 
 ### DELIVERABLES    

@@ -6,7 +6,7 @@
 * Due September 15 by 11am EST  
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `p5.js` code to Canvas  
-* See the code examples in this folder and the video playlist for this week  
+* See the code examples linked below and the video playlist for this week  
 * Email or drop into my office hours if you need help!  
 
 
