@@ -19,8 +19,8 @@ p5.js is built on), we do not have to specify the type of
 value that the variable holds – nice! This is called
 "dynamic typing" as opposed to languages like Java and
 C++ which are "strongly typed." We'll talk more about
-the differences between and affordances created by different programming languages during the Critical
-Code Studies week.
+the differences between and affordances created by different 
+programming languages during the Critical Code Studies week.
 
 */
 

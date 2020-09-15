@@ -38,7 +38,7 @@ When done, paste a link to your project's code in Canvas, noting that this is th
 ### CODE EXAMPLES/VIDEOS/TEMPLATE  
 Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
 
-* [Video tutorials for this week]()  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDmS_p4z6oSGWvHQ__Nmd-g6)  
 * [Code examples in the P5JS Editor](https://editor.p5js.org/jeffThompson/collections/k7E124gxp)  
 
 
