@@ -3,8 +3,8 @@
 # ALGORITHMIC QUILTS
 
 ### TLDR  
-* Initial drawings due Sept 21 by 11am EST  
-* Final quilt due Sept 28 by 11am EST  
+* Initial drawings due Sept 22 by 11am EST  
+* Final quilt due Sept 29 by 11am EST  
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `p5.js` code to Canvas  
 * See the code examples linked below and the video playlist for this week  
@@ -19,7 +19,7 @@ One of the things computers are very good at is repetitious tasks: just the act 
 *Above: an example of a traditional "9-Patch" quilt pattern by Barabara Yoder from 1920*
 
 
-### FOR TUESDAY, SEPT 21  
+### FOR TUESDAY, SEPT 22  
 This week, you'll make some drawings of historical quilt patterns, then start prototyping in code.
 
 1. Look at Barbara Brackman's *Encyclopedia of Pieced Quilt Patterns* (in the `Readings` folder) as well as the links below, finding at least 10 that you like. Note the pattern name/number or other info so you can find it again.  
@@ -29,7 +29,7 @@ This week, you'll make some drawings of historical quilt patterns, then start pr
 Your prototype quilt can be like a sketch: the main idea is there but there will be things you need help realizing or that aren't fully resolved. We'll do a breakout feedback session during class next week.
 
 
-### FOR TUESDAY, SEPT 28  
+### FOR TUESDAY, SEPT 29  
 This week, you should continue iterating and refining your quilt's design. Be specific in your choices: color, size, placement, visual rhythm, composition all matter. At the same time, be open to errors and "happy accidents" that can lead to new ideas. Additionally, see the `Strech Goals` section for things you can add to make your quilt even more amazing!
 
 When done, paste a link to your project's code in Canvas, noting that this is the final version.
