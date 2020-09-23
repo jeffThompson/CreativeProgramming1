@@ -60,25 +60,25 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | Creating sketches in the `p5.js` editor, "Hello World," RGB color, drawing shapes, fill and stroke, saving images, getting help |
 | Homework   | `Robot Drawings` |
 
-| SEPT 15    | ITERATION && LOOPS 1 |
+| SEPT 15    | [ITERATION && LOOPS 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week02_IterationAndLoops) |
 | :---       | :--- |
 | In class   | Variables, for loops, nested loops, driving parameters with loops, historical quilt research |
 | Homework   | Create a quilt block for your `Algorithmic Quilt` |
  
-| SEPT 22    | ITERATION && LOOPS 2 |
+| SEPT 22    | [ITERATION && LOOPS 2](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week02_IterationAndLoops) |
 | :---       | :--- |
 | In class   | Matrix transformations, creating functions to re-use code |
 | Homework   | Finish your `Algorithmic Quilt` |
 
-| SEPT 29    | RANDOMNESS 1 |
+| SEPT 29    | [RANDOMNESS 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week04_Randomness) |
 | :---       | :--- |
-| In class   | Conditionals, arrays, `random()`, Brownian motion, random choices |
+| In class   | Psuedo-random numbers, `random()`, Brownian motion, random choices |
 | Readings   | *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan and *Motives for Writing Free Software* by the Free Software Foundation |
 | Homework   | `Randomness` code sketches |
 
-| OCT 6      | RANDOMNESS 2 (and ⊨ Open Source) |
+| OCT 6      | [RANDOMNESS 2 (and ⊨ Open Source)](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week04_Randomness) |
 | :---       | :--- |
-| In class   | Discuss readings, contributing to open source projects, psuedo-randomness, Perlin noise  |
+| In class   | Discuss readings, contributing to open source projects, Perlin noise  |
 | Homework   | Finish `Randomness` project |
 
 | OCT 13     | MONDAY SCHEDULE, NO CLASS |  
