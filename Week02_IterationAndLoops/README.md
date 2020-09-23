@@ -35,7 +35,7 @@ This week, you should continue iterating and refining your quilt's design. Be sp
 When done, paste a link to your project's code in Canvas, noting that this is the final version.
 
 
-### CODE EXAMPLES/VIDEOS/TEMPLATE  
+### CODE EXAMPLES/VIDEOS  
 Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
 
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDmS_p4z6oSGWvHQ__Nmd-g6)  
