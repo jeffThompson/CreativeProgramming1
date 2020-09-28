@@ -13,7 +13,7 @@
 ### ASSIGNMENT  
 > "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
-We've seen very clearly that the computer does exactly what you tell it, even if the result isn't what you intended 😂. But programming is also capable of what software art pioneer A. Michael Noll calls "controlled randomness," a creative tool that both breaks the computer's determinism and takes advantage of its capacity to quickly create ([seemingly](https://en.wikipedia.org/wiki/Pseudorandomness)) random values. For this assignment, you'll explore randomness as a tool that can be used to drive any visual parameter in your sketch – position, size, rotation, color, number of iterations, etc – and create results that are entirely unexpected.
+We've seen very clearly that the computer does exactly what you tell it, even if the result isn't what you intended 😂. But programming is also capable of what software art pioneer [A. Michael Noll](https://en.wikipedia.org/wiki/A._Michael_Noll) calls "controlled randomness," a creative tool that both breaks the computer's determinism and takes advantage of its capacity to quickly create ([seemingly](https://en.wikipedia.org/wiki/Pseudorandomness)) random values. For this assignment, you'll explore randomness as a tool that can be used to drive any visual parameter in your sketch – position, size, rotation, color, number of iterations, etc – and create results that are entirely unexpected.
 
 Code that uses randomness will generate different outputs every time it's run, which can be really exciting, too! Remember the idea of iterative development: run your sketch many times and keep the outputs that you like best. This can be a super cool way of working but maybe a little weird: it removes your artistic hand to a degree, leaving you to act as coordinator (writing code) and curator (selecting output to show) – very different than the way we make art with more traditional materials.
 
@@ -38,7 +38,7 @@ When you're done, upload your selected `jpg` to Canvas and add a link to your co
 
 
 ### CODE EXAMPLES/VIDEOS  
-* [Video tutorials for this week]()  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDlRyO_BQ4MwQrOcuXwQg53x)  
 * [Code examples in the P5JS Editor](https://editor.p5js.org/jeffThompson/collections/068j0-ph-)  
 
 
