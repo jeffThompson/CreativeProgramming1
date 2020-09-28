@@ -44,9 +44,9 @@ function draw() {
     for (let i=0; i<1000; i++) {
 
         // create a random RGB color
-        let r = random(0,255);      // args = min,max possible values
-        let g = random(0,255);      // calculate for green...
-        let b = random(0,255);      // ...and blue too
+        let r = random(0,256);      // args = min,max possible values
+        let g = random(0,256);      // calculate for green...
+        let b = random(0,256);      // ...and blue too
         fill(r,g,b, 200);           // add alpha as well for depth
 
         // draw in a random position, too
