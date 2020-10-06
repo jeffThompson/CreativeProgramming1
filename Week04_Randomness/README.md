@@ -39,7 +39,7 @@ When you're done, upload your selected `jpg` to Canvas and add a link to your co
 
 ### CODE EXAMPLES/VIDEOS  
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDlRyO_BQ4MwQrOcuXwQg53x)  
-* [Code examples in the P5JS Editor](https://editor.p5js.org/jeffThompson/collections/068j0-ph-)  
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/068j0-ph-)  
 
 
 ### DELIVERABLES  

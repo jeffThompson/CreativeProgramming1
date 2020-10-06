@@ -22,7 +22,7 @@ If you already have some coding experience, please try to just use the methods w
 Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
 
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDkQQXQwjgoAORziwqgleYaJ)  
-* [Code examples in the P5JS Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW)  
+* [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW)  
 * [Homework code template](https://editor.p5js.org/jeffThompson/sketches/2I9rTGuQu)  
 
 
