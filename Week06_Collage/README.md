@@ -1,4 +1,4 @@
-![Martha Rosler's 2008 collage "Invasion"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Images/Week06_Collage/MarthaRosler/Invasion-2008.jpg)
+![Martha Rosler's 2008 collage "Invasion"](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Week06_Collage/Images/MarthaRosler/Invasion-2008.jpg)
 
 # COLLAGE  
 
@@ -10,7 +10,7 @@
 
 
 ### ASSIGNMENT  
->"Sometimes I consider myself a fisherman. Computer programs and ideas are the hooks, rods, and reels. Computer pictures are the trophies and delicious meals. A fisherman does not always know what the waters will yield... Often the specific catch is a surprise."
+>"Sometimes I consider myself a fisherman. Computer programs and ideas are the hooks, rods, and reels. Computer pictures are the trophies and delicious meals. A fisherman does not always know what the waters will yield... Often the specific catch is a surprise."  
 >— Clifford Pickover, *Computers, Pattern, Chaos, and Beauty* (1990)
 
 So far we've only used drawing commands in `p5.js` – rectangles, lines, circles, etc. And while those ideas still underpin all the things we do with computer graphics, dealing only with geometric shapes would miss out on so many other things! When we think about digital images, photographs are probably what first come to mind. We upload more than [1.8 billion photographs per day to the internet!](https://www.theatlantic.com/technology/archive/2015/11/how-many-photographs-of-you-are-out-there-in-the-world/413389/) Working with photographs using code can be really exciting but can also get very complex (we'll talk lots more about image filters, processing, and even extracting information from images in CP2). But as a starting point, we'll make collages using photographs.
