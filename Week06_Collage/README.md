@@ -33,11 +33,11 @@ Once you have images to work with, use the tools we've covered so far to make a 
 
 
 ### INSPIRATION  
-* Anna Opperman's room-scale collage installations  
+* [Anna Opperman's](https://www.artnews.com/art-in-america/aia-reviews/anna-oppermann-surreal-still-lifes-perceptions-domestic-sphere-62724) room-scale collage installations  
 * George Braque and Pablo Picasso's early Cubist collages using newspaper and other found materials  
-* Hadieh Shafie's collages made by drawing patterns on paper, then cutting them up  
+* [Hadieh Shafie's](https://www.hadiehshafie.com) collages made by drawing patterns on paper, then cutting them up  
 * Dadist collage artists Hannah Hoch, Kurt Schwitters, and Raoul Haussmann who used images from magazines and books  
 * Joseph Cornell's enigmatic 3D collages  
 * Photo collages by Linder and Martha Rosler  
-* Paintings use collage imagery by Nathaniel Mary Quinn and Robert Rauschenberg  
+* Paintings use collage imagery by [Nathaniel Mary Quinn](https://gagosian.com/artists/nathaniel-mary-quinn) and Robert Rauschenberg  
 
