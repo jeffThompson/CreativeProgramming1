@@ -23,7 +23,7 @@ Once you have images to work with, use the tools we've covered so far to make a 
 
 
 ### CODE EXAMPLES/VIDEOS  
-* Coming soon [~Video tutorials for this week~]()  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDlrapHXuwccfswRIn7Z3Vm2)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/cxwmrzuLr)  
 
 

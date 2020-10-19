@@ -13,7 +13,7 @@ In this simple example, we load and display an image.
 WHERE SHOULD MY IMAGES BE?
 If you have an image you want to display, p5.js needs to
 have access to it! If you're using the p5.js editor, you
-can follow along with this video:
+can follow along with this video: https://youtu.be/qbDT6g4Ink0
 
 SUPPORTED FILE FORMATS:
 jpg, png, gif, svg, tiff, and bmp
