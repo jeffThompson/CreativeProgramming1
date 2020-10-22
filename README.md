@@ -90,7 +90,7 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | Loading images, resizing, accessing pixel values with `get()` |
 | Homework   | `Collaged Photographs` |
 
-| OCT 27     | [INTERACTIVITY](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week07_Interactivity) |
+| OCT 27     | [INTERACTIVITY 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week07_Interactivity) |
 | :---       | :--- |
 | In class   | Mouse and keyboard input, using an external editor |  
 | Homework   | `Interactivity` in-progress sketches |
