@@ -90,16 +90,15 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | Loading images, resizing, accessing pixel values with `get()` |
 | Homework   | `Collaged Photographs` |
 
-| OCT 27     | INTERACTIVITY |
+| OCT 27     | [INTERACTIVITY](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week07_Interactivity) |
 | :---       | :--- |
-| In class   | Mouse and keyboard input, using an external editor |
-| Readings   | Selection from *10 PRINT CHR$(205.5+RND(1)); : GOTO 10* |
-| Homework   | `Interactivity` sketch |
+| In class   | Mouse and keyboard input, using an external editor |  
+| Homework   | `Interactivity` in-progress sketches |
 
-| NOV 3      | ⊨ CRITICAL CODE STUDIES |
+| NOV 3      | [INTERACTIVITY 2](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week07_Interactivity) |
 | :---       | :--- |
-| In class   | Discussion of reading, porting code |
-| Homework   | `Historical Code Explorations` |
+| In class   | **No class meeting this week – go vote!** I'll be available for drop-in hours if you want help with your project |  
+| Homework   | Finish `Interactivity` project |
 
 | NOV 10     | ANIMATION 1 |
 | :---       | :--- |
