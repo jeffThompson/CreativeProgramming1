@@ -36,7 +36,7 @@ Remember! The way your finished code interacts with the viewer and the visual re
 
 
 ### CODE EXAMPLES/VIDEOS  
-* [Coming soon ~Video tutorials for this week~]()  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDkEBs6Ug9J_RCULw3D7Wj0P)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/hgFsqg5ZM)  
 
 To run your sketch fullscreen:  
