@@ -37,7 +37,12 @@ CHALLENGES
    have it triggered when the first one is done?
    Hint: check each frame if bgMusic.isPlaying() and use
    flags to control the scenes
-
+4. Bonus! You can also read the current amplitude (volume)
+   of sound being played by p5.js using this code:
+     https://p5js.org/reference/#/p5.Amplitude
+   Can you use this to make the sun temporarily bigger
+   when the audio is louder?
+  
 */
 
 let bgMusic;  // the object we'll load the music into
