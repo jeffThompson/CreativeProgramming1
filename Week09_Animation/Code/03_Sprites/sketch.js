@@ -52,7 +52,7 @@ function preload() {
   // we can use a for-loop for this, since we know
   // how many frames the animation has!
   for (let i=0; i<numFrames; i++) {
-    let filename = './frames/' + i + '.png';
+    let filename = 'frames/' + i + '.png';
     let frame = loadImage(filename);
     frames.push(frame);
   }
