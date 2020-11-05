@@ -27,7 +27,7 @@ Your animation should also include at least one sound. This can be background mu
 
 
 ### CODE EXAMPLES/VIDEOS  
-* [~Video tutorials for this week~ Coming soon]()  
+* [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDnejs6Jx8cF2qauZaj3JMxu)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/DCmcnKPsh)  
 * See the `AnimationTemplate` in the examples for a starting point  
 
