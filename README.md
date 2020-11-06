@@ -100,12 +100,12 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | **No class meeting this week – go vote!** I'll be available for drop-in hours if you want help with your project |  
 | Homework   | Finish `Interactivity` project |
 
-| NOV 10     | ANIMATION 1 |
+| NOV 10     | [ANIMATION 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week09_Animation) |
 | :---       | :--- |
 | In class   | Change over time, `frameCount` and timing, flags, sprites |
-| Homework   | `Algorithmic Animation`: initial scene |
+| Homework   | `Algorithmic Animation`: rough version of first two scenes |
 
-| NOV 17     | ANIMATION 2 |
+| NOV 17     | [ANIMATION 2](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week09_Animation) |
 | :---       | :--- |
 | In class   | Tweening, easing, sound |
 | Homework   | Finish `Algorithmic Animation` |
