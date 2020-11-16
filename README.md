@@ -125,9 +125,9 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | `Final Project` critique |
 | Homework   | Finish `Final Project` documentation |
 
-| TBA        | EXAM PERIOD |
+| DEC 17     | EXAM PERIOD |
 | :---       | :--- |
-| Due        | `Final Project` files and documentation due online |
+| Due        | `Final Project` files and documentation due online by 5pm EST |
 | In class   | * No class meeting (bye!) |
 
 *Topics noted with [⊨ symbol](https://en.wikipedia.org/wiki/Double_turnstile) are short explorations of topics that jump off from or surround programming in a creative context; the symbol ⊨ is used in the field of logic to mean that an idea semantically entails another*
