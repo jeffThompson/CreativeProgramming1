@@ -62,6 +62,7 @@ Your animation should also include at least one sound. This can be background mu
 * Ryoji Ikeda's [*The Transfinite*](https://www.youtube.com/watch?v=omDK2Cm2mwo)  
 * Andrew Benson's [*Melting Rainbow Heart*](https://vimeo.com/79273630) and [*These Radical Hands*](https://vimeo.com/35479926)  
 * ZEITGUISED's [*emancipath*](https://www.zeitguised.com/emancipath#monobloc1-1)  
+* Satoshi Aizawa's [minimal GIF animations on Twitter](https://twitter.com/satoshi_aizawa?s=11)  
 * Matthieu Braccini's [*Egg McMuffin*](https://vimeo.com/354894903) (no, for real)  
 
 

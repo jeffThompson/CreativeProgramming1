@@ -103,12 +103,12 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | NOV 10     | [ANIMATION 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week09_Animation) |
 | :---       | :--- |
 | In class   | Change over time, `frameCount` and timing, flags, sprites |
-| Homework   | `Algorithmic Animation`: rough version of first two scenes |
+| Homework   | `Animation`: rough version of first two scenes |
 
 | NOV 17     | [ANIMATION 2](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week09_Animation) |
 | :---       | :--- |
-| In class   | Tweening, easing, sound |
-| Homework   | Finish `Algorithmic Animation` |
+| In class   | Easing, sound |
+| Homework   | Finish `Animation` |
 
 | NOV 24     | FINAL PROJECT 1 |
 | :---       | :--- |
@@ -117,18 +117,18 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 
 | DEC 1      | FINAL PROJECT 2 |
 | :---       | :--- |
-| In class   | Project feedback, work day |
-| Homework   | Finish `Final Project` |
+| In class   | Project feedback |
+| Homework   | Rough version of `Final Project` |
 
 | DEC 8      | FINAL PROJECT 3 |
 | :---       | :--- |
-| In class   | `Final Project` critique |
-| Homework   | Finish `Final Project` documentation |
+| In class   | Project feedback, work day |
+| Homework   | Finish `Final Project` and documentation |
 
 | DEC 17     | EXAM PERIOD |
 | :---       | :--- |
-| Due        | `Final Project` files and documentation due online by 5pm EST |
-| In class   | * No class meeting (bye!) |
+| Crit       | Critique of work from 9–11am EST |
+| Files      | Documentation due online by 5pm EST |
 
 *Topics noted with [⊨ symbol](https://en.wikipedia.org/wiki/Double_turnstile) are short explorations of topics that jump off from or surround programming in a creative context; the symbol ⊨ is used in the field of logic to mean that an idea semantically entails another*
 
