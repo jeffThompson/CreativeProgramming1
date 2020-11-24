@@ -110,22 +110,22 @@ Please note this is subject to change – be sure to check Canvas, this page, an
 | In class   | Easing, sound |
 | Homework   | Finish `Animation` |
 
-| NOV 24     | FINAL PROJECT 1 |
+| NOV 24     | [FINAL PROJECT 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
 | :---       | :--- |
 | In class   | Object-oriented programming |
 | Homework   | Write `Final Project` proposal |
 
-| DEC 1      | FINAL PROJECT 2 |
+| DEC 1      | [FINAL PROJECT 2](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
 | :---       | :--- |
 | In class   | Project feedback |
 | Homework   | Rough version of `Final Project` |
 
-| DEC 8      | FINAL PROJECT 3 |
+| DEC 8      | [FINAL PROJECT 3](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
 | :---       | :--- |
 | In class   | Project feedback, work day |
 | Homework   | Finish `Final Project` and documentation |
 
-| DEC 17     | EXAM PERIOD |
+| DEC 17     | [FINAL CRITIQUE/DOCUMENTATION DUE](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
 | :---       | :--- |
 | Crit       | Critique of work from 9–11am EST |
 | Files      | Documentation due online by 5pm EST |
