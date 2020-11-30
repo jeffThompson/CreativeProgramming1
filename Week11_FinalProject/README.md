@@ -14,7 +14,7 @@ The goal should be a project that you're personally invested in and that you pro
 
 
 ### CODE EXAMPLES/VIDEOS  
-None for this assignment, though we'll talk about object-oriented programming after Thanksgiving (see the `Bonus` folder for that code)
+None for this assignment, though we'll talk about object-oriented programming after Thanksgiving (see the [`Week12_ObjectOrientedProgramming` folder](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week12_ObjectOrientedProgramming) for that code)
 
 
 ### DELIVERABLES  
