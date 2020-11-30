@@ -27,7 +27,7 @@ delivered:   false
 toppings:    [ 'sausage', 'onions' ]
 ```
 
-And another – this one has no toppings:
+And another – this one has no toppings 😭
 
 ```
 orderNumber: 1
@@ -40,7 +40,7 @@ toppings:    []
 ## CONSTRUCTOR  
 To make our `Pizza` class, it needs a *constructor*. This is kind of like `setup()` in your sketch: it runs once when a new `Pizza` gets created. The main purpose of the constructor is to define the variables our class is going to have.
 
-```
+```javascript
 class Pizza {
   constructor(orderNumber, size, toppings) {
     this.orderNumber = orderNumber;
@@ -60,7 +60,7 @@ You'll note in the constructor that we use `this.` when creating variables inste
 ## CREATING A PIZZA  
 Remember that a class is a template, not an actual object! So let's go ahead and create the two pizzas we defined above:
 
-```
+```javascript
 let pizza1 = new Pizza(0, 16, ['sausage', 'onions']);
 let pizza2 = new Pizza(1, 12, []);
 
@@ -68,14 +68,14 @@ let pizza2 = new Pizza(1, 12, []);
 
 When creating the `Pizza`, we send the ID number, size, and list of toppings in as arguments. We can access those values, and any others defined in the constrcutor, using *dot syntax*. We've used this before with images, where we can get an image's width or height! For example, we can see if `pizza1` has been delivered like this:
 
-```
+```javascript
 console.log(pizza1.delivered);
 >> false
 ```
 
 We can also modify variables this way too:
 
-```
+```javascript
 pizza1.delivered = true;
 console.log(pizza1.delivered);
 >> true
@@ -87,7 +87,7 @@ We can also add *methods* to our class. These are functions that can be run on i
 
 For our `Pizza` class, let's create an `addTopping()` function, which will update the list of toppings:
 
-```
+```javascript
 addTopping(topping) {
   this.toppings.push(topping);
 }
@@ -95,7 +95,7 @@ addTopping(topping) {
 
 A few things to note here! First, even though our method is a function, we don't add the word `function` at the start. Also, we need to remember `this` when accessing a variable in the class. We can use our new method like this:
 
-```
+```javascript
 pizza2.addTopping('pepperoni');
 console.log(pizza2.toppings);
 >> [ 'pepperoni' ]
