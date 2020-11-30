@@ -53,8 +53,9 @@ class Pizza {
 
 Note that, for the first three variables, we're passing them in as arguments. That's beccause they'll be unique and we want to define them when the `Pizza` object gets created. The `delivered` variable though is always set to `false`, since the pizza can't be delivered before it's created!
 
-**WHAT IS `THIS`?!?**  
-You'll note in the constructor that we use `this.` when creating variables instead of `let`. `this` means a variable that's part of the class instead of one passed as an argument or a global variable. Forgetting `this` is a super-common error in Javascript, so watch your console.
+
+### WHAT IS `THIS`?!?  
+You'll note in the constructor that we use `this` when creating variables instead of `let`. `this` means a variable that's part of the class instead of one passed as an argument or a global variable. Forgetting `this` is a super-common error in Javascript, so watch your console for (hopefully) helpful errors suggesting that your forgot to include it.
 
 
 ### CREATING A PIZZA  
