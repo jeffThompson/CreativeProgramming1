@@ -105,6 +105,25 @@ console.log(pizza2.toppings);
 ```
 
 
+## PUTTING IT ALL TOGETHER  
+Having created our `Pizza` class, let's see what it all looks like put together!
+
+```javascript
+class Pizza {
+  constructor(orderNumber, size, toppings) {
+    this.orderNumber = orderNumber;
+    this.size = size;
+    this.toppings = toppings;
+    this.delivered = false;
+  }
+
+  addTopping(topping) {
+    this.toppings.push(topping);
+  }
+}
+```
+
+
 ## NEXT STEPS  
 We've seen how object-oriented programming lets us define a class for an object as a template, build a constructor with variables that we can access and update, and how we can add methods. In the code examples included here, we'll look at various ways we can use this idea to make our code cleaner, easier to read and update, and allow us to build super powerful and fun projects that would be difficult or impossible otherwise!
 
