@@ -109,6 +109,20 @@ console.log(pizza2.toppings);
 Having created our `Pizza` class, let's see what it all looks like put together!
 
 ```javascript
+let pizza1, pizza2;
+
+function setup() {
+  createCanvas(400, 400);
+
+  pizza1 = new Pizza(0, 16, ['sausage', 'onions']);
+  pizza2 = new Pizza(1, 12, []);
+
+  pizza1.addTopping('anchovies');
+  if (!pizza1.delivered) {
+    console.log('the pizza with order #' + pizza1.orderNumber + ' has not been delivered yet');
+  }
+}
+
 class Pizza {
   constructor(orderNumber, size, toppings) {
     this.orderNumber = orderNumber;
