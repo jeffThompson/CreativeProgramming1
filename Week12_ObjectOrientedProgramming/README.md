@@ -10,7 +10,7 @@ In Javascript, our template is called a *class*. The class has a name (always up
 Before we start coding a class, it's helpful to think about this in the real world and pizza makes a great first example!
 
 
-## PROPERTIES  
+### PROPERTIES  
 If we wanted to create a `Pizza` class, we'd start by identifying the aspects of each pie we'd want to store. These are called *properties* and are really just variables! For example, here are some variables we might want for our `Pizza` class:
 
 * Order number  
@@ -37,7 +37,7 @@ toppings:    []
 ```  
 
 
-## CONSTRUCTOR  
+### CONSTRUCTOR  
 To make our `Pizza` class, it needs a *constructor*. This is kind of like `setup()` in your sketch: it runs once when a new `Pizza` gets created. The main purpose of the constructor is to define the variables our class is going to have.
 
 ```javascript
@@ -57,7 +57,7 @@ Note that, for the first three variables, we're passing them in as arguments. Th
 You'll note in the constructor that we use `this.` when creating variables instead of `let`. `this` means a variable that's part of the class instead of one passed as an argument or a global variable. Forgetting `this` is a super-common error in Javascript, so watch your console.
 
 
-## CREATING A PIZZA  
+### CREATING A PIZZA  
 Remember that a class is a template, not an actual object! So let's go ahead and create the two pizzas we defined above:
 
 ```javascript
@@ -82,7 +82,7 @@ console.log(pizza1.delivered);
 ```
 
 
-## METHODS  
+### METHODS  
 We can also add *methods* to our class. These are functions that can be run on individual instances of the class. We can create any methods we want, but common ones include `update()` to move objects and `display()` to draw them.
 
 For our `Pizza` class, let's create an `addTopping()` function, which will update the list of toppings:
@@ -105,7 +105,7 @@ console.log(pizza2.toppings);
 ```
 
 
-## PUTTING IT ALL TOGETHER  
+### PUTTING IT ALL TOGETHER  
 Having created our `Pizza` class, let's see what it all looks like put together!
 
 ```javascript
@@ -138,7 +138,7 @@ class Pizza {
 ```
 
 
-## NEXT STEPS  
+### NEXT STEPS  
 We've seen how object-oriented programming lets us define a class for an object as a template, build a constructor with variables that we can access and update, and how we can add methods. In the code examples included here, we'll look at various ways we can use this idea to make our code cleaner, easier to read and update, and allow us to build super powerful and fun projects that would be difficult or impossible otherwise!
 
 To see more examples in action, see the `Code` folder here or [run them in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/BWqhLoCyE).
