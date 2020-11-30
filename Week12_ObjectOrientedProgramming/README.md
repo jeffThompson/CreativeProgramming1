@@ -18,7 +18,7 @@ If we wanted to create a `Pizza` class, we'd start by identifying the aspects of
 * If it has been delivered  
 * List of toppings  
 
-Some of these values are unique (like the order number), some may be shared among many pizzas (like the size), and some may be unique (like the list of toppings). We can then use these to define some different pizzas:  
+Some of these values are unique (like the order number) and some may be shared among many pizzas (like the size). We can then use these to define some different pizzas:  
 
 ```
 orderNumber: 0
