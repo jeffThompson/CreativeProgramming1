@@ -1,4 +1,4 @@
-![An grid of images of pizza]()
+![An grid of images of pizza](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Week12_ObjectOrientedProgramming/Images/PizzaGrid.png)
 
 # OBJECT-ORIENTED PROGRAMMING  
 **To see more examples in action, see the `Code` folder here or [run them in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/BWqhLoCyE)**
