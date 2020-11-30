@@ -5,13 +5,13 @@
 
 The way we've been coding most of our examples up until now (using individual variables and lists, loops and functions) has worked well, but for more complex projects we'll need a better system. One very common paradigm is called ["object-oriented programming"](https://en.wikipedia.org/wiki/Object-oriented_programming) (or OOP, a [term coined by Alan Kay](https://softwareengineering.stackexchange.com/questions/142327/what-did-they-call-object-oriented-programming-before-alan-kay-invented-the-term), famous for his work on early GUI systems), which lets us define objects with a generic template. We can then create *instances* of that template. Each instance has variables defined in the template (position, size, etc) and actions that can be applied (move position, display onscreen, etc). The power here is that we can abstractly create object templates, create many instances of that object, access them individually or delete them as needed, and even nest classes inside each other!
 
-In Javascript, our template is called a *class*. The class has a name (always uppercase), a *constructor* that defines the variables for the class, and *methods* which are functions that can be run.
+In Javascript, our template is called a *class*. The class has a name (always uppercase), a *constructor* that defines the variables (called *properties*) for the class, and *methods* which are functions that can be run.
 
-Before we start coding a class, it's helpful to think about this in the real world, and pizza makes a great first example!
+Before we start coding a class, it's helpful to think about this in the real world and pizza makes a great first example!
 
 
 ## PROPERTIES  
-If we wanted to create a `Pizza` class, we'd start by identifying the aspects of each pie we'd want to store. These are called *properties* and are really just variables!
+If we wanted to create a `Pizza` class, we'd start by identifying the aspects of each pie we'd want to store. These are called *properties* and are really just variables! For example, here are some variables we might want for our `Pizza` class:
 
 * Order number  
 * Size (12", 16", etc)  
