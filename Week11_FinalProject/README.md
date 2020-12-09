@@ -45,13 +45,13 @@ For next week, please have a rough prototype of your project. Think about the ke
 I'll hold additional office hours (days/times TBD) between now and Dec 17, if you need help.
 
 
-## FOR TUESDAY, DECEMBER 17 FROM 9–11am EST (documentation due by 5pm)  
+## FOR THURSDAY, DECEMBER 17 FROM 9–11am EST (documentation due by 5pm)  
 For our final critique, your project should be completed and documentation turned in to Canvas. The critique is only two hours, so we'll go through rather quickly: have your work up and running on your computer and think ahead of time how best to show it.
 
 By 5pm EST that day, you should also turn in documentation of the project to Canvas, including:
 
 * Representative image (screenshot, photograph, etc) of your project  
-* Link to your code in the `p5.js` editor  
+* Link to your code in the `p5.js` editor **OR** upload your entire sketch folder as a `zip` file (be sure to include any media and other files necessary to run your sketch)  
 * Brief description of your project in the comments (helps jog my memory when grading)  
 
 Because final grades are due shortly after our exam time, late work can't be accepted. Please be sure to turn in everything on time!
