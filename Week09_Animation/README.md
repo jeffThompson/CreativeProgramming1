@@ -68,5 +68,5 @@ Your animation should also include at least one sound. This can be background mu
 
 ### RESOURCES  
 * For some very nice animated GIFs about easing and animation principles, see this week's `Images` folder  
-* [More suggestions of early and experimental animation](http://zzz.softdetours.com/animation) from Daniel Rehn
+* [More suggestions of early and experimental animation](http://zzz.softdetours.com/animation) from Kyra Ocean Rehn
 
