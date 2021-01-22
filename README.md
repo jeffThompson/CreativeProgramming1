@@ -15,7 +15,7 @@
 | Student hours  | On Zoom, Wed 10am–noon EST and by appointment |  
 | Drop-in hours  | Tuesdays 9–11am EST |  
 | Weekly crits   | Tuesdays 11am–12:30pm EST |  
-| Zoom links     | ^^^ links for the above meetings on Canvas |  
+| Zoom links     | Links for weekly class meetings on Canvas |  
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
