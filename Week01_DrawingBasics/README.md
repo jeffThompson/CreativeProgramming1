@@ -9,6 +9,7 @@
 * See the code examples linked below and the video playlist for this week  
 * Email or drop into my office hours if you need help!  
 
+***
 
 ### ASSIGNMENT  
 Today, we have amazingly complex programs for making art using computers like Photoshop and Maya. But the concepts behind these tools are the same as they were in the earliest days of computer graphics: basic shapes, a coordinate system, pixels and colors on a screen. This week, we'll explore these as our foundational toolset, get more familiar thinking about images as numbers and positions, and making things with code.
@@ -17,6 +18,7 @@ Building on the code examples we saw this week, your assignment is to generate o
 
 If you already have some coding experience, please try to just use the methods we learned this week – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for-loops, interactivity, or animation please!
 
+***
 
 ### CODE EXAMPLES/VIDEOS/TEMPLATE  
 Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
@@ -25,6 +27,7 @@ Each week, tutorials will be posted as a YouTube playlist and a collection of co
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW)  
 * [Homework code template](https://editor.p5js.org/jeffThompson/sketches/2I9rTGuQu)  
 
+***
 
 ### DELIVERABLES  
 * Sketch that runs at `600x600px` or resizes to fit the browser window  
@@ -32,6 +35,7 @@ Each week, tutorials will be posted as a YouTube playlist and a collection of co
 
 (If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
+***
 
 ### STRETCH GOALS  
 Want to make your robot really awesome? Try these challenges:
@@ -40,6 +44,7 @@ Want to make your robot really awesome? Try these challenges:
 * Make your image resizable using `width` and `height` instead of set `x/y` positions; even better: add the `windowResized()` function so your sketch dynamically changes size with the browser  
 * Try adding shading to your robot and/or drawing in perspective!
 
+***
 
 ## INSPIRATION  
 Many of the examples we'll look at each week are in the `Images` folder!
@@ -51,6 +56,7 @@ Many of the examples we'll look at each week are in the `Images` folder!
 * The very sad [Ketchup bot](https://www.youtube.com/watch?v=dbbque0Y4FU)  
 * Some amazing robot art (which connects creative programming to a ton of other rad disciplines!) by [Ian Ingram](https://www.ianingram.org), [Dan Chen](https://dankc.com/robotics), and [Sougwen Chung](https://sougwen.com)   
 
+***
 
 ### BONUS  
 An example of how people used to "export" images from code in the early days of computer graphics: taking a photo of an oscilloscope screen!

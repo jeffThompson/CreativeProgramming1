@@ -8,6 +8,7 @@
 * Finished collage due Oct 27 by 11am EST  
 * Upload `jpg` image to Canvas and include a link to your `p5.js` code as a comment  
 
+***
 
 ### ASSIGNMENT  
 >"Sometimes I consider myself a fisherman. Computer programs and ideas are the hooks, rods, and reels. Computer pictures are the trophies and delicious meals. A fisherman does not always know what the waters will yield... Often the specific catch is a surprise."  
@@ -21,16 +22,19 @@ Once you have images to work with, use the tools we've covered so far to make a 
 
 *Above: Martha Rosler's 2008 collage "Invasion".*  
 
+***
 
 ### CODE EXAMPLES/VIDEOS  
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDlrapHXuwccfswRIn7Z3Vm2)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/cxwmrzuLr)  
 
+***
 
 ### DELIVERABLES  
 * Collage sketch, any dimensions  
 * Exported as `jpg` file, uploaded to Canvas (with a link to your code as a comment)  
 
+***
 
 ### INSPIRATION  
 * [Anna Opperman's](https://www.artnews.com/art-in-america/aia-reviews/anna-oppermann-surreal-still-lifes-perceptions-domestic-sphere-62724) room-scale collage installations  

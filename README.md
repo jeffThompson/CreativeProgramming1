@@ -25,6 +25,7 @@ Along the way, we’ll also look at historical and contemporary figures in the a
 
 See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob/master/Syllabus.pdf) for course policies, grading, etc.
 
+***
 
 ### FORMAT/ATTENDANCE  
 Of course, this semester is quite unusual! While normally we’d be hanging out in a classroom together, this semester our class will be all online. We lose some things in that process but we also gain some: an online class means you can learn at your own pace and on your schedule, review materials as much as you like, make projects that can be shared online, and we can find creative ways to make and discuss art together, even if we're not physically in the same room.
@@ -45,6 +46,7 @@ Because of this format and the technical nature of this class, it’s really imp
 
 Watching video tutorials, looking at code examples, and doing your homework will be on your own schedule but attendance at critiques is mandatory and attendance will be taken.
 
+***
  
 ### COURSE CALENDAR  
 Please note this is subject to change – be sure to check Canvas, this page, and your email regularly. Homework and readings are listed for the days they are assigned.

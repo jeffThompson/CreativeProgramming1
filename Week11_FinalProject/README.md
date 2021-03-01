@@ -6,22 +6,26 @@
 * Final critique Dec 17 from 9–11am EST (use the crit Zoom link)  
 * Documentation due Dec 17 by 5pm EST  
 
+***
 
 ### ASSIGNMENT  
 Your final project for the semester is to make something, anything, using `p5.js`. The choice of what you'll make and what format it's output will be (screen, interactive, printed, projected) are up to you. Whatever you decide, it should be an ambitious project that is worthy of three weeks' of work, and that pushes your artistic, creative, and technical skills. Feel free to involve non-computational media (drawing, photography, illustration, music) if you want alongside or with your code.
 
 The goal should be a project that you're personally invested in and that you procrastinate all other projects to work on!
 
+***
 
 ### CODE EXAMPLES/VIDEOS  
 None for this assignment, though we'll talk about object-oriented programming after Thanksgiving (see the [`Week12_ObjectOrientedProgramming` folder](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week12_ObjectOrientedProgramming) for that code)
 
+***
 
 ### DELIVERABLES  
 * Dec 1: project proposal (see details below)
 * Dec 8: rough prototype of your project  
 * Dec 17: final critique (9am EST), documentation (5pm)
 
+***
 
 ## FOR TUESDAY, DECEMBER 1  
 For next week, please write a short proposal for your project. The goal is to articulate your idea clearly, do a little research that contextualizes your project, and help you think through some of the technical challenges you might face.
@@ -38,12 +42,14 @@ Please format your project proposal in the following template (though you're �
 **TROUBLE COMING UP WITH IDEAS?**  
 As a jumping off point, think about things you've enjoyed doing this semester, and things that you're generally obsessed with. If you love binge-watching crappy 80s TV, maybe a project that collages hundreds of frames of video from those shows. If you are super into language, maybe a poem-generating sketch that outputs printable book PDFs with auto-generated illustrations. The best projects are the ones that connect what we do in class with things you care about.
 
+***
 
 ## FOR TUESDAY, DECEMBER 8  
 For next week, please have a rough prototype of your project. Think about the key things your project needs to have and focus on those first. This will be our last regular class together: we'll check in, share projects in small groups, then have open work time so you can get help.
 
 I'll hold additional office hours (days/times TBD) between now and Dec 17, if you need help.
 
+***
 
 ## FOR THURSDAY, DECEMBER 17 FROM 9–11am EST (documentation due by 5pm)  
 For our final critique, your project should be completed and documentation turned in to Canvas. The critique is only two hours, so we'll go through rather quickly: have your work up and running on your computer and think ahead of time how best to show it.

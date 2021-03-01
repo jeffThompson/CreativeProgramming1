@@ -9,6 +9,7 @@
 * Finished sketch due Nov 24 by 11am EST  
 * Upload two screenshots of each scene to Canvas  
 
+***
 
 ### ASSIGNMENT  
 Building on the ideas of interactivity we explored in the last assignment, as our last regular project your task is to create an animation in `p5.js` with three scenes and should include sound. While doing Pixar-level animation (or even cell animation like Looney Toons) is not really possible with the tools we have, we can explore motion, time, and change by making shapes and images move. Even with these simple tools you can make complex, rich, surprising, and visually-exciting animations!
@@ -25,12 +26,14 @@ Your animation should also include at least one sound. This can be background mu
 
 *Above: a still from John Whitney's "Catalog." Made in 1961 using a decommissioned WW2-era M-5 Antiaircraft Gun Director, "Catalog" is what its name implies: a catalog of visual effects at the birth of computer graphics. ([More info here](https://www.awn.com/mag/issue2.5/2.5pages/2.5moritzwhitney.html), including a picture of Whitney's computer.)*  
 
+***
 
 ### CODE EXAMPLES/VIDEOS  
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDnejs6Jx8cF2qauZaj3JMxu)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/DCmcnKPsh)  
 * See the `AnimationTemplate` in the examples for a starting point  
 
+***
 
 ### DELIVERABLES  
 * Animation with at least three scenes  
@@ -40,6 +43,7 @@ Your animation should also include at least one sound. This can be background mu
   * Runs fullscreen using `createCanvas(windowWidth, windowHeight)` (so you'll want to use `width` and `height` as much as possible)
 * Two screenshots of each scene, documenting the piece  
 
+***
 
 ### INSPIRATION  
 * Stan Brakhage's [*Mothlight*](https://www.youtube.com/watch?v=XaGh0D2NXCA)  
@@ -65,6 +69,7 @@ Your animation should also include at least one sound. This can be background mu
 * Satoshi Aizawa's [minimal GIF animations on Twitter](https://twitter.com/satoshi_aizawa?s=11)  
 * Matthieu Braccini's [*Egg McMuffin*](https://vimeo.com/354894903) (no, for real)  
 
+***
 
 ### RESOURCES  
 * For some very nice animated GIFs about easing and animation principles, see this week's `Images` folder  

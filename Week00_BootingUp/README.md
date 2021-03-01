@@ -9,6 +9,7 @@
 * Type the instructions used to create it as a comment on your submission  
 * Read *Computer Graphics* by Manfred Mohr and write a 1-paragraph response (also as a comment)  
 
+***
 
 ### ASSIGNMENT  
 
@@ -22,6 +23,9 @@ The goal is a much more fully-developed drawing that produces surprising results
 
 Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readings` folder and write a one-paragraph response, posted as a comment on your drawing's submission on Canvas. Think about the drawings we made in class together and Mohr's essay: how does making art through instructions differ from other ways you've made things before? Are you excited by the idea of instructions defining a creative process? What is the role of intuition in this process? Is anything gained or lost making in this way? Mohr refers to the algorithm as a "partner" – did this process feel like that to you?
 
+*Above: Sol LeWitt's *Six Geometric Figures,* an instruction-based wall drawing from 1980-81*
+
+***
 
 ### DELIVERABLES    
 * A drawing made following your instructions, filling at least `8.5x11"`  
@@ -29,6 +33,7 @@ Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readin
 
 :warning: **If you have any problems with Canvas or the assignment, don't hesitate to email me or drop into my Zoom hours! Since we'll be working with technical material (and will be nearly all online this semester) it's important you be proactive in getting help. Don't be shy!**
 
+***
 
 ### STRETCH GOALS  
 If you get really excited about your instruction drawing, here's a few things you can try:
@@ -36,6 +41,7 @@ If you get really excited about your instruction drawing, here's a few things yo
 * Carry out the instructions a few different times and see how the results differ (they may also form a nice [diptych](https://en.wikipedia.org/wiki/Diptych) or [triptych](https://en.wikipedia.org/wiki/Triptych))  
 * Ask other people to do a drawing from your instructions and compare the results  
 
+***
 
 ### IN-CLASS DRAWINGS  
 Below are some of the exercises we did together in class (though normally we'd be doing them together in groups on paper!) – the first few are inspired by [Zach Lieberman](http://thesystemis.com). In all of these, it's best not to think too much, just make marks quickly and see what results from the accumulation!
@@ -56,6 +62,7 @@ Below are some of the exercises we did together in class (though normally we'd b
 
 6. On a sheet of scratch paper (or your computer) write a set of simple instructions about what to do from the points you see here. When ready, start carrying out the instructions onscreen. It's totally ok if you get lost while others are drawing too!
 
+***
 
 ### INSPIRATION  
 Each week, we'll look at examples of historical and contemporary makers who use code or whose work relates to the ideas we're talking about. They'll be shown with commentary in the assignment's video, but you can also find links in this section and (some of) the images in each week's `Images` folder:  
@@ -72,6 +79,4 @@ Each week, we'll look at examples of historical and contemporary makers who use 
 * The massive [*DO IT* archive](http://projects.e-flux.com/do_it/manuals/0_manual.html) online  
 * ["Massively Multiplayer Soba"](http://www.tiltfactor.org/game/massively-multiplayer-urban-games/) at Conflux Festival  
 * Daniel John Jones' [*Cubic Interpolations*](http://www.erase.net/weblog/2013-07/cube-interpolations)  
-
-*Top: Sol LeWitt's *Six Geometric Figures,* an instruction-based wall drawing from 1980-81*
 

@@ -9,6 +9,7 @@
 * Finished version, exported as a `jpg`, due Oct 20 by 11am EST  
 * Upload `jpg` image to Canvas and include a link to `p5.js` code as a comment  
 
+***
 
 ### ASSIGNMENT  
 > "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
@@ -20,12 +21,14 @@ Code that uses randomness will generate different outputs every time it's run, w
 *Above: a detail of the drawing *Chance and Order Group VII, Drawing 6* by Kenneth Martin, made in 1971
 .*  
 
+***
 
 ### FOR TUESDAY, OCT 6  
 For next week, please create at least three different exploratory studies in code thinking about randomness. These should show a range of ideas and explore potential directions for the project. Think about all the ideas we've used so far (basic shape commands, iteration, design principles like color and composition) and how you might apply randomness to them. The goal is to pack as many randomly-controlled values into your sketch as possible! Dimensions for your sketch are up to you, though try to make it resize with the browser window if you can.
 
 **Please also watch the video about Open Source software and read the two PDFs in this week's `Readings` folder.** Think about your reaction to, thoughts about, and/or questions related to releasing software for free (for, against, confused, whatever) and write up points you'd like to discuss in class. Upload this as a comment on this assignment in Canvas.
 
+***
 
 ### FOR TUESDAY, OCT 20  
 **Note! The 13th is a Monday schedule, so we won't meet! The final version of your projects are due the following Tuesday.**
@@ -36,17 +39,20 @@ Run your sketch a bunch of times, saving each one to your computer. Go through t
 
 When you're done, upload your selected `jpg` to Canvas and add a link to your code as a comment.
 
+***
 
 ### CODE EXAMPLES/VIDEOS  
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDlRyO_BQ4MwQrOcuXwQg53x)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/068j0-ph-)  
 
+***
 
 ### DELIVERABLES  
 * Three or more initial code sketches, submitted as a comment on Canvas  
 * Final output, saved as a `jpg`, uploaded to Canvas (with a link to your code as a comment)  
 * Two questions/responses to the readings on Open Source, also posted as a comment  
 
+***
 
 ### STRETCH GOALS  
 Try adding these elements to your sketch:
@@ -54,6 +60,7 @@ Try adding these elements to your sketch:
 * Can you add the random parameters automatically to your exported filename, so you could recreate the image later?  
 * Could you use a hardware-based random number generation method (dice, coin toss, an algorithm of your own devising) to use as the `randomSeed()` every time you run your program? How could that be wrapped into the conceptual idea of your project?  
 
+***
 
 ### INSPIRATION  
 * [Exquisite corpse drawings](https://en.wikipedia.org/wiki/Exquisite_corpse), for example [the ones by Jake and Dinos Chapman](http://www.tate.org.uk/art/artworks/chapman-exquisite-corpse-p78458)  
@@ -73,8 +80,9 @@ Try adding these elements to your sketch:
 * [Torrit Grey](https://www.gamblincolors.com/torrit-grey) from Gamblin Paints  
 * And [*White Noise Boutique*](http://jeffreythompson.org/white-noise-boutique.php) by Jeff Thompson (me 😊)  
 
+***
 
-### ADDITIONAL RESOURCES  
+### RESOURCES  
 * Greate, practical [examples of using randomness in code](https://kynd.github.io/p5sketches/random.html) from kynd  
 * Some historical random number generating methods include [dice](https://en.wikipedia.org/wiki/Dice), [yarrow sticks](https://en.wikipedia.org/wiki/I_Ching_divination), [radio noise](https://www.random.org/history/), [lava lamps](https://en.wikipedia.org/wiki/Lavarand), [hard-drive entropy](https://en.wikipedia.org/wiki/Entropy_(computing)), and [various algorithms](https://en.wikipedia.org/wiki/Mersenne_Twister) (computed by hand or computer)  
 * More about the history of [Random.org](https://www.random.org/history/) and their [intro to random numbers](https://www.random.org/randomness/)  

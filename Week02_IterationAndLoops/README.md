@@ -10,6 +10,7 @@
 * See the code examples linked below and the video playlist for this week  
 * Email or drop into my office hours if you need help!  
 
+***
 
 ### ASSIGNMENT  
 One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. We'll use the ideas of iteration, matrix transformations, and custom functions to build algorithmically-generated quilts. After researching traditional quilt patterns and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of quilt designs programming makes possible!
@@ -18,6 +19,7 @@ One of the things computers are very good at is repetitious tasks: just the act 
 
 *Above: an example of a traditional "9-Patch" quilt pattern by Barabara Yoder from 1920*
 
+***
 
 ### FOR TUESDAY, SEPT 22  
 This week, you'll make some drawings of historical quilt patterns, then start prototyping in code.
@@ -28,12 +30,14 @@ This week, you'll make some drawings of historical quilt patterns, then start pr
 
 Your prototype quilt can be like a sketch: the main idea is there but there will be things you need help realizing or that aren't fully resolved. We'll do a breakout feedback session during class next week.
 
+***
 
 ### FOR TUESDAY, SEPT 29  
 This week, you should continue iterating and refining your quilt's design. Be specific in your choices: color, size, placement, visual rhythm, composition all matter. At the same time, be open to errors and "happy accidents" that can lead to new ideas. Additionally, see the `Strech Goals` section for things you can add to make your quilt even more amazing!
 
 When done, paste a link to your project's code in Canvas, noting that this is the final version.
 
+***
 
 ### CODE EXAMPLES/VIDEOS  
 Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
@@ -41,6 +45,7 @@ Each week, tutorials will be posted as a YouTube playlist and a collection of co
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDmS_p4z6oSGWvHQ__Nmd-g6)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/k7E124gxp)  
 
+***
 
 ### DELIVERABLES  
 * Drawings of at least 10 quilt patterns from Brackman's book/patterns you find elsewhere, photographed or scanned and uploaded to Canvas  
@@ -50,6 +55,7 @@ Each week, tutorials will be posted as a YouTube playlist and a collection of co
 
 (If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
+***
 
 ### STRETCH GOALS  
 Try adding these elements to your quilt:
@@ -59,8 +65,9 @@ Try adding these elements to your quilt:
 * Can you add an option to your functions to change the colors within the block? (Hint: you could pass colors as arguments.)  
 * Can you nest functions to generate larger blocks, which get repeated across the quilt, perhaps even rotated?  
 
+***
 
-### ADDITIONAL RESOURCES  
+### RESOURCES  
 * Barbara Brackman's *Encyclopedia of Pieced Quilt Patterns* includes over 1000 different quilt patterns (in the `Readings` folder)  
 * University of Nebraska–Lincoln's amazing [International Quilt Study Center](http://www.quiltstudy.org) and Museum includes an excellent [online collection](http://www.quiltstudy.org/collections/search.html) you can browse (searching by country is especially helpful)  
 * Read more about the [rich tradition of quilting in the Black community](https://datebook.sfchronicle.com/art-exhibits/uc-berkeley-art-museum-inherits-grand-trove-of-nearly-3000-african-american-quilts), especially [the work of Rosie Lee Tompkins](https://www.nytimes.com/interactive/2020/06/26/arts/design/rosie-lee-tompkins-quilts.html)  
@@ -69,6 +76,7 @@ Try adding these elements to your quilt:
 * And if you want to get mathier, read about [aperiodic tiling](https://en.wikipedia.org/wiki/Aperiodic_tiling), [Penrose tiles](https://en.wikipedia.org/wiki/Penrose_tiling), and [aperiodic sets of tiles](https://en.wikipedia.org/wiki/List_of_aperiodic_sets_of_tiles)  
 * Want to read about the birth of the function, created by Grace Hopper in 1952? See the `Optional Readings` section for this week  
 
+***
 
 ### INSPIRATION  
 * Historic quilts from around the world (see the `Images` folder for the details)  
