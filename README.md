@@ -79,13 +79,13 @@ Please note this is subject to change. Be sure to check Canvas, this page, and y
 
 | OCT 18     | [COLLAGE](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week06_Collage) |
 | :---       | :--- |
-| Note!      | Jeff out of town, class will meet online |  
+| **Note!**  | **Jeff out of town, class will meet online** |  
 | In class   | Loading images, resizing, accessing pixel values with `get()` |
 | Homework   | `Collaged Photographs` |
 
 | OCT 25     | [INTERACTIVITY 1](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week07_Interactivity) |
 | :---       | :--- |
-| Note!      | Jeff out of town, class will meet online |
+| **Note!**  | **Jeff out of town, class will meet online** |
 | In class   | Mouse and keyboard input, using an external editor |  
 | Homework   | `Interactivity` in-progress sketches |
 
