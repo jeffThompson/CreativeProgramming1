@@ -28,7 +28,9 @@ See the [syllabus PDF](https://github.com/jeffThompson/CreativeProgramming1/blob
 ### FORMAT  
 This semester we're finally back together in person! Our class time will be spent together critiquing your homework projects, covering technical material, introducing new assignments, looking at examples, group ideation and feedback exercises, and work time. Attendance will be taken at the start of class every week.
 
-Because we will cover a lot of material this semester and because this course will be both rigorous and thorough, it’s really important that you stay on top of your coursework. :warning: **Don’t hesitate to reach out if you have any questions at all! Better to ask a question than be unsure of something.**  
+Because we will cover a lot of material this semester and because this course will be both rigorous and thorough, it’s really important that you stay on top of your coursework. 
+
+:warning: **Don’t hesitate to reach out if you have any questions at all! Better to ask a question than be unsure of something.**  
 
 ***
  
@@ -39,9 +41,11 @@ Please note this is subject to change. Be sure to check Canvas, this page, and y
 | :---       | :--- |
 | In class   | Hello, introductions and syllabus, how to access course materials, instruction drawings |
 | Reading    | *Computer Graphics* (Mohr)|
-| Homework   | `Instruction Drawing`|
+| Homework   | `Instruction Drawings`|
 
-| SEPT 6     | LABOR DAY, NO CLASS! |  
+| SEPT 6     | LABOR DAY, NO CLASS! |
+| :---       | :--- |
+| Homework   | Finish `Instruction Drawings`|  
 
 | SEPT 13    | [DRAWING && COORDINATE SYSTEMS](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week01_DrawingBasics) |
 | :---       | :--- |
@@ -65,6 +69,8 @@ Please note this is subject to change. Be sure to check Canvas, this page, and y
 | Homework   | `Randomness` code sketches |
 
 | OCT 11     | COLUMBUS DAY, CLASS MEETS ON TUESDAY! |
+| :---       | :--- |
+| Homework   | Finish `Randomness` code sketches |
 
 | OCT 12     | [RANDOMNESS 2 (and ⊨ Open Source)](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week04_Randomness) |
 | :---       | :--- |
