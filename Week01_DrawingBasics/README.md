@@ -3,25 +3,25 @@
 # ROBOT DRAWINGS
 
 ### TLDR  
-* Due September 15 by 11am EST  
+* Due September 20  
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `p5.js` code to Canvas  
 * See the code examples linked below and the video playlist for this week  
-* Email or drop into my office hours if you need help!  
+* Email or drop into my student hours if you need help!  
 
 ***
 
 ### ASSIGNMENT  
 Today, we have amazingly complex programs for making art using computers like Photoshop and Maya. But the concepts behind these tools are the same as they were in the earliest days of computer graphics: basic shapes, a coordinate system, pixels and colors on a screen. This week, we'll explore these as our foundational toolset, get more familiar thinking about images as numbers and positions, and making things with code.
 
-Building on the code examples we saw this week, your assignment is to generate one drawing of a robot using only code. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. Your robot can be any style you like and doesn't have to be based on an existing one. This project is about practicing code and making something that looks really great!
+Building on the code examples we saw this week, your assignment is to generate a drawing of a robot using only code. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. Your robot can be any style you like and doesn't have to be based on an existing one. This project is about practicing code and making something that looks really great!
 
-If you already have some coding experience, please try to just use the methods we learned this week – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for-loops, interactivity, or animation please!
+If you already have some coding experience, please try to just use the methods we learned this week – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for-loops, interactivity, or animation please!
 
 ***
 
 ### CODE EXAMPLES/VIDEOS/TEMPLATE  
-Each week, tutorials will be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
+Each week, we'll go over code tutorials together in class but they will also be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
 
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDkQQXQwjgoAORziwqgleYaJ)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW)  
@@ -31,9 +31,9 @@ Each week, tutorials will be posted as a YouTube playlist and a collection of co
 
 ### DELIVERABLES  
 * Sketch that runs at `600x600px` or resizes to fit the browser window  
-* Upload link to your code in the `p5.js` editor to Canvas by 11am EST on the due date (if you're working with an external editor, just copy/paste the code into the `P5JS` editor)  
+* Upload link to your code in the `p5.js` editor to Canvas by the start of class on the due date (if you're working with an external editor, just copy/paste the code into the `P5JS` editor)  
 
-(If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
+(If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my student hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
 ***
 
@@ -59,7 +59,7 @@ Many of the examples we'll look at each week are in the `Images` folder!
 ***
 
 ### BONUS  
-An example of how people used to "export" images from code in the early days of computer graphics: taking a photo of an oscilloscope screen!
+An example of how people used to "export" images from code in the early days of computer graphics: taking a photo of an oscilloscope screen!
 
 ![Image of a large Polaroid camera connected to an oscilloscope](https://raw.githubusercontent.com/jeffThompson/CreativeProgramming1/master/Week01_DrawingBasics/Images/OscilloscopeCamera.jpg)
 

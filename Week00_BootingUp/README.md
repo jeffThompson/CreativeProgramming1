@@ -3,35 +3,39 @@
 # BOOTING UP  
 
 ### TLDR  
-* Due September 8 by 11am EST  
-* Make a drawing using instructions you create  
-* Upload a photo or scan of your drawing to Canvas  
-* Type the instructions used to create it as a comment on your submission  
-* Read *Computer Graphics* by Manfred Mohr and write a 1-paragraph response (also as a comment)  
+* **Sept 6 is Labor Day, no class!**  
+* Due September 13 by the start of class  
+* Create your own instructions for making a drawing    
+* Type and print (or hand-write) the instructions  
+* Make a drawing yourself **and** have someone else make a drawing using your instructions  
+* Read *Computer Graphics* by Manfred Mohr and write a 1-paragraph response; submit on Canvas  
 
 ***
 
 ### ASSIGNMENT  
 
-> "The idea becomes a machine that makes the art." – Sol LeWitt  
+> "The idea becomes a machine that makes the art." – Sol LeWitt  
 
-As a way to start thinking about writing code, but without the hassle of learning syntax and finding missing semicolons, we're going to make some drawings ~together~ using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
+As a way to start thinking about writing code, but without the hassle of learning syntax and fixing errors, we're going to make some drawings ~together~ using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
 
-Using our in-class work as inspiration, create a more involved drawing using instructions you create. You will want to experiment and test what different instructions and variations will do – this is called "iterative development" and is exactly what we'll do when we start writing code! You can make your drawing collaboratively or by yourself. 
+Using our in-class work as inspiration, create a more involved drawing using instructions you create. You will want to experiment and test what different instructions and variations will do – this is called "iterative development" and is exactly what we'll do when we start writing code! When ready, print or hand-write your instructions (bring this to class!). Feel free to think of the instructions as a visual part of the piece if you want: typography, layout, etc can add to the piece.
 
-The goal is a much more fully-developed drawing that produces surprising results and feels finished. The drawings should fill an `8.5x11"` sheet of paper or larger (`larger == better`, probably), and should include a separate set of written instructions. Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc.
+You should make two drawings using your instructions this week: one produced by you and one by someone else. The goal is much more fully-developed drawings (especially the one you make) that produces surprising results and feels finished. The drawings should fill an `8.5x11"` sheet of paper or larger (`larger === better`, probably). Consider also the presentation of your drawing and instructions: keep everything neat and clean, select drawing implements that make sense for your particular instructions, fonts for the instruction sheet, etc.
 
-Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readings` folder and write a one-paragraph response, posted as a comment on your drawing's submission on Canvas. Think about the drawings we made in class together and Mohr's essay: how does making art through instructions differ from other ways you've made things before? Are you excited by the idea of instructions defining a creative process? What is the role of intuition in this process? Is anything gained or lost making in this way? Mohr refers to the algorithm as a "partner" – did this process feel like that to you?
+**Bring your instructions and both drawings to class next week.** We'll take a look at them together and put up an exhibition of them in the hall. No need to turn in your drawings on Canvas.
+
+Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readings` folder and write a one-paragraph response, submitted on Canvas. Think about the drawings we made in class together and Mohr's essay: how does making art through instructions differ from other ways you've made things before? Are you excited by the idea of instructions defining a creative process? What is the role of intuition in this process? Is anything gained or lost making in this way? Mohr refers to the algorithm as a "partner" – did this process feel like that to you?
 
 *Above: Sol LeWitt's *Six Geometric Figures,* an instruction-based wall drawing from 1980-81*
 
 ***
 
 ### DELIVERABLES    
-* A drawing made following your instructions, filling at least `8.5x11"`  
-* Drawing uploaded to the assignment on Canvas (either a photo or scan), with your instructions typed up as a comment on your submission  
+* A drawing made by you following your instructions, filling at least `8.5x11"`  
+* A second drawing, made by someone else, also following your instructions  
+* Response to the `Mohr` article, posted to Canvas  
 
-:warning: **If you have any problems with Canvas or the assignment, don't hesitate to email me or drop into my Zoom hours! Since we'll be working with technical material (and will be nearly all online this semester) it's important you be proactive in getting help. Don't be shy!**
+:warning: **If you have any problems with Canvas or the assignment, don't hesitate to email me or drop into student hours! Since we'll be working with a lot of technical material this semester, it's important you be proactive in getting help. Don't be shy!**
 
 ***
 
@@ -39,12 +43,12 @@ Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readin
 If you get really excited about your instruction drawing, here's a few things you can try:
 
 * Carry out the instructions a few different times and see how the results differ (they may also form a nice [diptych](https://en.wikipedia.org/wiki/Diptych) or [triptych](https://en.wikipedia.org/wiki/Triptych))  
-* Ask other people to do a drawing from your instructions and compare the results  
+* Ask more people to do a drawing from your instructions and compare the results  
 
 ***
 
 ### IN-CLASS DRAWINGS  
-Below are some of the exercises we did together in class (though normally we'd be doing them together in groups on paper!) – the first few are inspired by [Zach Lieberman](http://thesystemis.com). In all of these, it's best not to think too much, just make marks quickly and see what results from the accumulation!
+Below are some of the exercises we did together in class. The first few are inspired by [Zach Lieberman](http://thesystemis.com). In all of these, it's best not to think too much, just make marks quickly and see what results from the accumulation!
 
 1. Draw a dot in a point that is as far from the other dots as possible. Repeat many times and as quickly as possible.  
 
