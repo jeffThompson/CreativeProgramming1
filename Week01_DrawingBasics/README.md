@@ -52,7 +52,7 @@ Want to make your robot really awesome? Try these challenges:
 Many of the examples we'll look at each week are in the `Images` folder!
 
 * The collages of [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse), who used simple shapes to create beautiful and dynamic drawings  
-* Osamu Sato's book *The Art of Computer Designing: A Black and White Approach*  
+* Osamu Sato's book [*The Art of Computer Designing: A Black and White Approach*](https://archive.org/details/satoArtOfComputerDesigning)  
 * Illustrators who use simple shapes to great effect:  
   * [Elton Kūns](https://theycallmeelton.tumblr.com)  
   * [Matt Carlson](https://www.instagram.com/plaidmtn)  
