@@ -4,6 +4,7 @@
 
 ### TLDR  
 * Due September 20  
+* Make a drawing of a robot using only code!  
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `p5.js` code to Canvas  
 * See the code examples linked below and the video playlist for this week  
@@ -16,12 +17,12 @@ Today, we have amazingly complex programs for making art using computers like Ph
 
 Building on the code examples we saw this week, your assignment is to generate a drawing of a robot using only code. Use any combination of shapes, color, stroke, transparency, etc to make your robots as detailed as possible. Your robot can be any style you like and doesn't have to be based on an existing one. This project is about practicing code and making something that looks really great!
 
-If you already have some coding experience, please try to just use the methods we learned this week – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and Processing's drawing functions. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making functions to clean up your code is ok, but no for-loops, interactivity, or animation please!
+If you already have some coding experience, please try to just use the methods we learned this week – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and the `p5.js` drawing commands. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making variables and functions to clean up your code is ok, but no for-loops, interactivity, or animation please!
 
 ***
 
 ### CODE EXAMPLES/VIDEOS/TEMPLATE  
-Each week, we'll go over code tutorials together in class but they will also be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor:
+Each week, we'll go over code tutorials together in class but they will also be posted as a YouTube playlist and a collection of code examples in the `p5.js` editor as well:
 
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDkQQXQwjgoAORziwqgleYaJ)  
 * [Code examples in the `p5.js` Editor](https://editor.p5js.org/jeffThompson/collections/HHgNMqgbW)  
@@ -30,10 +31,11 @@ Each week, we'll go over code tutorials together in class but they will also be 
 ***
 
 ### DELIVERABLES  
-* Sketch that runs at `600x600px` or resizes to fit the browser window  
+* Drawing of a robot (as detailed as possible) using only code  
+* Sketch should be `600x600px` or resizes to fit the browser window  
 * Upload link to your code in the `p5.js` editor to Canvas by the start of class on the due date (if you're working with an external editor, just copy/paste the code into the `P5JS` editor)  
 
-(If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my student hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
+(If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into student hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
 ***
 
@@ -51,7 +53,15 @@ Many of the examples we'll look at each week are in the `Images` folder!
 
 * The collages of [Henri Matisse](https://en.wikipedia.org/wiki/Henri_Matisse), who used simple shapes to create beautiful and dynamic drawings  
 * Osamu Sato's book *The Art of Computer Designing: A Black and White Approach*  
-* Illustrators like [Elton Kūns](https://theycallmeelton.tumblr.com), [Matt Carlson](https://www.instagram.com/plaidmtn), [Erin Aniker](https://www.instagram.com/erinaniker), [Ori Toor](https://oritoor.com), [Ricardo Cavolo](http://ricardocavolo.com/art), [Malika Favre](https://www.instagram.com/malikafavre), [Ruby Taylor](https://www.instagram.com/rubyst), and [Mike Perry](https://www.mikeperrystudio.com) who use simple shapes to great effect  
+* Illustrators who use simple shapes to great effect:  
+  * [Elton Kūns](https://theycallmeelton.tumblr.com)  
+  * [Matt Carlson](https://www.instagram.com/plaidmtn)  
+  * [Erin Aniker](https://www.instagram.com/erinaniker)  
+  * [Ori Toor](https://oritoor.com)  
+  * [Ricardo Cavolo](http://ricardocavolo.com/art)  
+  * [Malika Favre](https://www.instagram.com/malikafavre)  
+  * [Ruby Taylor](https://www.instagram.com/rubyst)  
+  * [Mike Perry](https://www.mikeperrystudio.com)  
 * WIRED's list of [*The 50 Best Robots Ever*](https://www.wired.com/2006/01/robots-3)  
 * The very sad [Ketchup bot](https://www.youtube.com/watch?v=dbbque0Y4FU)  
 * Some amazing robot art (which connects creative programming to a ton of other rad disciplines!) by [Ian Ingram](https://www.ianingram.org), [Dan Chen](https://dankc.com/robotics), and [Sougwen Chung](https://sougwen.com)   

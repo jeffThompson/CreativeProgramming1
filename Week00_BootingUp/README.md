@@ -33,7 +33,7 @@ Lastly, please also read Manfred Mohr's *Computer Graphics* essay in the `Readin
 ### DELIVERABLES    
 * A drawing made by you following your instructions, filling at least `8.5x11"`  
 * A second drawing, made by someone else, also following your instructions  
-* Response to the `Mohr` article, posted to Canvas  
+* Response to the Mohr article, posted to Canvas  
 
 :warning: **If you have any problems with Canvas or the assignment, don't hesitate to email me or drop into student hours! Since we'll be working with a lot of technical material this semester, it's important you be proactive in getting help. Don't be shy!**
 
@@ -44,6 +44,7 @@ If you get really excited about your instruction drawing, here's a few things yo
 
 * Carry out the instructions a few different times and see how the results differ (they may also form a nice [diptych](https://en.wikipedia.org/wiki/Diptych) or [triptych](https://en.wikipedia.org/wiki/Triptych))  
 * Ask more people to do a drawing from your instructions and compare the results  
+* Create bifurcations or choices in the instructions, which will cause the results to vary every time they are carried out  
 
 ***
 
@@ -69,7 +70,7 @@ Below are some of the exercises we did together in class. The first few are insp
 ***
 
 ### INSPIRATION  
-Each week, we'll look at examples of historical and contemporary makers who use code or whose work relates to the ideas we're talking about. They'll be shown with commentary in the assignment's video, but you can also find links in this section and (some of) the images in each week's `Images` folder:  
+Each week, we'll look at examples of historical and contemporary makers who use code or whose work relates to the ideas we're talking about. We'll talk about them in class and they'll be shown with commentary in the assignment's video, but you can also find links in this section and (some of) the images in each week's `Images` folder:  
 
 * [Edward Pickering's](https://en.wikipedia.org/wiki/Edward_Charles_Pickering) human computers doing astronomical calculations  
 * WPA's [Mathematical Tables Project](https://en.wikipedia.org/wiki/Mathematical_Tables_Project)  

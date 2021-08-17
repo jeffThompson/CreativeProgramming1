@@ -13,11 +13,11 @@
 | :---           | :--- |  
 | Email          | jeff.thompson@stevens.edu |  
 | Time/location  | Mondays 9am–12.50pm, Morton 201 |  
-| Student hours  | Tuesdays 10am–noon, Morton 208 |  
+| Student hours  | Tuesdays 10am–noon (Morton 208) and by appointment (Zoom) |  
 
 In this class, we will explore the computer as a tool capable of powerful creative possibility, not via pre-built software, but instead by writing code ourselves. We will look at the basic structures and affordances of code as inspiration for making artworks, as a tool capable of creating things that would be impossible by hand, and as a fallible system that encapsulates our cultural and personal biases.
 
-During the course of the semester, you’ll learn how to write code for a variety of visual projects, including image, text, and interaction. We’ll primarily be using [`p5.js`](https://p5js.org), an offshoot of Processing (which turns twenty years old this year!) that was originally developed by [Lauren McCarthy](https://lauren-mccarthy.com). `p5.js` is a toolkit created specifically for artists and designers build on the Javascript programming language and features a really [easy-to-use online code editor](https://editor.p5js.org).
+During the course of the semester, you’ll learn how to write code for a variety of visual projects, including images, animations, and interactive work. We’ll primarily be using [`p5.js`](https://p5js.org) that was originally developed by [Lauren McCarthy](https://lauren-mccarthy.com) and is an offshoot of [Processing](https://processing.org) (which turns twenty years old this year!). `p5.js` is a toolkit created specifically for artists and designers build on the Javascript programming language and features a really [easy-to-use online code editor](https://editor.p5js.org).
 
 Along the way, we’ll also look at historical and contemporary figures in the arts and computer science who have shaped how we use computers as creative tools, and we’ll explore code from a critical, humanistic perspective.
 
