@@ -16,7 +16,7 @@
 
 > "The idea becomes a machine that makes the art." – Sol LeWitt  
 
-As a way to start thinking about writing code, but without the hassle of learning syntax and fixing errors, we're going to make some drawings ~together~ using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
+As a way to start thinking about writing code, but without the hassle of learning syntax and fixing errors, we're going to make some drawings together using instructions that define what marks we can make and where they go. This mimics a few things that happen when we run code: instructions are carried out exactly as they are written, that suprising things can result from limited instructions, and that there is a rich and interesting tradition of artists and designers working this way. 
 
 Using our in-class work as inspiration, create a more involved drawing using instructions you create. You will want to experiment and test what different instructions and variations will do – this is called "iterative development" and is exactly what we'll do when we start writing code! When ready, print or hand-write your instructions (bring this to class!). Feel free to think of the instructions as a visual part of the piece if you want: typography, layout, etc can add to the piece.
 
@@ -51,21 +51,19 @@ If you get really excited about your instruction drawing, here's a few things yo
 ### IN-CLASS DRAWINGS  
 Below are some of the exercises we did together in class. The first few are inspired by [Zach Lieberman](http://thesystemis.com). In all of these, it's best not to think too much, just make marks quickly and see what results from the accumulation!
 
-1. Draw a dot in a point that is as far from the other dots as possible. Repeat many times and as quickly as possible.  
+1. Draw a dot in a point that is as far from the other dots as possible. Repeat many times as quickly as possible  
 
-2. From the end of an existing line, draw a straight line of any length and angle. Then add a new straight line somewhere else on the page. No lines should touch any other. Repeat.  
+2. Draw a straight line of any length and angle. Next person: from the end of an existing line, draw a straight line of any length/angle. Then add a new straight line somewhere else on the page. No lines should touch each other  
 
-3. Draw a blob (random, round-ish shape) of any size that intersects with another blob but doesn't touch any others. Repeat.  
+3. Draw a blob (random, round-ish shape) of any size. Your blob should intersect with another blob but shouldn’t touch any others. Repeat  
 
-4. Draw a curving line from the edge of the paper inwards. No lines should touch. Repeat.  
+4. Draw a curving line from the edge of the paper inwards. No lines should touch. Repeat  
 
-5. Modified version of Sol LeWitt's *Work From Instructions* (1971):  
-`WITHIN EACH ONE INCH SQUARE,`  
-`DRAW NOTHING, OR`  
-`DRAW A DIAGONAL STRAIGHT LINE FROM CORNER TO CORNER, OR`  
-`TWO CROSSING STRAIGHT LINES DIAGONALLY FROM CORNER TO CORNER`  
+5. (Using the sheets provided) Write a set of simple instructions about what to do with the points you see on the page. Pass them to the person on your right/ Start carrying out the instructions as best you can. Work quickly: it’s ok if you get confused, just go for it!  
 
-6. On a sheet of scratch paper (or your computer) write a set of simple instructions about what to do from the points you see here. When ready, start carrying out the instructions onscreen. It's totally ok if you get lost while others are drawing too!
+6. Modified version of Sol LeWitt's *Work From Instructions* (1971): Within each one-inch square… Draw nothing, or… Draw a diagonal straight line from corner to corner, or… Draw two crossing straight lines diagonally from corner to corner. Repeat across the entire grid.  
+
+7. From La Monte Young’s *#10 (“to Bob Morris”)*: Draw a straight line and follow it. (This one is hard, just try something!)  
 
 ***
 
