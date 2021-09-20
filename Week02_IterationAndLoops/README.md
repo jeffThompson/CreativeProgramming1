@@ -3,12 +3,12 @@
 # ALGORITHMIC QUILTS
 
 ### TLDR  
-* Initial drawings and "quilt block" code due Sept 27 by 9am
+* Research drawings and "quilt block" code due Sept 27 by 9am
 * Final quilt due Oct 4 by 9am
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `p5.js` code to Canvas  
 * See the code examples linked below and the video playlist for this week  
-* Email or drop into my office hours if you need help!  
+* Email or drop into my student hours if you need help!  
 
 ***
 
@@ -29,7 +29,7 @@ This week, you'll start by making some drawings of historical quilt patterns:
 1. Look at Barbara Brackman's *Encyclopedia of Pieced Quilt Patterns* (in the `Readings` folder) as well as the links below, finding at least 10 that you like. Note the pattern name/number or other info so you can find it again.  
 2. Make a detailed drawing (either by hand or digitally) of each one – the goal is to really get in and understand the pattern. (If you'd like to use it, there is some printable graph paper in the `Resources` folder.)
 
-With your research in hand, this week you should create a "quilt block," a section of the quilt that's repeated over and over. (Don't worry about how to do the repetition part yet!)
+With your research in hand, this week you should create a ["quilt block,"](https://en.wikipedia.org/wiki/Motif_(textile_arts)) a section of the quilt that's repeated over and over. (Don't worry about how to do the repetition part yet!)
 
 1. Create a sketch (any size) in the `p5.js` Editor  
 2. Make a pattern using the drawing commands we covered last week *and at least two for-loops*  
