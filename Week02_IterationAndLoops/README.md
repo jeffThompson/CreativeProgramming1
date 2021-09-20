@@ -3,8 +3,8 @@
 # ALGORITHMIC QUILTS
 
 ### TLDR  
-* Initial drawings due Sept 22 by 11am EST  
-* Final quilt due Sept 29 by 11am EST  
+* Initial drawings and "quilt block" code due Sept 27 by 9am
+* Final quilt due Oct 4 by 9am
 * Sketch should be `600x600px` or resize with the browser  
 * Upload link to `p5.js` code to Canvas  
 * See the code examples linked below and the video playlist for this week  
@@ -13,7 +13,9 @@
 ***
 
 ### ASSIGNMENT  
-One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. We'll use the ideas of iteration, matrix transformations, and custom functions to build algorithmically-generated quilts. After researching traditional quilt patterns and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of quilt designs programming makes possible!
+One of the things computers are very good at is repetitious tasks: just the act of displaying fetching this web page and displaying the text likely required millions of mathematical computations, all happening in just a few seconds. We'll use the ideas of iteration, matrix transformations, and custom functions to build algorithmically-generated quilts. After researching traditional quilt patterns and doing some drawing by hand, we'll move to code where you'll write a sketch that generates a quilt. 
+
+The goal is not to replicate traditional designs directly, but be inspired by them to create your own. Think about what kinds of quilt designs programming makes possible!
 
 (Want to see what this process might have looked like in 1984? See [this article in *Compute! Gazette* issue 13](https://archive.org/stream/1984-07-computegazette/Compute_Gazette_Issue_13_1984_Jul#page/n85/mode/2up) on page 83.)
 
@@ -21,18 +23,23 @@ One of the things computers are very good at is repetitious tasks: just the act 
 
 ***
 
-### FOR TUESDAY, SEPT 22  
-This week, you'll make some drawings of historical quilt patterns, then start prototyping in code.
+### FOR SEPT 27  
+This week, you'll start by making some drawings of historical quilt patterns:  
 
 1. Look at Barbara Brackman's *Encyclopedia of Pieced Quilt Patterns* (in the `Readings` folder) as well as the links below, finding at least 10 that you like. Note the pattern name/number or other info so you can find it again.  
-2. Make a detailed drawing (either by hand or digitally) of each one – the goal is to really get in and understand the pattern. (If you'd like to use it, there is some printable graph paer in the `Resources` folder.)
-3. Start prototyping your quilt in the `p5.js` Editor. It should be inspired by the patterns you drew but also the visual opportunities that for-loops provide. Your finished piece doesn't have to look anything like a traditional quilt!  
+2. Make a detailed drawing (either by hand or digitally) of each one – the goal is to really get in and understand the pattern. (If you'd like to use it, there is some printable graph paper in the `Resources` folder.)
 
-Your prototype quilt can be like a sketch: the main idea is there but there will be things you need help realizing or that aren't fully resolved. We'll do a breakout feedback session during class next week.
+With your research in hand, this week you should create a "quilt block," a section of the quilt that's repeated over and over. (Don't worry about how to do the repetition part yet!)
+
+1. Create a sketch (any size) in the `p5.js` Editor  
+2. Make a pattern using the drawing commands we covered last week *and at least two for-loops*  
+3. Your block should be inspired by the patterns you drew but also the visual opportunities that for-loops provide – your finished piece doesn't have to look anything like a traditional quilt!  
+
+Next week, we'll look at how to wrap your block code into a custom function and draw them as a grid!
 
 ***
 
-### FOR TUESDAY, SEPT 29  
+### FOR OCT 4
 This week, you should continue iterating and refining your quilt's design. Be specific in your choices: color, size, placement, visual rhythm, composition all matter. At the same time, be open to errors and "happy accidents" that can lead to new ideas. Additionally, see the `Strech Goals` section for things you can add to make your quilt even more amazing!
 
 When done, paste a link to your project's code in Canvas, noting that this is the final version.
@@ -48,10 +55,10 @@ Each week, tutorials will be posted as a YouTube playlist and a collection of co
 ***
 
 ### DELIVERABLES  
-* Drawings of at least 10 quilt patterns from Brackman's book/patterns you find elsewhere, photographed or scanned and uploaded to Canvas  
-* Initial quilt sketch (Sept 17) that runs at `600x600px` or resizes to fit the browser window  
-* Finished version of your quilt sketch (Sept 28)  
-* Upload link to your initial and final code in the `p5.js` editor to Canvas by 11am EST on the due date  
+* Drawings of at least 10 quilt patterns from Brackman's book/patterns you find elsewhere, brought to class (no need to turn in on Canvas)  
+* Initial "quilt block" sketch (Sept 27) that at a fixed size or resizes to fit the browser window  
+* Finished version of your quilt sketch (Oct 4)  
+* Upload link to your initial and final code in the `p5.js` editor to Canvas by 9am on the due date  
 
 (If you have any technical issues with the `p5.js` Editor, Canvas, etc don't wait until the last minute! Please email me right away or pop into my office hours. Technical difficulties are not an excuse for late work, plus then you don't figure out what went wrong!)
 
@@ -63,7 +70,6 @@ Try adding these elements to your quilt:
 * Can you add a decorative border around your quilt?  
 * Add ["quilting"](https://en.wikipedia.org/wiki/Quilting) to your finished image (quilting is decorative stitching that is applied on top of the fabric pattern)  
 * Can you add an option to your functions to change the colors within the block? (Hint: you could pass colors as arguments.)  
-* Can you nest functions to generate larger blocks, which get repeated across the quilt, perhaps even rotated?  
 
 ***
 
