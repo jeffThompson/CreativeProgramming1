@@ -19,6 +19,8 @@ Building on the code examples we saw this week, your assignment is to generate a
 
 If you already have some coding experience, please try to just use the methods we learned this week – adding fancy code and leveraging what you know will be encouraged later, but for now I'd like you to get used to the coordinate system and the `p5.js` drawing commands. Think about how to leverage these simple tools (gradients drawn with lots of shapes of varying color, for example). Making variables and functions to clean up your code is ok, but no for-loops, interactivity, or animation please!
 
+Bonus: give your robot an appropriate name so we know what to call it during the critique!
+
 ***
 
 ### CODE EXAMPLES/VIDEOS/TEMPLATE  
