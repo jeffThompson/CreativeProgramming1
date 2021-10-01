@@ -7,7 +7,7 @@
 * Reading response on articles about Open Source software, added as comment on assignment  
 * Finished version, exported as a `jpg`, due Oct 18  
 * Upload `jpg` image to Canvas and include a link to `p5.js` code as a comment  
-* **Note!**  
+* **Scheduling note!**  
   * Oct 11: Indigenous Peoples' Day – class meets on Tuesday!  
   * Oct 18: Jeff out of town, meet on Zoom at 11am EST
 
