@@ -3,18 +3,19 @@
 # RANDOMNESS  
 
 ### TLDR  
-* Three (or more) exploratory sketches due Oct 6 by 11am EST  
+* Three (or more) exploratory sketches due Oct 12  
 * Reading response on articles about Open Source software, added as comment on assignment  
-* Oct 13 is a Monday schedule – no class!  
-* Finished version, exported as a `jpg`, due Oct 20 by 11am EST  
+* Finished version, exported as a `jpg`, due Oct 18  
 * Upload `jpg` image to Canvas and include a link to `p5.js` code as a comment  
+* Oct 11: Indigenous Peoples' Day – class meets on Tuesday!  
+* Oct 18: Jeff out of town, meet on Zoom at 11am EST
 
 ***
 
 ### ASSIGNMENT  
-> "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
+> "The computer is a unique device for the arts since it can function soley as an obedient tool with vast capabilities for controlling complicated and involved processes, but then again, full exploitation of its unique talents for controlled randomness and detailed algorithms could result in an entirely new machine – a creative artistic medium." – A. Michael Noll (1970)
 
-We've seen very clearly that the computer does exactly what you tell it, even if the result isn't what you intended 😂. But programming is also capable of what software art pioneer [A. Michael Noll](https://en.wikipedia.org/wiki/A._Michael_Noll) calls "controlled randomness," a creative tool that both breaks the computer's determinism and takes advantage of its capacity to quickly create ([seemingly](https://en.wikipedia.org/wiki/Pseudorandomness)) random values. For this assignment, you'll explore randomness as a tool that can be used to drive any visual parameter in your sketch – position, size, rotation, color, number of iterations, etc – and create results that are entirely unexpected.
+We've seen very clearly that the computer does exactly what you tell it, even if the result isn't what you intended 😂. But programming is also capable of what software art pioneer [A. Michael Noll](https://en.wikipedia.org/wiki/A._Michael_Noll) calls "controlled randomness," a creative tool that both breaks the computer's determinism and takes advantage of its capacity to quickly create ([seemingly](https://en.wikipedia.org/wiki/Pseudorandomness)) random values. For this assignment, you'll explore randomness as a tool that can be used to drive any visual parameter in your sketch – position, size, rotation, color, number of iterations, etc – and create results that are entirely unexpected.
 
 Code that uses randomness will generate different outputs every time it's run, which can be really exciting, too! Remember the idea of iterative development: run your sketch many times and keep the outputs that you like best. This can be a super cool way of working but maybe a little weird: it removes your artistic hand to a degree, leaving you to act as coordinator (writing code) and curator (selecting output to show) – very different than the way we make art with more traditional materials.
 
@@ -23,15 +24,15 @@ Code that uses randomness will generate different outputs every time it's run, w
 
 ***
 
-### FOR TUESDAY, OCT 6  
+### FOR OCT 12  
 For next week, please create at least three different exploratory studies in code thinking about randomness. These should show a range of ideas and explore potential directions for the project. Think about all the ideas we've used so far (basic shape commands, iteration, design principles like color and composition) and how you might apply randomness to them. The goal is to pack as many randomly-controlled values into your sketch as possible! Dimensions for your sketch are up to you, though try to make it resize with the browser window if you can.
 
 **Please also watch the video about Open Source software and read the two PDFs in this week's `Readings` folder.** Think about your reaction to, thoughts about, and/or questions related to releasing software for free (for, against, confused, whatever) and write up points you'd like to discuss in class. Upload this as a comment on this assignment in Canvas.
 
 ***
 
-### FOR TUESDAY, OCT 20  
-**Note! The 13th is a Monday schedule, so we won't meet! The final version of your projects are due the following Tuesday.**
+### FOR OCT 20  
+**Note! Jeff will be out of town this week – we'll meet on Zoom at 11am EST**
 
 For next week, please take your initial randomness studies and create a final iteration. Push the visual explorations you did last week: where can you add more randomized parameters? What happens when you start layering things? Can you create randomized systems driven by other randomized systems? How might you take a simple idea and push it to something beautiful (like Vera Molnar's deformed squares)?
 
