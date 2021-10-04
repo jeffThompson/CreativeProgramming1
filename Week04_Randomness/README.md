@@ -28,7 +28,7 @@ Code that uses randomness will generate different outputs every time it's run, w
 ### FOR OCT 12  
 For next week, please create at least three different exploratory studies in code thinking about randomness. These should show a range of ideas and explore potential directions for the project. Think about all the ideas we've used so far (basic shape commands, iteration, design principles like color and composition) and how you might apply randomness to them. The goal is to pack as many randomly-controlled values into your sketch as possible! Dimensions for your sketch are up to you, though try to make it resize with the browser window if you can.
 
-**Please also watch the video about Open Source software and read the two PDFs in this week's `Readings` folder.** Think about your reaction to, thoughts about, and/or questions related to releasing software for free (for, against, confused, whatever) and write up points you'd like to discuss in class. Upload this as a comment on this assignment in Canvas.
+**Please also read the two PDFs in this week's `Readings` folder about open source software.** Think about your reaction to, thoughts about, and/or questions related to releasing software for free (for, against, confused, whatever) and write up points you'd like to discuss in class. Upload this as a comment on this assignment in Canvas.
 
 ***
 

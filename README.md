@@ -68,9 +68,9 @@ Please note this is subject to change. Be sure to check Canvas, this page, and y
 | Readings   | *Open Source as Open Culture/Culture as Open Source* by Siva Vaidhyanathan and *Motives for Writing Free Software* by the Free Software Foundation |
 | Homework   | `Randomness` code sketches |
 
-| OCT 11     | COLUMBUS DAY, CLASS MEETS ON TUESDAY! |
+| OCT 11     | INDIGENOUS PEOPLES' DAY, CLASS MEETS ON TUESDAY! |
 | :---       | :--- |
-| Homework   | Finish `Randomness` code sketches |
+| Homework   | (See above) |
 
 | OCT 12     | [RANDOMNESS 2 (and ⊨ Open Source)](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week04_Randomness) |
 | :---       | :--- |
