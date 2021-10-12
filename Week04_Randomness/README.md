@@ -35,7 +35,7 @@ For next week, please create at least three different exploratory studies in cod
 ### FOR OCT 20  
 **Note! Jeff will be out of town this week – we'll meet on Zoom at 11am EST (link will be posted on Canvas)**
 
-For next week, please take your initial randomness studies and create a final iteration. Push the visual explorations you did last week: where can you add more randomized parameters? What happens when you start layering things? Can you create randomized systems driven by other randomized systems? How might you take a simple idea and push it to something beautiful (like Vera Molnar's deformed squares)?
+For next week, please take your initial randomness studies and create one final piece. Push the best parts of the visual explorations you did last week: where can you add more randomized parameters? What happens when you start layering things? Can you create randomized systems driven by other randomized systems? How might you take a simple idea and push it to something beautiful (like Vera Molnar's deformed squares)? *Try to use randomness in as many places in your sketch as possible!*
 
 Run your sketch a bunch of times, saving each one to your computer. Go through the results and pick your favorite. Think about the criteria you're using to select the best image – we'll talk about this in the crit.
 
