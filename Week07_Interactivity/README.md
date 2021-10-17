@@ -4,10 +4,10 @@
 
 ### TLDR
 * Make a sketch that responds to your mouse (and other inputs, if you want)
-* Work-in-progress sketch due Nov 3 by 11am EST; upload link to sketch in Canvas
-* (Note! We won't meet as a group on election day but I'll be available for drop-in hours)
-* Finished sketch due Nov 10 by 11am EST
-* Upload three screenshots showing your sketch running to Canvas and include a link to your code
+* Work-in-progress sketch due Nov 1; upload link to sketch in Canvas  
+* Finished sketch due Nov 8  
+* Upload three screenshots showing your sketch running to Canvas and include a link to your code  
+* **Scheduling note! We'll meet online on Nov 1 at 11am (Zoom link in Canvas); we meet IRL as usual on Nov 8**  
 
 ***
 
@@ -31,7 +31,7 @@ Think about ways the mouse, keyboard, and other inputs could change:
 * Complex conditions (nest if/else statements depending on interaction)
 * Constraining movement or changes using `map()`
 
-Remember! The way your finished code interacts with the viewer and the visual results it creates are what's important: fancy code + boring output = boring art. Same goes for ["feature creep"](https://en.wikipedia.org/wiki/Feature_creep) (aka the potpourri approach). Don't worry about trying to build a drawing app or physics simulation; instead, try thinking about ways to make the kinds of sketches you've created so far change using mouse and keyboard input.
+Remember! The way your finished code interacts with the viewer and the visual results it creates are what's important: fancy code + boring output = boring art. Same goes for ["feature creep"](https://en.wikipedia.org/wiki/Feature_creep) (aka the potpourri approach). Don't worry about trying to build a drawing app or physics simulation – it seems simple but you'll spend your whole time on technical problems. Instead, try making something that's visually engaging and where interactivity feels fun, interesting, and complex.
 
 *Above: an operator at a [SAGE console](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment), using a light pen.*
 
@@ -51,7 +51,7 @@ To run your sketch fullscreen:
 
 ### DELIVERABLES
 * Interactive sketch that uses mouse input (keyboard and other inputs optional)
-* Running in fullscreen mode and taking up the full width/height of the window
+* Running in fullscreen mode and taking up the full width/height of the window  
 * 3 screenshots showing your program running
 
 ***
