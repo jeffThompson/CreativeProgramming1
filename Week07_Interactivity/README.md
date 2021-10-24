@@ -7,7 +7,7 @@
 * Work-in-progress sketch due Nov 1; upload link to sketch in Canvas  
 * Finished sketch due Nov 8  
 * Upload three screenshots showing your sketch running to Canvas and include a link to your code  
-* **Scheduling note! We'll meet online on Nov 1 at 11am (Zoom link in Canvas); we meet IRL as usual on Nov 8**  
+* **Scheduling note! We'll meet online on Oct 25 at 11am (Zoom link in Canvas); we meet IRL as usual on Nov 1**  
 
 ***
 
