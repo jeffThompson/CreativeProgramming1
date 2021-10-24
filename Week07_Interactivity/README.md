@@ -3,7 +3,7 @@
 # INTERACTIVITY
 
 ### TLDR
-* Make a sketch that responds to your mouse (and other inputs, if you want)
+* Make a sketch that simultaneously responds in at least three ways to your mouse (add other inputs too, if you want)
 * Work-in-progress sketch due Nov 1; upload link to sketch in Canvas  
 * Finished sketch due Nov 8  
 * Upload three screenshots showing your sketch running to Canvas and include a link to your code  
@@ -36,6 +36,25 @@ Remember! The way your finished code interacts with the viewer and the visual re
 *Above: an operator at a [SAGE console](https://en.wikipedia.org/wiki/Semi-Automatic_Ground_Environment), using a light pen.*
 
 ***
+
+### FOR NOV 1  
+To start your project, please make a sketch that responds to your mouse in **at least three ways simultaneously**. Think about how you can use `map()` and the mouse coordinates to make something interesting and that feels exploratory: make us want to play with your piece!
+
+You might tie the mouse x/y coordinates to some of the visual elements listed above. You could also divide the screen into sections and have the mouse behave differently in each of them. Or something else! Try to be creative within this constraint but avoid the temptation to build a game or interface.
+
+This week is proof-of-concept and exploratory, so it's ok if your sketch is a little rough around the edges or you're not 100% sure how to do everything. When done, upload a link to your sketch to Canvas.
+
+***  
+
+### FOR NOV 8  
+
+For next week, please consider the feedback you got on your work in progress and finish the project. You can add additional behaviors, keyboard input, etc but you should also make the visuals feel finished and integrated.
+
+When done, take three screenshots that help us really understand what your program does. Documentation is a pain, especially after you've been working really hard! But it's also an important skill and helps people understand what you've made. Try to capture your sketch in ways that really show us what it does.
+
+Upload the screenshots to Canvas, along with a link to your finished sketch.
+
+***  
 
 ### CODE EXAMPLES/VIDEOS
 * [Video tutorials for this week](https://www.youtube.com/playlist?list=PLsGCUnpinsDkEBs6Ug9J_RCULw3D7Wj0P)
