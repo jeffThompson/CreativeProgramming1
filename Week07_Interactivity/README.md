@@ -4,6 +4,7 @@
 
 ### TLDR
 * Make a sketch that simultaneously responds in at least three ways to your mouse (add other inputs too, if you want)
+* Should run to fill the screen (use `width` and `height` variables!)  
 * Work-in-progress sketch due Nov 1; upload link to sketch in Canvas  
 * Finished sketch due Nov 8  
 * Upload three screenshots showing your sketch running to Canvas and include a link to your code  
