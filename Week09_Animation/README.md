@@ -3,10 +3,10 @@
 # ANIMATION  
 
 ### TLDR  
-* Make a sketch that includes three animated "scenes" that play automatically and include sound  
+* Make a sketch that includes three animated "scenes" that play automatically and includes sound  
 * Should run the full size of the browser window  
-* Work-in-progress sketch with rough versions of at least two scenes due Nov 17 by 11am EST; upload a screenshot of each scene to Canvas  
-* Finished sketch due Nov 24 by 11am EST  
+* Work-in-progress sketch with rough versions of at least two scenes due Nov 15; upload a screenshot of each scene to Canvas  
+* Finished sketch due Nov 29 (two weeks, while ideating for your final project)  
 * Upload two screenshots of each scene to Canvas  
 
 ***
@@ -19,7 +19,7 @@ For some prompts to consider, see the `Resources` folder for this week. This inc
 Overall, please keep your animations to under 3 minutes! Shorter is fine too, but think about giving scenes enough time to unfold and for us to get into them.
 
 **SCENES**  
-Your three "scenes" should be distinct parts that come one after another and should be triggered automatically. This might be based on a `millis()` or `frameCount` timer, or a condition being met (like an object reaching a certain point or an audio file ending). You should think about your sketch as a generative film: scenes that feel like parts of a cohesive whole. This might mean they build towards some kind of climax, are visually related or contrast with each other, etc. Think about the examples shown for ideas on what that might look like.
+Your three "scenes" should be distinct parts that come one after another and should be triggered automatically. This might be based on a `millis()` or `frameCount` timer, or a condition being met (like an object reaching a certain point or an audio file ending). You should think about your sketch as a generative film: parts (secenes) that feel like parts of a cohesive whole. This might mean they build towards some kind of climax, are visually related or contrast with each other, etc. Think about the examples shown for ideas on what that might look like.
 
 **SOUND**  
 Your animation should also include at least one sound. This can be background music/environmental sounds, sound effects triggered by different events, ambient sound, etc. Think about how sound creates a sense of space, context and flow (or contrasts or contradicts what we see visually). You can pull sounds from some of the websites listed in the `Resources` section below or record them yourself!
@@ -38,10 +38,10 @@ Your animation should also include at least one sound. This can be background mu
 ### DELIVERABLES  
 * Animation with at least three scenes  
   * Includes at least one sound (music or sound effects)  
-  * Starts either automatically (if you don't have background sound) or via a user interaction like a click  
+  * Starts via a user interaction like a click or key press  
   * Automatically switches to the next scene  
   * Runs fullscreen using `createCanvas(windowWidth, windowHeight)` (so you'll want to use `width` and `height` as much as possible)
-* Two screenshots of each scene, documenting the piece  
+* Turn in link to animation and two screenshots of each scene, documenting the piece  
 
 ***
 
@@ -53,6 +53,7 @@ Your animation should also include at least one sound. This can be background mu
 * Jennifer Reeves' [*The Girl's Nervy*](https://www.youtube.com/watch?v=P_9D_JB3TBA)  
 * John Whitney's [*Catalog*](https://www.youtube.com/watch?v=TbV7loKp69s)  
 * Stan VanDerBeek and Ken Knowlton's [*Poem Field No. 1*](https://www.youtube.com/watch?v=OsNmrCgwwQM)  
+* Larry Cuba's [*Calculated Movements*](https://www.youtube.com/watch?v=OkyqP-g_LrY)
 * Jonathan McCabe's [*Hivapolyflowpi_20171014*](https://vimeo.com/238159175) and [*excerpt_Colour_Bonemusic_one*](https://vimeo.com/253096080)  
 * Sabrina Ratté's [*RADIANCES V*](https://vimeo.com/245596919)  
 * Yoshi Sodeoka's [*Forays into Clamor IX*](https://vimeo.com/313601580) and [*Into Promenade*](https://vimeo.com/297493367)  
@@ -68,6 +69,8 @@ Your animation should also include at least one sound. This can be background mu
 * ZEITGUISED's [*emancipath*](https://www.zeitguised.com/emancipath#monobloc1-1)  
 * Satoshi Aizawa's [minimal GIF animations on Twitter](https://twitter.com/satoshi_aizawa?s=11)  
 * Matthieu Braccini's [*Egg McMuffin*](https://vimeo.com/354894903) (no, for real)  
+* Andy Wallace's [minimal code/maximal visuals](https://twitter.com/andy_makes/status/1388852058506383360?s=21)  
+* The work of [Daniel Savage](https://somethingsavage.com/)  
 
 ***
 
