@@ -5,9 +5,9 @@
 ### TLDR  
 * Make a sketch that includes three animated "scenes" that play automatically and includes sound  
 * Should run the full size of the browser window  
-* Work-in-progress sketch with rough versions of at least two scenes due Nov 15; upload a screenshot of each scene to Canvas  
-* Finished sketch due Nov 29 (two weeks, while ideating for your final project)  
-* Upload two screenshots of each scene to Canvas  
+* **For Nov 15:** work-in-progress sketch with rough versions of at least two scenes; upload a screenshot of each scene to Canvas  
+* **For Nov 22:** all three scenes in progress with sound; turn in one screenshot for each scene on Canvas  
+* **For Nov 29:** project due, upload two screenshots of each scene and a link to your animation  
 
 ***
 

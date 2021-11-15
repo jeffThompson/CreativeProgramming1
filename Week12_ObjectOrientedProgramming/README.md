@@ -103,7 +103,9 @@ addTopping(topping) {
 }
 ```
 
-A few things to note here! First, even though our method is a function, we don't add the word `function` at the start. Also, we need to remember `this` when accessing a variable in the class. We can use our new method like this:
+A few things to note here! First, even though our method is a function, we don't add the word `function` at the start. Also, we need to remember `this` when accessing a variable in the class. 
+
+We can use our new method like this:
 
 ```javascript
 pizza2.addTopping('pepperoni');
@@ -153,5 +155,5 @@ class Pizza {
 ### NEXT STEPS  
 We've seen how object-oriented programming lets us define a class for an object as a template, build a constructor with variables that we can access and update, and how we can add methods. In the code examples included here, we'll look at various ways we can use this idea to make our code cleaner, easier to read and update, and allow us to build super powerful and fun projects that would be difficult or impossible otherwise!
 
-To see more examples in action, the links at the top!
+To see more examples in action, the code and video examples linked at the top!
 
