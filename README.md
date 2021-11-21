@@ -119,10 +119,13 @@ Please note this is subject to change. Be sure to check Canvas, this page, and y
 | In class   | Project feedback, work day |
 | Homework   | Finish `Final Project` and documentation |
 
-| TBA        | [FINAL CRITIQUE/DOCUMENTATION DUE](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
+| DEC 13, 9AM | [FINAL CRITIQUE](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
 | :---       | :--- |
 | Crit       | Final critique of projects |
-| Files      | Documentation due on Canvas |
+
+| DEC 15, 5PM | [DOCUMENTATION DUE](https://github.com/jeffThompson/CreativeProgramming1/tree/master/Week11_FinalProject) |
+ :---       | :--- |
+| Online    | Project documentation due by 5pm on Canvas |
 
 *Topics noted with [⊨ symbol](https://en.wikipedia.org/wiki/Double_turnstile) are short explorations of topics that jump off from or surround programming in a creative context; the symbol ⊨ is used in the field of logic to mean that an idea semantically entails another*
 
