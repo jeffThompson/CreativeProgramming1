@@ -6,7 +6,7 @@
 * Documentation due online on Dec 15    
 
 ### TIMELINE  
-* **Nov 29:** project proposal and sketches  
+* **Nov 29:** project proposal and sketches (in class)  
 * **Dec 6:** in-progress check-in  
 * **Dec 13, 9–11am:** final critique (in Morton 201)  
 * **Dec 15, 5pm:** documentation due online  
@@ -35,7 +35,7 @@ None for this assignment, though we'll talk about object-oriented programming af
 
 ***
 
-## FOR NOVEMBER 29   
+## FOR NOVEMBER 29 (in class)   
 For next week, please write a short proposal for your project. The goal is to articulate your idea clearly, do a little research that contextualizes your project, and help you think through some of the technical challenges you might face.
 
 **PROPOSAL TEMPLATE**  
