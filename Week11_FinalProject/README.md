@@ -60,7 +60,7 @@ I'll hold additional student hours online this week ahead of our final critique.
 ***
 
 ## FOR DECEMBER 13, 9–11am (Morton 201)  
-For our final critique, your project should be completed and documentation turned in to Canvas. The critique is only two hours, so we'll go through rather quickly: have your work up and running on your computer and think ahead of time how best to show it.
+For our final critique, your project should be completed but no need to turn anything in online yet. The critique is only two hours, so we'll go through rather quickly: have your work up and running on your computer and think ahead of time how best to show it. *Be sure you submit your documentation by Wednesday!*
 
 **Note!** We won't meet at 8am (gross) and we'll be in our usual classroom, not what's listed online.
 
